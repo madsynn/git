@@ -1,0 +1,3983 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Matrix WordPress V1\n"
+"POT-Creation-Date: 2012-10-30 13:06+0800\n"
+"PO-Revision-Date: 2012-10-30 14:14+0800\n"
+"Last-Translator: Holger K <holger.iphone@googlemail.com>\n"
+"Language-Team: Billy Foo <billy.foo@outlook.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../Matrix-digi/404.php:12 ../MatrixV1.0/404.php:12
+msgid ""
+"Sorry, but the page is not found here. Perhaps you can try using the search "
+"box to search for it."
+msgstr "Ups, nichts gefunden. Versuche eine neue Suche über die Such-Funktion."
+
+#: ../Matrix-digi/archive.php:14 ../Matrix-digi/archive.php:16
+#: ../Matrix-digi/archive.php:18 ../MatrixV1.0/archive.php:14
+#: ../MatrixV1.0/archive.php:16 ../MatrixV1.0/archive.php:18
+#, php-format
+msgid "Archives - %s"
+msgstr "Archive - %s"
+
+#: ../Matrix-digi/archive.php:20 ../MatrixV1.0/archive.php:20
+#: ../twentyeleven/sidebar.php:19 ../twentyten/sidebar.php:27
+msgid "Archives"
+msgstr "Archive"
+
+#: ../Matrix-digi/archive.php:41 ../MatrixV1.0/archive.php:41
+msgid "Sorry, no results were found for the requested archive."
+msgstr "Ups, nichts in den Archiven gefunden."
+
+#: ../Matrix-digi/author.php:14 ../MatrixV1.0/author.php:14
+#, php-format
+msgid "Author : %s"
+msgstr "Autor: %s"
+
+#: ../Matrix-digi/author.php:39 ../MatrixV1.0/author.php:39
+msgid "Sorry, this author has not posted anything yet."
+msgstr "Ups, dieser Autor hat bisher keine Artikel verasst."
+
+#: ../Matrix-digi/category.php:26 ../MatrixV1.0/category.php:26
+msgid "Sorry, no results were found for the requested category."
+msgstr "Ups, für diese Kategorie wurden keine Artikel gefunden."
+
+#: ../Matrix-digi/comments.php:4 ../MatrixV1.0/comments.php:4
+msgid "Password Required"
+msgstr "Passwort erforderlich"
+
+#: ../Matrix-digi/comments.php:5 ../MatrixV1.0/comments.php:5
+#: ../twentyeleven/comments.php:17 ../twentyten/comments.php:18
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+"Dieser Beitrag ist passwortgeschützt. Gib das Passwort ein, um die Kommenare "
+"zu lesen."
+
+#: ../Matrix-digi/comments.php:20 ../MatrixV1.0/comments.php:20
+#: ../twentyten/loop.php:99 ../twentyten/loop.php:122
+#: ../twentyten/loop.php:164
+#, php-format
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 Kommentar"
+msgstr[1] "%1$s Kommentare"
+
+#: ../Matrix-digi/comments.php:32 ../MatrixV1.0/comments.php:32
+msgid "&laquo; Older Comments"
+msgstr "&laquo; Ältere Kommentare"
+
+#: ../Matrix-digi/comments.php:33 ../MatrixV1.0/comments.php:33
+msgid "Newer Comments &raquo;"
+msgstr "Neuere Kommentare &raquo;"
+
+#: ../Matrix-digi/comments.php:43 ../MatrixV1.0/comments.php:43
+#: ../twentyeleven/comments.php:72 ../twentyten/comments.php:72
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: ../Matrix-digi/comments.php:48 ../MatrixV1.0/comments.php:48
+msgid "No Comments"
+msgstr "Keine Kommentare"
+
+#: ../Matrix-digi/comments.php:57 ../MatrixV1.0/comments.php:57
+msgid "Your email address will not be published."
+msgstr "Deine Emailadresse wird nicht veröffentlicht."
+
+#: ../Matrix-digi/comments.php:58 ../MatrixV1.0/comments.php:58
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Du musst <a href=\"%s\">angemeldet sein</a>, um zu kommentieren."
+
+#: ../Matrix-digi/comments.php:59 ../MatrixV1.0/comments.php:59
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"Angemeldet als <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Aus "
+"diesem Konto abmelden\">Abmelden?</a>"
+
+#: ../Matrix-digi/comments.php:60 ../MatrixV1.0/comments.php:60
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+"Du kannst diese <abbr title=\"HyperText Markup Language\">HTML</abbr> Tags "
+"und Attribute verwenden: %s"
+
+#: ../Matrix-digi/comments.php:61 ../MatrixV1.0/comments.php:61
+msgid "Your comment"
+msgstr "Dein Kommentar"
+
+#: ../Matrix-digi/comments.php:63 ../MatrixV1.0/comments.php:63
+msgid "Name"
+msgstr "Name"
+
+#: ../Matrix-digi/comments.php:64 ../MatrixV1.0/comments.php:64
+msgid "Email"
+msgstr "Email"
+
+#: ../Matrix-digi/comments.php:65 ../MatrixV1.0/comments.php:65
+msgid "Website"
+msgstr "Website"
+
+#: ../Matrix-digi/content-portfolio.php:89
+#: ../MatrixV1.0/content-portfolio.php:86
+msgid "Client"
+msgstr "Klient"
+
+#: ../Matrix-digi/content-portfolio.php:102
+#: ../MatrixV1.0/content-portfolio.php:99
+msgid "Date"
+msgstr "Datum"
+
+#: ../Matrix-digi/content-single.php:71 ../MatrixV1.0/content-single.php:71
+msgid "Written by "
+msgstr "Von "
+
+#: ../Matrix-digi/functions.php:66 ../MatrixV1.0/functions.php:55
+msgid "Header Menu"
+msgstr "Header Menü"
+
+#: ../Matrix-digi/functions.php:83 ../MatrixV1.0/functions.php:72
+msgid "Right Sidebar"
+msgstr "Rechte Seitenleiste"
+
+#: ../Matrix-digi/functions.php:85 ../MatrixV1.0/functions.php:74
+msgid "Sidebar located at the right of Blog / Portfolio pages"
+msgstr "Seitenleiste auf Blog und Portfolio Seiten"
+
+#: ../Matrix-digi/functions.php:93
+msgid "Header Widgets"
+msgstr "Header Widgets"
+
+#: ../Matrix-digi/functions.php:95
+msgid "Widget area located at the header"
+msgstr "Widgets auf header"
+
+#: ../Matrix-digi/functions.php:103
+msgid "Footer Widgets"
+msgstr "Footer Widgets"
+
+#: ../Matrix-digi/functions.php:105
+msgid "Widget area located at the footer"
+msgstr "Widgets auf footer"
+
+#: ../Matrix-digi/functions.php:133 ../MatrixV1.0/functions.php:101
+msgid "The most recent posts on your site, displayed in 'Matrix' style"
+msgstr "Die letzten Artikel deiner Seite im 'Matrix' Stil"
+
+#: ../Matrix-digi/functions.php:134 ../MatrixV1.0/functions.php:102
+msgid "Matrix Latest Posts"
+msgstr "Matrix Letzte Artikel"
+
+#: ../Matrix-digi/functions.php:156 ../MatrixV1.0/functions.php:124
+msgid "Latest Articles"
+msgstr "Letzte Artikel"
+
+#: ../Matrix-digi/functions.php:272 ../MatrixV1.0/functions.php:240
+#: ../twentyeleven/inc/widgets.php:157
+msgid "Title:"
+msgstr "Titel:"
+
+#: ../Matrix-digi/functions.php:275 ../MatrixV1.0/functions.php:243
+#: ../twentyeleven/inc/widgets.php:160
+msgid "Number of posts to show:"
+msgstr "Anzahl angezeigter Artikel:"
+
+#: ../Matrix-digi/functions.php:285 ../MatrixV1.0/functions.php:253
+msgid "Get latest tweets"
+msgstr "Die letzten Tweets"
+
+#: ../Matrix-digi/functions.php:286 ../MatrixV1.0/functions.php:254
+msgid "Matrix Twitter Widget"
+msgstr "Matrix Twitter Widget"
+
+#: ../Matrix-digi/functions.php:291 ../MatrixV1.0/functions.php:259
+msgid "Latest Tweets"
+msgstr "Letzte Tweets"
+
+#: ../Matrix-digi/functions.php:296 ../MatrixV1.0/functions.php:264
+msgid "Title : "
+msgstr "Titel:"
+
+#: ../Matrix-digi/functions.php:298 ../MatrixV1.0/functions.php:266
+msgid "Username : "
+msgstr "Benutzername:"
+
+#: ../Matrix-digi/functions.php:300 ../MatrixV1.0/functions.php:268
+msgid "Number of Tweets : "
+msgstr "Anzahl Tweets:"
+
+#: ../Matrix-digi/functions.php:354 ../MatrixV1.0/functions.php:322
+msgid "Please enter a username"
+msgstr "Gib einen Benutzernamen ein"
+
+#: ../Matrix-digi/functions.php:357 ../MatrixV1.0/functions.php:325
+msgid "Please enter number of tweets"
+msgstr "Gib die Anzahl Tweets ein"
+
+#: ../Matrix-digi/functions.php:556 ../MatrixV1.0/functions.php:526
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: ../Matrix-digi/functions.php:560 ../MatrixV1.0/functions.php:530
+msgid "Enable lightbox"
+msgstr "Lightbox aktivieren"
+
+#: ../Matrix-digi/functions.php:565 ../MatrixV1.0/functions.php:535
+msgid "Tile size"
+msgstr "Kachelgröße"
+
+#: ../Matrix-digi/functions.php:568
+#: ../Matrix-digi/admin/functions/functions.options.php:99
+#: ../MatrixV1.0/functions.php:538
+#: ../MatrixV1.0/admin/functions/functions.options.php:99
+msgid "Small"
+msgstr "S"
+
+#: ../Matrix-digi/functions.php:576
+#: ../Matrix-digi/admin/functions/functions.options.php:100
+#: ../MatrixV1.0/functions.php:546
+#: ../MatrixV1.0/admin/functions/functions.options.php:100
+msgid "Medium"
+msgstr "M"
+
+#: ../Matrix-digi/functions.php:584
+#: ../Matrix-digi/admin/functions/functions.options.php:101
+#: ../MatrixV1.0/functions.php:554
+#: ../MatrixV1.0/admin/functions/functions.options.php:101
+msgid "Large"
+msgstr "L"
+
+#: ../Matrix-digi/functions.php:589 ../MatrixV1.0/functions.php:559
+msgid "Date Display"
+msgstr "Datumsanzeige"
+
+#: ../Matrix-digi/functions.php:593 ../MatrixV1.0/functions.php:563
+msgid "Show date on tile"
+msgstr "Zeige das Datum in der Kachel"
+
+#: ../Matrix-digi/functions.php:599 ../Matrix-digi/functions.php:605
+#: ../MatrixV1.0/functions.php:569 ../MatrixV1.0/functions.php:575
+msgid "Tile Animation"
+msgstr "Kachelanimation"
+
+#: ../Matrix-digi/functions.php:600 ../MatrixV1.0/functions.php:570
+msgid "Settings for the animation of this tile"
+msgstr "Einstellungen für Kachelanimationen"
+
+#: ../Matrix-digi/functions.php:609 ../MatrixV1.0/functions.php:579
+msgid "Enable tile animation"
+msgstr "Animation aktivieren"
+
+#: ../Matrix-digi/functions.php:632 ../MatrixV1.0/functions.php:602
+msgid "Mode of animation"
+msgstr "Animationstyp"
+
+#: ../Matrix-digi/functions.php:636 ../MatrixV1.0/functions.php:606
+msgid "Slide"
+msgstr "Slide"
+
+#: ../Matrix-digi/functions.php:637 ../MatrixV1.0/functions.php:607
+msgid "Flip"
+msgstr "Flip"
+
+#: ../Matrix-digi/functions.php:643 ../MatrixV1.0/functions.php:613
+msgid "Direction of animation"
+msgstr "Animationsrichtung"
+
+#: ../Matrix-digi/functions.php:647 ../MatrixV1.0/functions.php:617
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: ../Matrix-digi/functions.php:648 ../MatrixV1.0/functions.php:618
+msgid "Vertical"
+msgstr "Vertikal"
+
+#: ../Matrix-digi/functions.php:654 ../MatrixV1.0/functions.php:624
+msgid "Speed of animation (millisecond)"
+msgstr "Geschwindigkeit (Millisekunden)"
+
+#: ../Matrix-digi/functions.php:662 ../MatrixV1.0/functions.php:632
+msgid "Data delay (millisecond)"
+msgstr "Verzögerung (Millisekunden)"
+
+#: ../Matrix-digi/functions.php:670 ../MatrixV1.0/functions.php:640
+msgid "Data stops (percentage)"
+msgstr "Stops (Prozent)"
+
+#: ../Matrix-digi/functions.php:678 ../MatrixV1.0/functions.php:648
+msgid "Tile Image Stacking"
+msgstr "Kachelbild-Stapeln"
+
+#: ../Matrix-digi/functions.php:682 ../MatrixV1.0/functions.php:652
+msgid "Make tile move synchronously"
+msgstr "Kacheln synchron bewegen"
+
+#: ../Matrix-digi/functions.php:689 ../MatrixV1.0/functions.php:659
+msgid "Tile Display"
+msgstr "Kachelanzeige"
+
+#: ../Matrix-digi/functions.php:690 ../MatrixV1.0/functions.php:660
+msgid ""
+"Only upload front image if tile is not animated. Click <strong>Insert into "
+"Post</strong> after uploading."
+msgstr ""
+"Du brauchst nur ein Front-Bild hochladen, wenn Animationen deaktiviert sind. "
+"Vergiss nicht, nach dem Hochladen auf <strong>In Artikel einfügen</strong>."
+
+#: ../Matrix-digi/functions.php:723 ../MatrixV1.0/functions.php:685
+msgid "Front Image"
+msgstr "Front-Bild"
+
+#: ../Matrix-digi/functions.php:726 ../Matrix-digi/functions.php:742
+#: ../Matrix-digi/functions.php:819 ../Matrix-digi/functions.php:836
+#: ../Matrix-digi/functions.php:922 ../Matrix-digi/functions.php:1052
+#: ../Matrix-digi/admin/classes/class.options_machine.php:568
+#: ../Matrix-digi/social-bartender/settings.php:46
+#: ../MatrixV1.0/functions.php:688 ../MatrixV1.0/functions.php:697
+#: ../MatrixV1.0/functions.php:766 ../MatrixV1.0/functions.php:776
+#: ../MatrixV1.0/functions.php:950
+#: ../MatrixV1.0/admin/classes/class.options_machine.php:568
+#: ../MatrixV1.0/social-bartender/settings.php:46
+msgid "Upload"
+msgstr "Hochladen"
+
+#: ../Matrix-digi/functions.php:739 ../MatrixV1.0/functions.php:694
+msgid "Back Image"
+msgstr "Back-Bild"
+
+#: ../Matrix-digi/functions.php:755 ../MatrixV1.0/functions.php:703
+msgid ""
+"Or use options below if you don't have a tile image. These settings won't be "
+"applied if there is a tile image assigned above."
+msgstr ""
+"Oder verwende diese Optionen, falls Du keine Kachelbilde hast. Diese "
+"Einstellungen haben keinen Effekt, wenn Kachelbilder hochgeladen wurden."
+
+#: ../Matrix-digi/functions.php:760 ../Matrix-digi/functions.php:1013
+#: ../MatrixV1.0/functions.php:708 ../MatrixV1.0/functions.php:911
+msgid "Choose a colour"
+msgstr "Wähle eine Farbe"
+
+#: ../Matrix-digi/functions.php:764 ../Matrix-digi/functions.php:1017
+#: ../Matrix-digi/admin/functions/functions.options.php:141
+#: ../MatrixV1.0/functions.php:712 ../MatrixV1.0/functions.php:915
+#: ../MatrixV1.0/admin/functions/functions.options.php:141
+msgid "Theme Colour"
+msgstr "Theme Farbe"
+
+#: ../Matrix-digi/functions.php:765 ../Matrix-digi/functions.php:1018
+#: ../MatrixV1.0/functions.php:713 ../MatrixV1.0/functions.php:916
+msgid "Blue"
+msgstr "Blau"
+
+#: ../Matrix-digi/functions.php:766 ../Matrix-digi/functions.php:1019
+#: ../MatrixV1.0/functions.php:714 ../MatrixV1.0/functions.php:917
+msgid "Brown"
+msgstr "Braun"
+
+#: ../Matrix-digi/functions.php:767 ../Matrix-digi/functions.php:1020
+#: ../MatrixV1.0/functions.php:715 ../MatrixV1.0/functions.php:918
+msgid "Green"
+msgstr "Grün"
+
+#: ../Matrix-digi/functions.php:768 ../Matrix-digi/functions.php:1021
+#: ../MatrixV1.0/functions.php:716 ../MatrixV1.0/functions.php:919
+msgid "Lime"
+msgstr "Limette"
+
+#: ../Matrix-digi/functions.php:769 ../Matrix-digi/functions.php:1022
+#: ../MatrixV1.0/functions.php:717 ../MatrixV1.0/functions.php:920
+msgid "Magenta"
+msgstr "Magenta"
+
+#: ../Matrix-digi/functions.php:770 ../Matrix-digi/functions.php:1023
+#: ../MatrixV1.0/functions.php:718 ../MatrixV1.0/functions.php:921
+msgid "Mango"
+msgstr "Mango"
+
+#: ../Matrix-digi/functions.php:771 ../Matrix-digi/functions.php:1024
+#: ../MatrixV1.0/functions.php:719 ../MatrixV1.0/functions.php:922
+msgid "Pink"
+msgstr "Pink"
+
+#: ../Matrix-digi/functions.php:772 ../Matrix-digi/functions.php:1025
+#: ../MatrixV1.0/functions.php:720 ../MatrixV1.0/functions.php:923
+msgid "Purple"
+msgstr "Purpur"
+
+#: ../Matrix-digi/functions.php:773 ../Matrix-digi/functions.php:1026
+#: ../MatrixV1.0/functions.php:721 ../MatrixV1.0/functions.php:924
+msgid "Red"
+msgstr "Rot"
+
+#: ../Matrix-digi/functions.php:774 ../Matrix-digi/functions.php:1027
+#: ../MatrixV1.0/functions.php:722 ../MatrixV1.0/functions.php:925
+msgid "Teal"
+msgstr "Aquamarin"
+
+#: ../Matrix-digi/functions.php:780 ../Matrix-digi/functions.php:1033
+#: ../MatrixV1.0/functions.php:728 ../MatrixV1.0/functions.php:931
+msgid "Colour picker"
+msgstr "Colorpicker"
+
+#: ../Matrix-digi/functions.php:784 ../Matrix-digi/functions.php:1037
+#: ../MatrixV1.0/functions.php:732 ../MatrixV1.0/functions.php:935
+msgid "Use value from colour picker : "
+msgstr "Benutze den Wert des Colorpickers:"
+
+#: ../Matrix-digi/functions.php:791 ../MatrixV1.0/functions.php:739
+msgid "Choose an icon (optional)"
+msgstr "Wähle ein Icon (optional)"
+
+#: ../Matrix-digi/functions.php:795 ../MatrixV1.0/functions.php:743
+msgid "Use icon"
+msgstr "Icon verwenden"
+
+#: ../Matrix-digi/functions.php:797 ../MatrixV1.0/functions.php:745
+msgid "Dark Quote"
+msgstr "Zitat (dunkel)"
+
+#: ../Matrix-digi/functions.php:798 ../MatrixV1.0/functions.php:746
+msgid "White Quote"
+msgstr "Zitat (weiß)"
+
+#: ../Matrix-digi/functions.php:799 ../MatrixV1.0/functions.php:747
+msgid "Video"
+msgstr "Video"
+
+#: ../Matrix-digi/functions.php:800 ../Matrix-digi/functions.php:1068
+#: ../MatrixV1.0/functions.php:748 ../MatrixV1.0/functions.php:966
+msgid "Hyperlink"
+msgstr "Hyperlink"
+
+#: ../Matrix-digi/functions.php:801
+msgid "Password"
+msgstr "Passwort"
+
+#: ../Matrix-digi/functions.php:808 ../MatrixV1.0/functions.php:755
+msgid "Thumbnail Image for Archive"
+msgstr "Vorschaubild für Archive"
+
+#: ../Matrix-digi/functions.php:809 ../MatrixV1.0/functions.php:756
+msgid ""
+"This image is used at the archives as the thumbnail. Please upload the "
+"correct thumbnail size for the tile type set in the theme settings page. "
+"Note that you may need to reupload all thumbnails when you change the tile "
+"type for archive in order to have them displayed correctly."
+msgstr ""
+"Dieses Bild wird als Vorschaubild in den Archiven verwendet. Bitte lade die "
+"richtige Vorschaubildgröße hoch. Bitte beachte, dass Du das Bild erneut "
+"hochladen musst, wenn Du die Größe in den Einstellungen veränderst."
+
+#: ../Matrix-digi/functions.php:810 ../MatrixV1.0/functions.php:757
+msgid "Current tile type : "
+msgstr "Aktueller Titeltyp:"
+
+#: ../Matrix-digi/functions.php:816 ../MatrixV1.0/functions.php:763
+msgid "List Image"
+msgstr "Listenbild"
+
+#: ../Matrix-digi/functions.php:833 ../MatrixV1.0/functions.php:773
+msgid "Tile Image"
+msgstr "Kachelbild"
+
+#: ../Matrix-digi/functions.php:858 ../MatrixV1.0/functions.php:791
+msgid "Upload images for slider"
+msgstr "Bilder für den Slider hochladen"
+
+#: ../Matrix-digi/functions.php:859 ../MatrixV1.0/functions.php:792
+msgid ""
+"Note : If a featured image is set, only the featured image is displayed. The "
+"slider will be disabled."
+msgstr ""
+"Beachte: Wenn ein Artikelbild gewählt wurde, wird nur dieses angezeigt und "
+"der Slider deaktiviert."
+
+#: ../Matrix-digi/functions.php:870 ../MatrixV1.0/functions.php:803
+msgid "Upload Slider Images"
+msgstr "Slider Bilder hochladen"
+
+#: ../Matrix-digi/functions.php:871 ../MatrixV1.0/functions.php:804
+msgid "Images displayed at this post's slider :"
+msgstr "Bilder für den Slider dieses Artikels:"
+
+#: ../Matrix-digi/functions.php:919
+msgid "Full-size Image"
+msgstr "Bild voller Größe"
+
+#: ../Matrix-digi/functions.php:935 ../MatrixV1.0/functions.php:846
+msgid "Date of item"
+msgstr "Datum des Elements"
+
+#: ../Matrix-digi/functions.php:943 ../MatrixV1.0/functions.php:850
+msgid "Client Name"
+msgstr "Klient-Name"
+
+#: ../Matrix-digi/functions.php:951 ../MatrixV1.0/functions.php:854
+msgid "Client Website (optional)"
+msgstr "Klient-Website (optional)"
+
+#: ../Matrix-digi/functions.php:1007 ../MatrixV1.0/functions.php:905
+msgid "Post's Colour"
+msgstr "Artikelfarbe"
+
+#: ../Matrix-digi/functions.php:1008 ../MatrixV1.0/functions.php:906
+msgid ""
+"Used as the colour for the post's category and date on the tile, and in its "
+"single page."
+msgstr ""
+"Wird als Farbe für die Kategorie, das Datum und den Titel auf Kachel und "
+"Eintragsseite verwendet."
+
+#: ../Matrix-digi/functions.php:1045 ../MatrixV1.0/functions.php:943
+msgid "Embed"
+msgstr "Einbetten"
+
+#: ../Matrix-digi/functions.php:1046 ../MatrixV1.0/functions.php:944
+msgid ""
+"These fields support iframe embedding, these video formats: ogv, m4v and "
+"these audio formats: oga, ogg, mp3."
+msgstr ""
+"Dieses Feld unterstützt iframes in den Formaten ogv/m4v (Video) und oga, "
+"ogg, mp3 (Audio)."
+
+#: ../Matrix-digi/functions.php:1047 ../MatrixV1.0/functions.php:945
+msgid ""
+"Enter the url to be embedded into the field below. It will be displayed at "
+"the top of the post when the post format is <strong>Audio</strong> or "
+"<strong>Video</strong>."
+msgstr ""
+"Gib die URL des einzubettenden Elements unten ein. Es wird im Kopf des "
+"Artikels angezeigt, wenn das Format des Artikels Audio oder Video ist."
+
+#: ../Matrix-digi/functions.php:1049 ../MatrixV1.0/functions.php:947
+msgid ""
+"If you are using your own audio / video, you may wish to use an alternative "
+"file format for maximum browser support."
+msgstr ""
+"Wenn Du deine eigenen Audio/Video Dateien verwendest, wünscht Du die "
+"vielleicht ein anderes Format für maximalen Browser-Support."
+
+#: ../Matrix-digi/functions.php:1051 ../MatrixV1.0/functions.php:949
+msgid "Upload a poster image for your own video"
+msgstr "Bild für dein eigenes Video hochladen"
+
+#: ../Matrix-digi/functions.php:1054 ../MatrixV1.0/functions.php:952
+msgid "Enter the size of the video to override the default 16:9 ratio."
+msgstr "Gib eine Videogröße ein, um das Standard-Format 16:9 zu überschreiben."
+
+#: ../Matrix-digi/functions.php:1056 ../MatrixV1.0/functions.php:954
+msgid "Width"
+msgstr "Breite"
+
+#: ../Matrix-digi/functions.php:1061 ../MatrixV1.0/functions.php:959
+msgid "Height"
+msgstr "Höhe"
+
+#: ../Matrix-digi/functions.php:1069 ../MatrixV1.0/functions.php:967
+msgid ""
+"When the post format is set to <strong>Link</strong>, users will be "
+"redirected to the link entered in the field below when they click on the "
+"tile."
+msgstr ""
+"Benutzer werden zu dieser URL weitergeleitet, wenn sie auf eine Kachel vom "
+"Typ Link klicken."
+
+#: ../Matrix-digi/functions.php:1070
+#: ../Matrix-digi/social-bartender/settings.php:33
+#: ../Matrix-digi/social-bartender/settings.php:107
+#: ../MatrixV1.0/functions.php:968
+#: ../MatrixV1.0/social-bartender/settings.php:33
+#: ../MatrixV1.0/social-bartender/settings.php:107
+#: ../twentyeleven/content-link.php:17
+msgid "Link"
+msgstr "Link"
+
+#: ../Matrix-digi/functions.php:1081 ../MatrixV1.0/functions.php:979
+msgid ""
+"Use this button to upload images if you do not want these images to be added "
+"into the slider / gallery"
+msgstr ""
+"Verwende diesen Button zum Upload, um die Verwendung des Bildes in Gallerie/"
+"Slider zu verhindern"
+
+#: ../Matrix-digi/functions.php:1092 ../MatrixV1.0/functions.php:990
+msgid "Upload Custom Images"
+msgstr "Eigene Bilder hochladen"
+
+#: ../Matrix-digi/functions.php:1093
+msgid ""
+"To use these images in the post, copy and paste the 'Link URL' of each image "
+"into the corresponding field in WordPress's media uploader."
+msgstr ""
+"Um diese Bilder im Artikel zu verwenden, kopiere die URL in das "
+"entsprechende feld"
+
+#: ../Matrix-digi/functions.php:1594 ../MatrixV1.0/functions.php:1521
+msgid "Portfolios"
+msgstr "Portfolios"
+
+#: ../Matrix-digi/functions.php:1595 ../Matrix-digi/single.php:12
+#: ../MatrixV1.0/functions.php:1522 ../MatrixV1.0/single.php:12
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: ../Matrix-digi/functions.php:1625 ../MatrixV1.0/functions.php:1552
+#, php-format
+msgid "Portfolio updated. <a href=\"%s\">View item</a>"
+msgstr "Portfolio aktualisiert. <a href=\"%s\">Ansehen</a>"
+
+#: ../Matrix-digi/functions.php:1626 ../MatrixV1.0/functions.php:1553
+msgid "Custom field updated."
+msgstr "Custom Field aktualisiert."
+
+#: ../Matrix-digi/functions.php:1627 ../MatrixV1.0/functions.php:1554
+msgid "Custom field deleted."
+msgstr "Custom Field gelöscht."
+
+#: ../Matrix-digi/functions.php:1628 ../MatrixV1.0/functions.php:1555
+msgid "Portfolio updated."
+msgstr "Portfolio aktualisiert."
+
+#: ../Matrix-digi/functions.php:1630 ../MatrixV1.0/functions.php:1557
+#, php-format
+msgid "Portfolio restored to revision from %s"
+msgstr "Portfolio auf Revision vom %s wiederhergestellt"
+
+#: ../Matrix-digi/functions.php:1631 ../MatrixV1.0/functions.php:1558
+#, php-format
+msgid "Portfolio published. <a href=\"%s\">View item</a>"
+msgstr "Portfolio veröffentlicht. <a href=\"%s\">Ansehen</a>"
+
+#: ../Matrix-digi/functions.php:1632 ../MatrixV1.0/functions.php:1559
+msgid "Portfolio saved."
+msgstr "Portfolio gespeichert."
+
+#: ../Matrix-digi/functions.php:1633 ../MatrixV1.0/functions.php:1560
+#, php-format
+msgid "Portfolio submitted. <a target=\"_blank\" href=\"%s\">Preview item</a>"
+msgstr "Portfolio gesendet. <a target=\"_blank\" href=\"%s\">Vorschau</a>"
+
+#: ../Matrix-digi/functions.php:1634 ../MatrixV1.0/functions.php:1561
+#, php-format
+msgid ""
+"Portfolio scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview item</a>"
+msgstr ""
+"Portfolio eingeplant für: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Vorschau</a>"
+
+#: ../Matrix-digi/functions.php:1636 ../MatrixV1.0/functions.php:1563
+msgid "M j, Y @ G:i"
+msgstr "j. F Y @ H:i"
+
+#: ../Matrix-digi/functions.php:1637 ../MatrixV1.0/functions.php:1564
+#, php-format
+msgid ""
+"Portfolio draft updated. <a target=\"_blank\" href=\"%s\">Preview item</a>"
+msgstr ""
+"Portfolio-Entwurf aktualisiert. <a target=\"_blank\" href=\"%s\">Vorschau</a>"
+
+#: ../Matrix-digi/functions.php:2074 ../Matrix-digi/functions.php:2076
+#: ../MatrixV1.0/functions.php:2007 ../MatrixV1.0/functions.php:2009
+#, php-format
+msgid "<cite class=\"fn commenter\">%s</cite>"
+msgstr "<cite class=\"fn commenter\">%s</cite>"
+
+#: ../Matrix-digi/functions.php:2082 ../MatrixV1.0/functions.php:2015
+#: ../twentyeleven/functions.php:554 ../twentyten/functions.php:333
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentar wartet auf Freischaltung."
+
+#: ../Matrix-digi/functions.php:2089 ../MatrixV1.0/functions.php:2022
+#: ../twentyeleven/functions.php:545 ../twentyten/functions.php:340
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s um %2$s"
+
+#: ../Matrix-digi/functions.php:2089 ../MatrixV1.0/functions.php:2022
+#: ../twentyten/functions.php:340 ../twentyten/functions.php:357
+msgid "(Edit)"
+msgstr "(bearbeiten)"
+
+#: ../Matrix-digi/functions.php:2132 ../MatrixV1.0/functions.php:2065
+msgid ""
+"This post is password protected. To view it please enter your password below:"
+msgstr "Dieser Artikel ist passwortgeschützt. Bitte gib das Passwort ein:"
+
+#: ../Matrix-digi/functions.php:2133 ../MatrixV1.0/functions.php:2066
+msgid "PASSWORD:"
+msgstr "PASSWORT:"
+
+#: ../Matrix-digi/header.php:23 ../MatrixV1.0/header.php:23
+#: ../twentyeleven/header.php:45 ../twentyten/header.php:33
+#, php-format
+msgid "Page %s"
+msgstr "Seite %s"
+
+#: ../Matrix-digi/index-fixed.php:64 ../Matrix-digi/index.php:63
+#: ../MatrixV1.0/index-fixed.php:64 ../MatrixV1.0/index.php:67
+#: ../twentyeleven/archive.php:57 ../twentyeleven/author.php:74
+#: ../twentyeleven/category.php:50 ../twentyeleven/index.php:37
+#: ../twentyeleven/search.php:42 ../twentyeleven/tag.php:50
+#: ../twentyten/search.php:26
+msgid "Nothing Found"
+msgstr "Nichts gefunden"
+
+#: ../Matrix-digi/index-fixed.php:68 ../Matrix-digi/index.php:67
+#: ../MatrixV1.0/index-fixed.php:68 ../MatrixV1.0/index.php:71
+#: ../twentyeleven/archive.php:61 ../twentyeleven/author.php:78
+#: ../twentyeleven/category.php:54 ../twentyeleven/index.php:41
+#: ../twentyeleven/tag.php:54 ../twentyten/loop.php:35
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr "Ups, nichts gefunden. Bitte versuche eine andere Suche."
+
+#: ../Matrix-digi/lightbox-article.php:32 ../Matrix-digi/lightbox-audio.php:37
+#: ../Matrix-digi/lightbox-gallery.php:27 ../Matrix-digi/lightbox-video.php:33
+msgid "Read More"
+msgstr "Weiterlesen..."
+
+#: ../Matrix-digi/lightbox-portfolio.php:35
+msgid "View More"
+msgstr "Mehr"
+
+#: ../Matrix-digi/search.php:26 ../MatrixV1.0/search.php:26
+msgid " Results for "
+msgstr " Ergebnisse für"
+
+#: ../Matrix-digi/search.php:45 ../MatrixV1.0/search.php:45
+msgid "Sorry, no results were found for the requested query."
+msgstr "Ups, es wurden keine Inhalte für diese Suchanfrage gefunden."
+
+#: ../Matrix-digi/sidebar.php:15 ../twentyeleven/content-aside.php:22
+#: ../twentyeleven/content-image.php:21 ../twentyeleven/content-link.php:22
+#: ../twentyeleven/content-quote.php:24 ../twentyeleven/content-status.php:21
+#: ../twentyeleven/content.php:30
+msgid "Reply"
+msgstr "Antworten"
+
+#: ../Matrix-digi/single.php:12 ../MatrixV1.0/single.php:12
+msgid "Blog"
+msgstr "Blog"
+
+#: ../Matrix-digi/tag.php:14 ../MatrixV1.0/tag.php:14
+msgid "Tag : "
+msgstr "Tag:"
+
+#: ../Matrix-digi/tag.php:34 ../MatrixV1.0/tag.php:34
+msgid "Sorry, no results were found for the requested tag."
+msgstr "Ups, für diesen Tag wurden keine Artikel gefunden."
+
+#: ../Matrix-digi/admin/classes/class.options_machine.php:508
+#: ../MatrixV1.0/admin/classes/class.options_machine.php:508
+msgid "Last Backup : "
+msgstr "Letzte Sicherung:"
+
+#: ../Matrix-digi/admin/front-end/options.php:43
+#: ../Matrix-digi/admin/front-end/options.php:67
+#: ../MatrixV1.0/admin/front-end/options.php:43
+#: ../MatrixV1.0/admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr "Alle Änderungen speichern"
+
+#: ../Matrix-digi/admin/front-end/options.php:68
+#: ../MatrixV1.0/admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr "Einstellungen zurücksetzen"
+
+#: ../Matrix-digi/admin/functions/functions.mediauploader.php:20
+#: ../MatrixV1.0/admin/functions/functions.mediauploader.php:20
+msgid "Options"
+msgstr "Einstellungen"
+
+#: ../Matrix-digi/admin/functions/functions.mediauploader.php:210
+#: ../MatrixV1.0/admin/functions/functions.mediauploader.php:210
+#: ../twentyeleven/content-gallery.php:17
+msgid "Gallery"
+msgstr "Gallerie"
+
+#: ../Matrix-digi/admin/functions/functions.mediauploader.php:210
+#: ../MatrixV1.0/admin/functions/functions.mediauploader.php:210
+msgid "Previously Uploaded"
+msgstr "Zuletzt hochgeladen"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:98
+#: ../MatrixV1.0/admin/functions/functions.options.php:98
+msgid "List"
+msgstr "Liste"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:117
+#: ../MatrixV1.0/admin/functions/functions.options.php:117
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:120
+#: ../MatrixV1.0/admin/functions/functions.options.php:120
+msgid "Hello there!"
+msgstr "Hallo!"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:123
+#: ../MatrixV1.0/admin/functions/functions.options.php:123
+msgid ""
+"<h3 style=\"margin: 0 0 10px;\">Thank you for purchasing Matrix WordPress "
+"Theme!</h3>\n"
+"\t\t\t\t\tEach setting is accompanied by a clear description of what it "
+"does. If there is something you are not clear, or you have any questions "
+"which has not been covered in the documentation, please contact me at <a "
+"href='http://themeforest.net/user/billyf'>ThemeForest</a> or send an email "
+"to me using the address given in the documentation file."
+msgstr ""
+"<h3 style=\"margin: 0 0 10px;\">Danke für den Kauf des Matrix WordPress "
+"Themes!!</h3>\n"
+"\t\t\t\t\tAlle Einstellungen wurden mit einer Beschreibung versehen, um zu "
+"erklären, was sie tun. Sollte dennoch irgendetwas nicht klar sein oder eine "
+"andere Frage auftauchen, die nicht in der Dokumentation beantwortet wird, "
+"kontaktiere mich bei <a href='http://themeforest.net/user/"
+"billyf'>ThemeForest</a> oder sende mir eine Email an die Emailadresse, die "
+"in der Dokumentation erwähnt wird."
+
+#: ../Matrix-digi/admin/functions/functions.options.php:128
+#: ../MatrixV1.0/admin/functions/functions.options.php:128
+msgid "Logo"
+msgstr "Logo"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:129
+#: ../MatrixV1.0/admin/functions/functions.options.php:129
+msgid "Upload your website's logo here to be displayed at the header."
+msgstr "Lade das Logo deiner Website für den Header hoch."
+
+#: ../Matrix-digi/admin/functions/functions.options.php:135
+#: ../MatrixV1.0/admin/functions/functions.options.php:135
+msgid "Custom Favicon"
+msgstr "Eigenes Favicon"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:136
+#: ../MatrixV1.0/admin/functions/functions.options.php:136
+msgid ""
+"Upload a 16px x 16px .png or .gif image which will be used as your website's "
+"favicon."
+msgstr "16x16px Bild (gif, png), das als Favicon verwendet wurd."
+
+#: ../Matrix-digi/admin/functions/functions.options.php:142
+#: ../MatrixV1.0/admin/functions/functions.options.php:142
+msgid "Choose the main colour for the theme."
+msgstr "Wähle die Hauptfarbe des Themes."
+
+#: ../Matrix-digi/admin/functions/functions.options.php:149
+#: ../MatrixV1.0/admin/functions/functions.options.php:149
+msgid "Or pick the main colour for the theme."
+msgstr "Oder wähle eine Farbe mit dem Colorpicker."
+
+#: ../Matrix-digi/admin/functions/functions.options.php:155
+#: ../MatrixV1.0/admin/functions/functions.options.php:155
+msgid ""
+"Check this to use the picked colour. If unchecked, the selected colour in "
+"the drop-down list will be used."
+msgstr ""
+"Setze den Haken, wenn Du die Farbe des Colorpickers verwenden willst oder "
+"verwende die Farbe aus der Dropdown-Liste."
+
+#: ../Matrix-digi/admin/functions/functions.options.php:161
+#: ../MatrixV1.0/admin/functions/functions.options.php:161
+msgid "Background Image"
+msgstr "Hintergrundbild"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:162
+#: ../MatrixV1.0/admin/functions/functions.options.php:162
+msgid "Upload a background image"
+msgstr "Lade ein Hintergrundbild hoch"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:167
+#: ../MatrixV1.0/admin/functions/functions.options.php:167
+msgid "Background Pattern"
+msgstr "Hintergrund Pattern"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:168
+#: ../MatrixV1.0/admin/functions/functions.options.php:168
+msgid ""
+"Used to dim the background. Particularly useful when you are using a bright "
+"background."
+msgstr ""
+"Insbesondere für helle Hintergründe zu verwenden (dimmt das Hintergrundbild)."
+
+#: ../Matrix-digi/admin/functions/functions.options.php:173
+#: ../MatrixV1.0/admin/functions/functions.options.php:173
+msgid "Background Colour"
+msgstr "Hintergrundfarbe"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:174
+#: ../MatrixV1.0/admin/functions/functions.options.php:174
+msgid ""
+"Pick a background colour for the theme. This colour will be shown when there "
+"is no background image."
+msgstr ""
+"Wähle eine Hintergrundfarbe für das Theme. Diese Farbe wird verwendet, wenn "
+"kein Hintergrundbild hochgeladen wurde."
+
+#: ../Matrix-digi/admin/functions/functions.options.php:186
+#: ../MatrixV1.0/admin/functions/functions.options.php:186
+msgid "Footer Text"
+msgstr "Footer Text"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:187
+#: ../MatrixV1.0/admin/functions/functions.options.php:187
+msgid "Text to be displayed at the website footer."
+msgstr "Text, der im Footer der Website angezeigt wird."
+
+#: ../Matrix-digi/admin/functions/functions.options.php:189
+#: ../MatrixV1.0/admin/functions/functions.options.php:189
+msgid "Copyright &#169; 2012 Matrix"
+msgstr "Copyright &#169; 2012 Matrix"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:192
+#: ../MatrixV1.0/admin/functions/functions.options.php:192
+msgid "Tracking Code"
+msgstr "Google Analytics Tracking Code"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:193
+#: ../MatrixV1.0/admin/functions/functions.options.php:193
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the footer template of your theme."
+msgstr ""
+"Füge hier den Google Analytics Tracking Code ein (auch andere). Dieser Code "
+"wird dem Footer-Template hinzugefügt."
+
+#: ../Matrix-digi/admin/functions/functions.options.php:198
+#: ../MatrixV1.0/admin/functions/functions.options.php:198
+msgid "Home Settings"
+msgstr "Home Einstellungen"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:201
+#: ../MatrixV1.0/admin/functions/functions.options.php:201
+msgid "Slider Options"
+msgstr "Slider Einstellungen"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:202
+#: ../MatrixV1.0/admin/functions/functions.options.php:202
+msgid ""
+"Unlimited slider with drag and drop sortings. This will be shown at the "
+"homepage"
+msgstr ""
+"Slider für unendlich viele Bilder mit Drag & Drop Sortierung. Wird auf der "
+"Homepage angezeigt."
+
+#: ../Matrix-digi/admin/functions/functions.options.php:208
+#: ../MatrixV1.0/admin/functions/functions.options.php:208
+msgid ""
+"Check this to use a toggle for slider. If it is unchecked, the slider will "
+"be displayed all the time."
+msgstr ""
+"Setze den Haken, wenn Du möchtest, dass der Slider manuell geöffnet werden "
+"muss. Setzt Du den Haken nicht, wird der Slider immer angezeigt."
+
+#: ../Matrix-digi/admin/functions/functions.options.php:213
+#: ../Matrix-digi/admin/functions/functions.options.php:298
+#: ../MatrixV1.0/admin/functions/functions.options.php:213
+#: ../MatrixV1.0/admin/functions/functions.options.php:306
+msgid "Highlighted Text"
+msgstr "Hervorgehobener Text"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:214
+#: ../MatrixV1.0/admin/functions/functions.options.php:214
+msgid "Text to be displayed below the slider."
+msgstr "Text, der unter dem Slider angezeigt wird."
+
+#: ../Matrix-digi/admin/functions/functions.options.php:216
+#: ../MatrixV1.0/admin/functions/functions.options.php:216
+msgid ""
+"Hello! This is a Metro UI-inspired template which brings a new web-browsing "
+"experience to the users. To further improve it, feedbacks are greatly "
+"welcomed!"
+msgstr ""
+"Hallo! Dies ist das Metro-UI inspirierte Template für eine völlig neue "
+"Benutzererfahrung. Feedback zur Verbesserung des Themes ist immer willkommen."
+
+#: ../Matrix-digi/admin/functions/functions.options.php:219
+#: ../MatrixV1.0/admin/functions/functions.options.php:219
+msgid "Featured Content"
+msgstr "Featured Inhalte"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:220
+#: ../MatrixV1.0/admin/functions/functions.options.php:220
+msgid ""
+"This will be shown below the tiles at the main page. Similarly, it has drag "
+"and drop sortings."
+msgstr "Dies wird unter den Kacheln angezeigt (funktioniert wird der Slider=."
+
+#: ../Matrix-digi/admin/functions/functions.options.php:226
+#: ../MatrixV1.0/admin/functions/functions.options.php:226
+msgid ""
+"Check this to use a toggle for featured content. If it is unchecked, the "
+"featured content will be shown all the time."
+msgstr ""
+"Wenn der Haken gesetzt ist, kann dieser Inhalt manuell geöffnet werden, "
+"ansonsten wird er permanent angezeigt."
+
+#: ../Matrix-digi/admin/functions/functions.options.php:231
+#: ../MatrixV1.0/admin/functions/functions.options.php:231
+msgid "AJAX Pagination"
+msgstr "AJAX-Seitennavigation"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:232
+#: ../MatrixV1.0/admin/functions/functions.options.php:232
+msgid ""
+"Enables AJAX pagination at front page. Note that this feature has been "
+"disabled in IE8 due to incompatibility. Besides, all audio / video uploaded "
+"by yourself will not work using AJAX as Javascript will not run in newly "
+"acquired content via AJAX. So, you should use iframe content from services "
+"such as YouTube or Vimeo if you want to use this feature."
+msgstr ""
+"Aktiviert die AJAX-Seitennavigation. Dieses Feature wird für IE8 wegen "
+"Inkompatibilität deaktiviert. Außerdem werden eigene Audios und Videos nicht "
+"mit dieser Funktion arbeiten, da AJAX im Zusammenspiel mit Javascript für "
+"neue Inhalte nicht funktioniert. Verwende iframes, um dieses Problem zu "
+"umgehen und YouTube oder Vimeo-Videos anzuzeigen."
+
+#: ../Matrix-digi/admin/functions/functions.options.php:238
+#: ../MatrixV1.0/admin/functions/functions.options.php:238
+msgid "Contact Page"
+msgstr "Kontaktseite"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:241
+#: ../Matrix-digi/admin/functions/functions.options.php:292
+#: ../MatrixV1.0/admin/functions/functions.options.php:241
+#: ../MatrixV1.0/admin/functions/functions.options.php:300
+msgid "Page Image"
+msgstr "Seitenbild"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:242
+#: ../Matrix-digi/admin/functions/functions.options.php:293
+#: ../MatrixV1.0/admin/functions/functions.options.php:242
+#: ../MatrixV1.0/admin/functions/functions.options.php:301
+msgid "Upload a page image to be displayed at the top."
+msgstr "Lade ein Bild für den Header der Kontaktseite hoch."
+
+#: ../Matrix-digi/admin/functions/functions.options.php:247
+#: ../MatrixV1.0/admin/functions/functions.options.php:247
+msgid "Contact 1 City"
+msgstr "1. Kontakt: Stadt"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:248
+#: ../MatrixV1.0/admin/functions/functions.options.php:248
+msgid "Enter the city for contact 1."
+msgstr "Gib die Stadt des 1. Kontakts ein"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:250
+#: ../Matrix-digi/admin/functions/functions.options.php:268
+#: ../MatrixV1.0/admin/functions/functions.options.php:250
+#: ../MatrixV1.0/admin/functions/functions.options.php:271
+msgid "City"
+msgstr "Stadt"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:253
+#: ../MatrixV1.0/admin/functions/functions.options.php:253
+msgid "Contact 1 Address"
+msgstr "1. Kontakt: Adresse"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:254
+#: ../MatrixV1.0/admin/functions/functions.options.php:254
+msgid ""
+"Enter the address for contact 1. Insert &#60;br /&#62; to start trailing "
+"texts on a new line."
+msgstr ""
+"Gib die Adresse des 1. Kontakts ein. Füge &#60;br /&#62; ein, um eine neue "
+"Zeile zu beginnen."
+
+#: ../Matrix-digi/admin/functions/functions.options.php:256
+#: ../Matrix-digi/admin/functions/functions.options.php:274
+msgid "Lot<br />Street<br />Postcode<br />Country<br />"
+msgstr "Parzelle<br />Straße<br />PLZ<br />Land<br />"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:259
+#: ../MatrixV1.0/admin/functions/functions.options.php:262
+msgid "Contact 1 Location (optional)"
+msgstr "1. Kontakt: Karte (optional)"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:260
+#: ../Matrix-digi/admin/functions/functions.options.php:278
+#: ../MatrixV1.0/admin/functions/functions.options.php:263
+#: ../MatrixV1.0/admin/functions/functions.options.php:284
+msgid "Enter the link to the location map, such as Google Maps or Bing Maps."
+msgstr "Hier kannst Du einen Link zu GoogleMaps oder BingMaps einfügen."
+
+#: ../Matrix-digi/admin/functions/functions.options.php:265
+#: ../MatrixV1.0/admin/functions/functions.options.php:268
+msgid "Contact 2 City"
+msgstr "2. Kontakt: Stadt"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:266
+#: ../MatrixV1.0/admin/functions/functions.options.php:269
+msgid "Enter the city for contact 2."
+msgstr "Gib die Stadt des 2. Kontakts ein"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:271
+#: ../MatrixV1.0/admin/functions/functions.options.php:274
+msgid "Contact 2 Address"
+msgstr "2. Kontakt: Adresse"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:272
+#: ../MatrixV1.0/admin/functions/functions.options.php:275
+msgid ""
+"Enter the address for contact 2. Insert &#60;br /&#62; to start trailing "
+"texts on a new line."
+msgstr ""
+"Gib die Adresse des 2. Kontakts ein. Füge &#60;br /&#62; ein, um eine neue "
+"Zeile zu beginnen."
+
+#: ../Matrix-digi/admin/functions/functions.options.php:277
+#: ../MatrixV1.0/admin/functions/functions.options.php:283
+msgid "Contact 2 Location (optional)"
+msgstr "2. Kontakt: Karte (optional)"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:283
+#: ../MatrixV1.0/admin/functions/functions.options.php:289
+msgid "Contact Number"
+msgstr "Kontakt Nummer"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:284
+#: ../MatrixV1.0/admin/functions/functions.options.php:290
+msgid ""
+"Insert your contact numbers here. Use &#60;br /&#62; to start trailing texts "
+"on a new line."
+msgstr ""
+"Gib hier die Kontaktnummern ein. Füge &#60;br /&#62; ein, um eine neue Zeile "
+"zu beginnen."
+
+#: ../Matrix-digi/admin/functions/functions.options.php:286
+msgid ""
+"Headquarters : +123-456-7890<br/>London : +123-456-7890<br/>New York : "
+"+123-456-7890"
+msgstr ""
+"Zentrale : +123-456-7890<br/>London  : +123-456-7890<br/>New York : "
+"+123-456-7890"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:289
+#: ../MatrixV1.0/admin/functions/functions.options.php:297
+msgid "About Page"
+msgstr "Über Seite"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:299
+#: ../MatrixV1.0/admin/functions/functions.options.php:307
+msgid ""
+"The content inserted here will be displayed on the page image at the top. "
+"You may use HTML tags here."
+msgstr ""
+"Die hier eingefügten Inhalte werden im Kopf dieser Seite angezeigt. HTML "
+"Tags sind möglich."
+
+#: ../Matrix-digi/admin/functions/functions.options.php:301
+#: ../MatrixV1.0/admin/functions/functions.options.php:309
+msgid ""
+"We are dedicated to provide the <span class='themecolortxt'>best</span> "
+"service in the industry to our clients. With experience of more than a "
+"decade in this industry, we are your most reliable partner for your upcoming "
+"project."
+msgstr ""
+"Wir freuen uns, hier die <span class='themecolortxt'>besten</span> Services "
+"der Branche anbieten zu dürfen. Mit der Erfahrung mehrerer Jahrzehnte in "
+"diese Branche wurden wir zum verlässlichsten Partner für Projekte dieser Art."
+
+#: ../Matrix-digi/admin/functions/functions.options.php:304
+#: ../MatrixV1.0/admin/functions/functions.options.php:312
+msgid "Title for Key Personnel Section"
+msgstr "Titel für die Personal-Seite"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:305
+#: ../Matrix-digi/admin/functions/functions.options.php:323
+#: ../MatrixV1.0/admin/functions/functions.options.php:313
+#: ../MatrixV1.0/admin/functions/functions.options.php:331
+msgid "Enter the title here."
+msgstr "Gib den Titel hier ein."
+
+#: ../Matrix-digi/admin/functions/functions.options.php:307
+#: ../MatrixV1.0/admin/functions/functions.options.php:315
+msgid "The Team"
+msgstr "Das Team"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:310
+#: ../MatrixV1.0/admin/functions/functions.options.php:318
+msgid "Tagline for Key Personnel Section"
+msgstr "Tags für die Personal-Seite"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:311
+#: ../Matrix-digi/admin/functions/functions.options.php:329
+#: ../MatrixV1.0/admin/functions/functions.options.php:319
+#: ../MatrixV1.0/admin/functions/functions.options.php:337
+msgid "Enter the tagline here. This area supports HTML tags."
+msgstr "Gib hier die Tags ein. Dieser Bereich unterstützt HTML Tags."
+
+#: ../Matrix-digi/admin/functions/functions.options.php:313
+msgid "Some text here."
+msgstr "Einige text hier."
+
+#: ../Matrix-digi/admin/functions/functions.options.php:316
+#: ../MatrixV1.0/admin/functions/functions.options.php:324
+msgid "Company Workers"
+msgstr "Mitarbeiter"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:317
+#: ../MatrixV1.0/admin/functions/functions.options.php:325
+msgid ""
+"You can show some company workers at the About page, with their respective "
+"photographs and job title"
+msgstr ""
+"Du kannst ein paar Mitarbeiter auf der Über Seite präsentieren, inklusive "
+"ihrer Projektbilder und Titel"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:322
+#: ../MatrixV1.0/admin/functions/functions.options.php:330
+msgid "Title for Testimonial Section"
+msgstr "Titel der Feedback Sektion"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:325
+#: ../Matrix-digi/admin/functions/functions.options.php:334
+#: ../MatrixV1.0/admin/functions/functions.options.php:333
+#: ../MatrixV1.0/admin/functions/functions.options.php:342
+msgid "Testimonials"
+msgstr "Feedbacks"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:328
+#: ../MatrixV1.0/admin/functions/functions.options.php:336
+msgid "Tagline for Testimonial Section"
+msgstr "Tags für die Feedback Sektion"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:331
+#: ../MatrixV1.0/admin/functions/functions.options.php:339
+msgid "Our awesome clients <span class='whitetxt'>love us</span>"
+msgstr "Unsere Kunden <span class='whitetxt'>lieben uns</span>"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:335
+#: ../MatrixV1.0/admin/functions/functions.options.php:343
+msgid "You can show some testimonials at the About page."
+msgstr "Du kannst hier einige Meinungen der Kunden auf der Über Seite aneigen."
+
+#: ../Matrix-digi/admin/functions/functions.options.php:340
+#: ../MatrixV1.0/admin/functions/functions.options.php:348
+msgid "Social Network"
+msgstr "Soziale Netzwerke"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:343
+#: ../MatrixV1.0/admin/functions/functions.options.php:351
+msgid "Footer"
+msgstr "Footer"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:346
+#: ../MatrixV1.0/admin/functions/functions.options.php:354
+msgid ""
+"To choose the social icons to be displayed at the site's footer, please go "
+"to <strong>Settings > Social Bartender</strong>."
+msgstr ""
+"Um die Icons zu wählen, besuche die Einstellungen des <strong>Social "
+"Bartender</strong> Plugins."
+
+#: ../Matrix-digi/admin/functions/functions.options.php:349
+#: ../MatrixV1.0/admin/functions/functions.options.php:357
+msgid "Custom Style"
+msgstr "Eigener Stil"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:352
+#: ../MatrixV1.0/admin/functions/functions.options.php:360
+msgid "Custom CSS"
+msgstr "Eigene CSS Stile"
+
+#: ../Matrix-digi/admin/functions/functions.options.php:353
+#: ../MatrixV1.0/admin/functions/functions.options.php:361
+msgid "Enter some custom CSS here to override the default style."
+msgstr ""
+"Hier kannst Du eigene CSS Stile einfügen, um die Standard-Stile zu "
+"überschreiben."
+
+#: ../Matrix-digi/social-bartender/help.php:15
+#: ../Matrix-digi/social-bartender/help.php:99
+#: ../Matrix-digi/social-bartender/help.php:146
+#: ../MatrixV1.0/social-bartender/help.php:15
+#: ../MatrixV1.0/social-bartender/help.php:99
+msgid "Help"
+msgstr "Hilfe"
+
+#: ../Matrix-digi/social-bartender/help.php:17
+#: ../Matrix-digi/social-bartender/help.php:101
+#: ../MatrixV1.0/social-bartender/help.php:17
+#: ../MatrixV1.0/social-bartender/help.php:101
+msgid "Including the list of links in your theme"
+msgstr "Link Liste einfügen"
+
+#: ../Matrix-digi/social-bartender/help.php:19
+#: ../Matrix-digi/social-bartender/help.php:103
+#: ../MatrixV1.0/social-bartender/help.php:19
+#: ../MatrixV1.0/social-bartender/help.php:103
+msgid ""
+"To include the list of links in your theme, you need to place the following "
+"PHP function in the location where you want the links to appear:"
+msgstr ""
+"Um die Liste der Links hinzuzufügen, musst Du folgende PHP-Funktion dort "
+"einfügen, wo Du die Liste sehen willst."
+
+#: ../Matrix-digi/social-bartender/help.php:23
+#: ../Matrix-digi/social-bartender/help.php:133
+#: ../MatrixV1.0/social-bartender/help.php:23
+#: ../MatrixV1.0/social-bartender/help.php:133
+msgid "Theme Developers"
+msgstr "Theme Entwickler"
+
+#: ../Matrix-digi/social-bartender/help.php:25
+#: ../Matrix-digi/social-bartender/help.php:135
+#: ../MatrixV1.0/social-bartender/help.php:25
+#: ../MatrixV1.0/social-bartender/help.php:135
+msgid ""
+"If you would like to make your own icon set available to users in the Icon "
+"Box, just place the images inside of an \"images/sb-icons\" folder of your "
+"theme."
+msgstr ""
+"Wenn Du deinen Benutzern eigene Icons verfügbar machen willst, speichere "
+"diese unter  \"images/sb-icons\""
+
+#: ../Matrix-digi/social-bartender/help.php:27
+#: ../MatrixV1.0/social-bartender/help.php:27
+msgid "Credits"
+msgstr "Credits"
+
+#: ../Matrix-digi/social-bartender/help.php:29
+#: ../Matrix-digi/social-bartender/help.php:141
+#: ../MatrixV1.0/social-bartender/help.php:29
+#: ../MatrixV1.0/social-bartender/help.php:141
+msgid "Contributors:"
+msgstr "Mitarbeiter:"
+
+#: ../Matrix-digi/social-bartender/help.php:33
+#: ../MatrixV1.0/social-bartender/help.php:33
+#: ../twentyeleven/inc/theme-options.php:127
+msgid "Overview"
+msgstr "Übersicht"
+
+#: ../Matrix-digi/social-bartender/help.php:39
+#: ../Matrix-digi/social-bartender/help.php:51
+#: ../Matrix-digi/social-bartender/help.php:109
+#: ../MatrixV1.0/social-bartender/help.php:39
+#: ../MatrixV1.0/social-bartender/help.php:51
+#: ../MatrixV1.0/social-bartender/help.php:109
+msgid "Parameters"
+msgstr "Parameter"
+
+#: ../Matrix-digi/social-bartender/help.php:41
+#: ../Matrix-digi/social-bartender/help.php:111
+#: ../MatrixV1.0/social-bartender/help.php:41
+#: ../MatrixV1.0/social-bartender/help.php:111
+msgid ""
+"(string) Sets the text or html that precedes the &lt;a&gt; tag. Default = ' '"
+msgstr ""
+"(string) Text oder HTML, das dem es the &lt;a&gt; Tag vorausgeht. Standard = "
+"' '"
+
+#: ../Matrix-digi/social-bartender/help.php:43
+#: ../Matrix-digi/social-bartender/help.php:113
+#: ../MatrixV1.0/social-bartender/help.php:43
+#: ../MatrixV1.0/social-bartender/help.php:113
+msgid ""
+"(string) Sets the text or html that follows the &lt;a&gt; tag. Default = ' '"
+msgstr ""
+"(string) Text oder HTML, das dem es the &lt;a&gt; Tag folgt. Standard = ' '"
+
+#: ../Matrix-digi/social-bartender/help.php:45
+#: ../Matrix-digi/social-bartender/help.php:115
+#: ../MatrixV1.0/social-bartender/help.php:45
+#: ../MatrixV1.0/social-bartender/help.php:115
+msgid ""
+"(boolean) Toggles the display of the generated list of links or return the "
+"list as an HTML text string to be used in PHP. Default = 1"
+msgstr ""
+"(boolean) Aktiviert die HTML Liste zur Verwendung der PHP-Funktion. Standard "
+"= 1"
+
+#: ../Matrix-digi/social-bartender/help.php:57
+#: ../Matrix-digi/social-bartender/help.php:71
+#: ../Matrix-digi/social-bartender/help.php:119
+#: ../MatrixV1.0/social-bartender/help.php:57
+#: ../MatrixV1.0/social-bartender/help.php:71
+#: ../MatrixV1.0/social-bartender/help.php:119
+msgid "Example Output"
+msgstr "Beispielhafte Vorschau"
+
+#: ../Matrix-digi/social-bartender/help.php:59
+#: ../Matrix-digi/social-bartender/help.php:121
+#: ../MatrixV1.0/social-bartender/help.php:59
+#: ../MatrixV1.0/social-bartender/help.php:121
+msgid ""
+"Using the default settings, the <code>social_bartender()</code> function "
+"would output the following:"
+msgstr ""
+"Mit den Standard-Einstellungen wird die <code>social_bartender()</"
+"code>Funktion folgendes auswerfen:"
+
+#: ../Matrix-digi/social-bartender/help.php:76
+#: ../MatrixV1.0/social-bartender/help.php:76
+#: ../twentyeleven/inc/theme-options.php:118
+msgid "For more information:"
+msgstr "Für mehr Informationen:"
+
+#: ../Matrix-digi/social-bartender/help.php:77
+#: ../MatrixV1.0/social-bartender/help.php:77
+msgid ""
+"<a href=\"https://github.com/sawyerh/social-bartender\" target=\"_blank"
+"\">Contribute on Github</a>"
+msgstr ""
+"<a href=\"https://github.com/sawyerh/social-bartender\" target=\"_blank"
+"\">Gifthub</a>"
+
+#: ../Matrix-digi/social-bartender/help.php:78
+#: ../MatrixV1.0/social-bartender/help.php:78
+msgid "<a href=\"http://shakenandstirredweb.com\">Shaken and Stirred Web</a>"
+msgstr "<a href=\"http://shakenandstirredweb.com\">Shaken and Stirred Web</a>"
+
+#: ../Matrix-digi/social-bartender/help.php:79
+#: ../MatrixV1.0/social-bartender/help.php:79
+msgid ""
+"<a href=\"http://onlythefunctions.com\" target=\"_blank\">Only the "
+"Functions</a>"
+msgstr ""
+"<a href=\"http://onlythefunctions.com\" target=\"_blank\">Only the "
+"Functions</a>"
+
+#: ../Matrix-digi/social-bartender/help.php:83
+#: ../MatrixV1.0/social-bartender/help.php:83
+msgid "Plugin Info"
+msgstr "Plugin Informationen"
+
+#: ../Matrix-digi/social-bartender/help.php:137
+#: ../MatrixV1.0/social-bartender/help.php:137
+msgid "Credits / Support"
+msgstr "Credits/Support"
+
+#: ../Matrix-digi/social-bartender/help.php:139
+#: ../MatrixV1.0/social-bartender/help.php:139
+msgid "The Social Bartender plugin was created by"
+msgstr "Das Social Bartender Plugin wurde erstellt von"
+
+#: ../Matrix-digi/social-bartender/help.php:139
+#: ../MatrixV1.0/social-bartender/help.php:139
+msgid ""
+"If you find any bugs, have feature requests, or would like to contribute, "
+"please visit the plugin's <a href=\"https://github.com/sawyerh/social-"
+"bartender\">GitHub page</a>."
+msgstr ""
+"Solltest Du Fehler finden, Anregungen haben oder einfach mitarbeiten wollen, "
+"besuche das Plugin auf der <a href=\"https://github.com/sawyerh/social-"
+"bartender\">GitHub Seite</a>."
+
+#: ../Matrix-digi/social-bartender/settings.php:7
+#: ../MatrixV1.0/social-bartender/settings.php:7
+msgid "Insufficient permissions"
+msgstr "Unureichende Berechtigungen"
+
+#: ../Matrix-digi/social-bartender/settings.php:27
+#: ../MatrixV1.0/social-bartender/settings.php:27
+msgid "Create New Item"
+msgstr "Neues Element"
+
+#: ../Matrix-digi/social-bartender/settings.php:38
+#: ../Matrix-digi/social-bartender/settings.php:108
+#: ../MatrixV1.0/social-bartender/settings.php:38
+#: ../MatrixV1.0/social-bartender/settings.php:108
+msgid "Title"
+msgstr "Titel"
+
+#: ../Matrix-digi/social-bartender/settings.php:43
+#: ../Matrix-digi/social-bartender/settings.php:106
+#: ../MatrixV1.0/social-bartender/settings.php:43
+#: ../MatrixV1.0/social-bartender/settings.php:106
+msgid "Icon"
+msgstr "Icon"
+
+#: ../Matrix-digi/social-bartender/settings.php:51
+#: ../MatrixV1.0/social-bartender/settings.php:51
+msgid "Create Item"
+msgstr "Element erstellen"
+
+#: ../Matrix-digi/social-bartender/settings.php:61
+#: ../MatrixV1.0/social-bartender/settings.php:61
+msgid "Icon Bucket"
+msgstr "Iconsammlung"
+
+#: ../Matrix-digi/social-bartender/settings.php:86
+#: ../MatrixV1.0/social-bartender/settings.php:86
+msgid "Select an icon above and its URL will be automatically entered for you."
+msgstr ""
+"Wähle eines der Icons und seine URL wird automatisch für dich eingefügt."
+
+#: ../Matrix-digi/social-bartender/settings.php:145
+#: ../MatrixV1.0/social-bartender/settings.php:145
+msgid "Display the titles instead of images"
+msgstr "Zeige Titel statt Bilder"
+
+#: ../Matrix-digi/social-bartender/settings.php:157
+#: ../MatrixV1.0/social-bartender/settings.php:157
+msgid "You don't have any items in your bar, why not create some?"
+msgstr "Du hast keine Icons in deiner Leiste. Wieso nicht welche erstellen?"
+
+#: ../Matrix-digi/social-bartender/settings.php:201
+#: ../MatrixV1.0/social-bartender/settings.php:201
+msgid "Item added"
+msgstr "Element hinzugefügt"
+
+#: ../Matrix-digi/social-bartender/settings.php:250
+#: ../MatrixV1.0/social-bartender/settings.php:250
+msgid "Items updated"
+msgstr "Elemente aktualisiert"
+
+#: ../Matrix-digi/social-bartender/widget.php:25
+#: ../MatrixV1.0/social-bartender/widget.php:25
+msgid "Set up Social Bartender"
+msgstr "Konfiguriere Social Bartender"
+
+#: ../Matrix-digi/social-bartender/widget.php:25
+#: ../MatrixV1.0/social-bartender/widget.php:25
+msgid "here."
+msgstr "hier."
+
+#: ../Matrix-digi/social-bartender/widget.php:28
+#: ../MatrixV1.0/social-bartender/widget.php:28
+msgid "Title (optional):"
+msgstr "Titel (optional):"
+
+#: ../MatrixV1.0/functions.php:840
+msgid "Upload a full size image for the portfolio item"
+msgstr "Lade ein Bild voller Größe für das Portfolio-Element hoch"
+
+#: ../MatrixV1.0/functions.php:842
+msgid "Upload Full-size Image"
+msgstr "Bild voller Größe hochladen"
+
+#: ../MatrixV1.0/functions.php:991
+msgid ""
+"To use these images in the post, copy and paste the 'Link URL' of each image "
+"into the [img] shortcode"
+msgstr ""
+"Um diese Bilder im Artikel zu verwenden, kopiere die URL und verwende den "
+"[img] shortcode"
+
+#: ../MatrixV1.0/admin/functions/functions.options.php:256
+#: ../MatrixV1.0/admin/functions/functions.options.php:277
+msgid ""
+"Lot<br />\n"
+"\t\t\t\t\tStreet<br />\n"
+"\t\t\t\t\tPostcode<br />\n"
+"\t\t\t\t\tCountry<br />"
+msgstr ""
+"Beispiel<br />\n"
+"\t\t\t\t\tStreet<br />\n"
+"\t\t\t\t\tPostcode<br />\n"
+"\t\t\t\t\tCountry<br />"
+
+#: ../MatrixV1.0/admin/functions/functions.options.php:292
+msgid ""
+"Headquarters : +123-456-7890<br/>\n"
+"\t\t\t\t\tLondon : +123-456-7890<br/>\n"
+"\t\t\t\t\tNew York : +123-456-7890"
+msgstr ""
+"Zentrale : +123-456-7890<br/>\n"
+"\t\t\t\t\tEssen : +123-456-7890<br/>\n"
+"\t\t\t\t\tDortmund : +123-456-7890"
+
+#: ../MatrixV1.0/admin/functions/functions.options.php:321
+msgid ""
+"Some text here. All minifig images below are work by <a href='http://www."
+"flickr.com/photos/mac_filko/'>mac_filko</a>"
+msgstr ""
+"Irgendein Text. Alle Bilder sind von <a href='http://www.flickr.com/photos/"
+"mac_filko/'>mac_filko</a>"
+
+#: ../twentyeleven/404.php:17
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Das ist so erstaunlich, nicht wahr?"
+
+#: ../twentyeleven/404.php:21
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching, or one of the links below, can help."
+msgstr ""
+"Was Du suchst, konnte nicht gefunden werden. Bitte versuche einen der "
+"folgenden Links."
+
+#: ../twentyeleven/404.php:28
+msgid "Most Used Categories"
+msgstr "Meistverwendete Kategorien"
+
+#: ../twentyeleven/404.php:36
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Monatsarchive %1$s"
+
+#: ../twentyeleven/archive.php:25
+#, php-format
+msgid "Daily Archives: %s"
+msgstr "Tägliche Archive: %s"
+
+#: ../twentyeleven/archive.php:27
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr "Monatliche Archive: %s"
+
+#: ../twentyeleven/archive.php:27
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: ../twentyeleven/archive.php:29
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr "Jährliche Archive: %s"
+
+#: ../twentyeleven/archive.php:29
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: ../twentyeleven/archive.php:31 ../twentyten/archive.php:39
+msgid "Blog Archives"
+msgstr "Blog Archive"
+
+#: ../twentyeleven/author.php:28 ../twentyten/author.php:27
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Autoren Archive: %s"
+
+#: ../twentyeleven/author.php:49 ../twentyeleven/content-single.php:60
+#: ../twentyten/author.php:37
+#, php-format
+msgid "About %s"
+msgstr "Über %s"
+
+#: ../twentyeleven/category.php:19 ../twentyten/category.php:16
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Kategorie Archive: %s"
+
+#: ../twentyeleven/comments.php:33
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Ein Kommentar in &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s Kommentare in &ldquo;%2$s&rdquo;"
+
+#: ../twentyeleven/comments.php:40 ../twentyeleven/comments.php:60
+msgid "Comment navigation"
+msgstr "Kommentarnavigation"
+
+#: ../twentyeleven/comments.php:41 ../twentyeleven/comments.php:61
+msgid "&larr; Older Comments"
+msgstr "&larr; Ältere Kommentare"
+
+#: ../twentyeleven/comments.php:42 ../twentyeleven/comments.php:62
+msgid "Newer Comments &rarr;"
+msgstr "Neuere Kommentare &rarr;"
+
+#: ../twentyeleven/content-aside.php:17
+msgid "Aside"
+msgstr "Nebenbei"
+
+#: ../twentyeleven/content-aside.php:22 ../twentyeleven/content-image.php:21
+#: ../twentyeleven/content-link.php:22 ../twentyeleven/content-quote.php:24
+#: ../twentyeleven/content-status.php:21 ../twentyeleven/content.php:30
+msgctxt "comments number"
+msgid "1"
+msgstr "1 [Kommentar Nummer]"
+
+#: ../twentyeleven/content-aside.php:22 ../twentyeleven/content-image.php:21
+#: ../twentyeleven/content-link.php:22 ../twentyeleven/content-quote.php:24
+#: ../twentyeleven/content-status.php:21 ../twentyeleven/content.php:30
+msgctxt "comments number"
+msgid "%"
+msgstr "% [Kommentar Nummer]"
+
+#: ../twentyeleven/content-aside.php:33 ../twentyeleven/content-gallery.php:32
+#: ../twentyeleven/content-image.php:27 ../twentyeleven/content-link.php:33
+#: ../twentyeleven/content-quote.php:35 ../twentyeleven/content-status.php:34
+#: ../twentyeleven/content.php:41 ../twentyeleven/functions.php:344
+#: ../twentyten/functions.php:248 ../twentyten/loop-attachment.php:104
+#: ../twentyten/loop.php:115 ../twentyten/loop.php:143
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Weiterlesen <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../twentyeleven/content-aside.php:34
+#: ../twentyeleven/content-featured.php:23
+#: ../twentyeleven/content-gallery.php:54 ../twentyeleven/content-image.php:28
+#: ../twentyeleven/content-intro.php:18 ../twentyeleven/content-link.php:34
+#: ../twentyeleven/content-page.php:18 ../twentyeleven/content-quote.php:36
+#: ../twentyeleven/content-single.php:24 ../twentyeleven/content-status.php:35
+#: ../twentyeleven/content.php:42 ../twentyeleven/image.php:90
+#: ../twentyten/loop-attachment.php:105 ../twentyten/loop-page.php:29
+#: ../twentyten/loop-single.php:34 ../twentyten/loop.php:144
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: ../twentyeleven/content-aside.php:42 ../twentyeleven/content-gallery.php:87
+#: ../twentyeleven/content-image.php:64 ../twentyeleven/content-link.php:42
+#: ../twentyeleven/content-quote.php:69 ../twentyeleven/content-status.php:43
+#: ../twentyeleven/content.php:77 ../twentyeleven/showcase.php:201
+msgid "Leave a reply"
+msgstr "Hinterlasse eine Antwort"
+
+#: ../twentyeleven/content-aside.php:42 ../twentyeleven/content-gallery.php:87
+#: ../twentyeleven/content-image.php:64 ../twentyeleven/content-link.php:42
+#: ../twentyeleven/content-quote.php:69 ../twentyeleven/content-status.php:43
+#: ../twentyeleven/content.php:77 ../twentyeleven/showcase.php:201
+msgid "<b>1</b> Reply"
+msgstr "<b>1</b> Antwort"
+
+#: ../twentyeleven/content-aside.php:42 ../twentyeleven/content-gallery.php:87
+#: ../twentyeleven/content-image.php:64 ../twentyeleven/content-link.php:42
+#: ../twentyeleven/content-quote.php:69 ../twentyeleven/content-status.php:43
+#: ../twentyeleven/content.php:77 ../twentyeleven/showcase.php:201
+msgid "<b>%</b> Replies"
+msgstr "<b>%</b> Antworten"
+
+#: ../twentyeleven/content-aside.php:44
+#: ../twentyeleven/content-featured.php:45
+#: ../twentyeleven/content-gallery.php:90 ../twentyeleven/content-image.php:68
+#: ../twentyeleven/content-intro.php:19 ../twentyeleven/content-link.php:44
+#: ../twentyeleven/content-page.php:21 ../twentyeleven/content-quote.php:72
+#: ../twentyeleven/content-single.php:52 ../twentyeleven/content-status.php:45
+#: ../twentyeleven/content.php:80 ../twentyeleven/functions.php:522
+#: ../twentyeleven/functions.php:550 ../twentyeleven/image.php:41
+#: ../twentyten/loop-attachment.php:63 ../twentyten/loop-attachment.php:111
+#: ../twentyten/loop-page.php:30 ../twentyten/loop-single.php:56
+#: ../twentyten/loop.php:100 ../twentyten/loop.php:123
+#: ../twentyten/loop.php:165
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: ../twentyeleven/content-featured.php:29
+#: ../twentyeleven/content-featured.php:38
+#: ../twentyeleven/content-gallery.php:62
+#: ../twentyeleven/content-gallery.php:72 ../twentyeleven/content-image.php:47
+#: ../twentyeleven/content-image.php:56 ../twentyeleven/content-quote.php:44
+#: ../twentyeleven/content-quote.php:54 ../twentyeleven/content-single.php:30
+#: ../twentyeleven/content-single.php:33 ../twentyeleven/content.php:51
+#: ../twentyeleven/content.php:61
+msgid ", "
+msgstr "."
+
+#: ../twentyeleven/content-featured.php:31 ../twentyten/functions.php:493
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"Dieser Eintrag wurde in %1$s verfasst und mit %2$s getaggt. Lesezeichen für "
+"diesen<a href=\"%3$s\" title=\"Permalink zu %4$s\" rel=\"bookmark\">Eintrag</"
+"a>."
+
+#: ../twentyeleven/content-featured.php:33 ../twentyten/functions.php:495
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"Dieser Eintrag wurde in %1$s verasst. Lesezeichen für diesen <a href=\"%3$s"
+"\" title=\"Permalink zu %4$s\" rel=\"bookmark\">Eintrag</a>."
+
+#: ../twentyeleven/content-gallery.php:47 ../twentyten/loop.php:82
+#, php-format
+msgid "This gallery contains <a %1$s>%2$s photo</a>."
+msgid_plural "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr[0] "Diese Gallerie beinhaltet <a %1$s>%2$s Foto</a>."
+msgstr[1] "Diese Gallerie beinhaltet <a %1$s>%2$s Fotos</a>."
+
+#: ../twentyeleven/content-gallery.php:66 ../twentyeleven/content-image.php:51
+#: ../twentyeleven/content-quote.php:48 ../twentyeleven/content.php:55
+#: ../twentyten/loop.php:151
+#, php-format
+msgid "<span class=\"%1$s\">Posted in</span> %2$s"
+msgstr "<span class=\"%1$s\">Verfasst in</span> %2$s"
+
+#: ../twentyeleven/content-gallery.php:78 ../twentyeleven/content-image.php:59
+#: ../twentyeleven/content-quote.php:60 ../twentyeleven/content.php:67
+#: ../twentyten/loop.php:160
+#, php-format
+msgid "<span class=\"%1$s\">Tagged</span> %2$s"
+msgstr "<span class=\"%1$s\">Getagged mit</span> %2$s"
+
+#: ../twentyeleven/content-image.php:16
+msgid "Image"
+msgstr "Bild"
+
+#: ../twentyeleven/content-image.php:34
+#, php-format
+msgid ""
+"<a href=\"%1$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%2$s"
+"\" pubdate>%3$s</time></a><span class=\"by-author\"> <span class=\"sep\"> by "
+"</span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%4$s\" "
+"title=\"%5$s\" rel=\"author\">%6$s</a></span></span>"
+msgstr ""
+"<a href=\"%1$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%2$s"
+"\" pubdate>%3$s</time></a><span class=\"by-author\"> <span class=\"sep\"> "
+"von </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%4$s\" "
+"title=\"%5$s\" rel=\"author\">%6$s</a></span></span>"
+
+#: ../twentyeleven/content-image.php:39 ../twentyeleven/functions.php:587
+#, php-format
+msgid "View all posts by %s"
+msgstr "Zeige alle Artikel unter %s"
+
+#: ../twentyeleven/content-quote.php:15
+msgid "Quote"
+msgstr "Zitat"
+
+#: ../twentyeleven/content-single.php:35
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s by <a href=\"%6$s\">%5$s</a>. "
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+"Eintrag verfasst in %1$s mit den Tags %2$s von <a href=\"%6$s\">%5$s</a>. "
+"Lesezeichen für diesen <a href=\"%3$s\" title=\"Permalink to %4$s\" rel="
+"\"bookmark\">Artikel</a>."
+
+#: ../twentyeleven/content-single.php:37
+#, php-format
+msgid ""
+"This entry was posted in %1$s by <a href=\"%6$s\">%5$s</a>. Bookmark the <a "
+"href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"Eintrag verfasst in %1$s von <a href=\"%6$s\">%5$s</a>. Lesezeichen für "
+"diesen <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">Artikel</a>."
+
+#: ../twentyeleven/content-single.php:39
+#, php-format
+msgid ""
+"This entry was posted by <a href=\"%6$s\">%5$s</a>. Bookmark the <a href="
+"\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+"Eintrag verasst von <a href=\"%6$s\">%5$s</a>. Lesezeichen für diesen <a "
+"href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">Artikel</a>."
+
+#: ../twentyeleven/content-single.php:64 ../twentyten/loop-single.php:47
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Alle Artikel von %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../twentyeleven/content-status.php:16
+msgid "Status"
+msgstr "Status"
+
+#: ../twentyeleven/content.php:16
+msgid "Featured"
+msgstr "Im Blickpunkt"
+
+#: ../twentyeleven/footer.php:27 ../twentyten/footer.php:33
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: ../twentyeleven/footer.php:27
+#, php-format
+msgid "Proudly powered by %s"
+msgstr "Unterstützt von %s"
+
+#: ../twentyeleven/functions.php:95
+msgid "Primary Menu"
+msgstr "Primäres Menü"
+
+#: ../twentyeleven/functions.php:164
+msgid "Wheel"
+msgstr "Rad"
+
+#: ../twentyeleven/functions.php:170
+msgid "Shore"
+msgstr "Küste"
+
+#: ../twentyeleven/functions.php:176
+msgid "Trolley"
+msgstr "Trolley"
+
+#: ../twentyeleven/functions.php:182
+msgid "Pine Cone"
+msgstr "Kiefernzapfen"
+
+#: ../twentyeleven/functions.php:188
+msgid "Chessboard"
+msgstr "Schachbrett"
+
+#: ../twentyeleven/functions.php:194
+msgid "Lanterns"
+msgstr "Laternen"
+
+#: ../twentyeleven/functions.php:200
+msgid "Willow"
+msgstr "Weide"
+
+#: ../twentyeleven/functions.php:206
+msgid "Hanoi Plant"
+msgstr "Hanoi Pflanze"
+
+#: ../twentyeleven/functions.php:391
+msgid "Main Sidebar"
+msgstr "Hauptseitenleiste"
+
+#: ../twentyeleven/functions.php:400
+msgid "Showcase Sidebar"
+msgstr "Showcase Seitenleiste"
+
+#: ../twentyeleven/functions.php:402
+msgid "The sidebar for the optional Showcase Template"
+msgstr "Die Seitenleiste für das optionale Showcase Template"
+
+#: ../twentyeleven/functions.php:410
+msgid "Footer Area One"
+msgstr "Footer Bereich 1"
+
+#: ../twentyeleven/functions.php:412 ../twentyeleven/functions.php:422
+#: ../twentyeleven/functions.php:432
+msgid "An optional widget area for your site footer"
+msgstr "Ein optionaler Widgetbereich für den Footer deine Seite"
+
+#: ../twentyeleven/functions.php:420
+msgid "Footer Area Two"
+msgstr "Footer Bereich 2"
+
+#: ../twentyeleven/functions.php:430
+msgid "Footer Area Three"
+msgstr "Footer Bereich 3"
+
+#: ../twentyeleven/functions.php:450 ../twentyeleven/single.php:18
+msgid "Post navigation"
+msgstr "Artikelnavigation"
+
+#: ../twentyeleven/functions.php:451 ../twentyten/loop.php:25
+#: ../twentyten/loop.php:178
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Ältere Artikel"
+
+#: ../twentyeleven/functions.php:452 ../twentyten/loop.php:26
+#: ../twentyten/loop.php:179
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Neuere Artikel <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../twentyeleven/functions.php:522 ../twentyten/functions.php:357
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: ../twentyeleven/functions.php:539
+#, php-format
+msgid "%1$s on %2$s <span class=\"says\">said:</span>"
+msgstr "%1$s sagte am %2$s <span class=\"says\">:</span>"
+
+#: ../twentyeleven/functions.php:563
+msgid "Reply <span>&darr;</span>"
+msgstr "Antworten <span>&darr;</span>"
+
+#: ../twentyeleven/functions.php:581
+#, php-format
+msgid ""
+"<span class=\"sep\">Posted on </span><a href=\"%1$s\" title=\"%2$s\" rel="
+"\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</"
+"time></a><span class=\"by-author\"> <span class=\"sep\"> by </span> <span "
+"class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" "
+"rel=\"author\">%7$s</a></span></span>"
+msgstr ""
+"<span class=\"sep\">Verfasst am </span><a href=\"%1$s\" title=\"%2$s\" rel="
+"\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</"
+"time></a><span class=\"by-author\"> <span class=\"sep\"> von </span> <span "
+"class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" "
+"rel=\"author\">%7$s</a></span></span>"
+
+#: ../twentyeleven/header.php:129
+msgid "Main menu"
+msgstr "Hauptmenü"
+
+#: ../twentyeleven/header.php:131
+msgid "Skip to primary content"
+msgstr "Zum Hauptinhalt wechseln"
+
+#: ../twentyeleven/header.php:132
+msgid "Skip to secondary content"
+msgstr "Zum Nebeninhalt wechseln"
+
+#: ../twentyeleven/image.php:18
+msgid "Image navigation"
+msgstr "Bildnavigation"
+
+#: ../twentyeleven/image.php:19
+msgid "&larr; Previous"
+msgstr "&larr; Vorheriger"
+
+#: ../twentyeleven/image.php:20
+msgid "Next &rarr;"
+msgstr "Nächster &rarr;"
+
+#: ../twentyeleven/image.php:30
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></span> "
+"at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> "
+"in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr ""
+"<span class=\"meta-prep meta-prep-entry-date\">Vefasst am </span> <span "
+"class=\"entry-date\"><abbr class=\"published\" title=\"%1$s\">%2$s</abbr></"
+"span> mit <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Zurück zu %7$s\" rel=\"gallery\">%8$s</"
+"a>"
+
+#: ../twentyeleven/search.php:18 ../twentyten/search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+#: ../twentyeleven/search.php:46 ../twentyten/search.php:28
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr "Ups, es wurde nichts gefunden. Versuche es erneut."
+
+#: ../twentyeleven/searchform.php:11
+msgid "Search"
+msgstr "Suche"
+
+#: ../twentyeleven/showcase.php:77
+msgid "Featured Post"
+msgstr "Blickpunktartikel"
+
+#: ../twentyeleven/showcase.php:160
+msgid "Recent Posts"
+msgstr "Letzte Artikel"
+
+#: ../twentyeleven/sidebar.php:26 ../twentyten/sidebar.php:34
+msgid "Meta"
+msgstr "Meta"
+
+#: ../twentyeleven/single.php:19
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Vorheriger"
+
+#: ../twentyeleven/single.php:20
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nächster <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../twentyeleven/tag.php:19 ../twentyten/tag.php:16
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Tag Archive: %s"
+
+#: ../twentyeleven/inc/theme-options.php:55
+#: ../twentyeleven/inc/theme-options.php:474
+msgid "Color Scheme"
+msgstr "Farbschema"
+
+#: ../twentyeleven/inc/theme-options.php:61
+#: ../twentyeleven/inc/theme-options.php:491
+msgid "Link Color"
+msgstr "Link Farbe"
+
+#: ../twentyeleven/inc/theme-options.php:62
+msgid "Default Layout"
+msgstr "Standard Layout"
+
+#: ../twentyeleven/inc/theme-options.php:94
+#: ../twentyeleven/inc/theme-options.php:95
+msgid "Theme Options"
+msgstr "Theme Einstellungen"
+
+#: ../twentyeleven/inc/theme-options.php:110
+msgid ""
+"Some themes provide customization options that are grouped together on a "
+"Theme Options screen. If you change themes, options may change or disappear, "
+"as they are theme-specific. Your current theme, Twenty Eleven, provides the "
+"following Theme Options:"
+msgstr ""
+"Einige Themes unterstützen erweiterete Einstellungen, die auf dem Theme "
+"Optionen Schirm zusammengefasst sind. Wenn Du Einstellungen vornimmst, "
+"werden diese für das aktuelle Theme wirksam. Dein aktuelles Theme Twenty "
+"Eleven unterstützt die folgenden Optionen:"
+
+#: ../twentyeleven/inc/theme-options.php:112
+msgid ""
+"<strong>Color Scheme</strong>: You can choose a color palette of \"Light"
+"\" (light background with dark text) or \"Dark\" (dark background with light "
+"text) for your site."
+msgstr ""
+"<strong>Farbschema</strong>: Du kannst die Paletten \"Hell\" (heller "
+"Hintergrund, dunkler Text) oder  \"Dunkel\" (dunker Hintergrund, heller "
+"Text) wählen."
+
+#: ../twentyeleven/inc/theme-options.php:113
+msgid ""
+"<strong>Link Color</strong>: You can choose the color used for text links on "
+"your site. You can enter the HTML color or hex code, or you can choose "
+"visually by clicking the \"Select a Color\" button to pick from a color "
+"wheel."
+msgstr ""
+"<strong>Link Farbe</strong>: Gib einen Hexcode oder HTML Code für die "
+"Linkfarbe auf deiner Seite ein. Du kannst den Colorpicker unter \"Farbe "
+"wählen\" verwenden."
+
+#: ../twentyeleven/inc/theme-options.php:114
+msgid ""
+"<strong>Default Layout</strong>: You can choose if you want your site&#8217;"
+"s default layout to have a sidebar on the left, the right, or not at all."
+msgstr ""
+"<strong>Standard Layout</strong>: Wähle hier, wie das Design deiner Seite "
+"sein soll."
+
+#: ../twentyeleven/inc/theme-options.php:116
+msgid ""
+"Remember to click \"Save Changes\" to save any changes you have made to the "
+"theme options."
+msgstr ""
+"Vergiss nicht auf \"Einstellungen speichern\" zu klicken, damit die "
+"Einstellungen wirksam werden."
+
+#: ../twentyeleven/inc/theme-options.php:119
+msgid ""
+"<a href=\"http://codex.wordpress.org/Appearance_Theme_Options_Screen\" "
+"target=\"_blank\">Documentation on Theme Options</a>"
+msgstr ""
+"<a href=\"http://codex.wordpress.org/Appearance_Theme_Options_Screen\" "
+"target=\"_blank\">Dokumentation</a>"
+
+#: ../twentyeleven/inc/theme-options.php:120
+msgid ""
+"<a href=\"http://wordpress.org/support/\" target=\"_blank\">Support Forums</"
+"a>"
+msgstr ""
+"<a href=\"http://wordpress.org/support/\" target=\"_blank\">Support Forum</a>"
+
+#: ../twentyeleven/inc/theme-options.php:149
+msgid "Light"
+msgstr "Hell"
+
+#: ../twentyeleven/inc/theme-options.php:155
+msgid "Dark"
+msgstr "Dunkel"
+
+#: ../twentyeleven/inc/theme-options.php:173
+msgid "Content on left"
+msgstr "Inhalt links"
+
+#: ../twentyeleven/inc/theme-options.php:178
+msgid "Content on right"
+msgstr "Inhalt rechts"
+
+#: ../twentyeleven/inc/theme-options.php:183
+msgid "One-column, no sidebar"
+msgstr "Eine Spalte, keine Seitenleiste"
+
+#: ../twentyeleven/inc/theme-options.php:276
+#, php-format
+msgid "Default color: %s"
+msgstr "Standard Farbe: %s"
+
+#: ../twentyeleven/inc/theme-options.php:312
+#, php-format
+msgid "%s Theme Options"
+msgstr "%s Theme Einstellungen"
+
+#: ../twentyeleven/inc/theme-options.php:498
+msgid "Layout"
+msgstr "Hauptlayout"
+
+#: ../twentyeleven/inc/widgets.php:19
+msgid ""
+"Use this widget to list your recent Aside, Status, Quote, and Link posts"
+msgstr ""
+"Verwende dieses Widget, um deine letzten Bemerkungen, Stati, Zitate oder "
+"Links zu veröffentlichen"
+
+#: ../twentyeleven/inc/widgets.php:20
+msgid "Twenty Eleven Ephemera"
+msgstr "Twenty Eleven Ephemera"
+
+#: ../twentyeleven/inc/widgets.php:52
+msgid "Ephemera"
+msgstr "Ephemera"
+
+#: ../twentyeleven/inc/widgets.php:91 ../twentyeleven/inc/widgets.php:107
+msgid "0 <span class=\"reply\">comments &rarr;</span>"
+msgstr "0 <span class=\"reply\">Kommentare &rarr;</span>"
+
+#: ../twentyeleven/inc/widgets.php:91 ../twentyeleven/inc/widgets.php:107
+msgid "1 <span class=\"reply\">comment &rarr;</span>"
+msgstr "1 <span class=\"reply\">Kommentar &rarr;</span>"
+
+#: ../twentyeleven/inc/widgets.php:91 ../twentyeleven/inc/widgets.php:107
+msgid "% <span class=\"reply\">comments &rarr;</span>"
+msgstr "% <span class=\"reply\">Kommentare &rarr;</span>"
+
+#: ../twentyten/404.php:16 ../twentyten/loop.php:33
+msgid "Not Found"
+msgstr "Nicht gefunden"
+
+#: ../twentyten/404.php:18
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr "Ups, die Seite, die Du aufrufen wolltest, existiert nicht."
+
+#: ../twentyten/archive.php:33
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr "Tägliche Archive: <span>%s</span>"
+
+#: ../twentyten/archive.php:35
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "Monatliche Archive: <span>%s</span>"
+
+#: ../twentyten/archive.php:37
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "Jährliche Archive: <span>%s</span>"
+
+#: ../twentyten/comments.php:35
+#, php-format
+msgid "One Response to %2$s"
+msgid_plural "%1$s Responses to %2$s"
+msgstr[0] "0 Antwort auf %2$s"
+msgstr[1] "%1$s Antworten auf %2$s"
+
+#: ../twentyten/comments.php:41 ../twentyten/comments.php:60
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Ältere Kommentare"
+
+#: ../twentyten/comments.php:42 ../twentyten/comments.php:61
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Neuere Kommentare<span class=\"meta-nav\">&rarr;</span>"
+
+#: ../twentyten/footer.php:33
+#, php-format
+msgid "Proudly powered by %s."
+msgstr "Unterstützt von %s."
+
+#: ../twentyten/functions.php:100
+msgid "Primary Navigation"
+msgstr "Primäre Navigation"
+
+#: ../twentyten/functions.php:140
+msgid "Berries"
+msgstr "Trauben"
+
+#: ../twentyten/functions.php:146
+msgid "Cherry Blossoms"
+msgstr "Kirschblüte"
+
+#: ../twentyten/functions.php:152
+msgid "Concave"
+msgstr "Konkave"
+
+#: ../twentyten/functions.php:158
+msgid "Fern"
+msgstr "Farn"
+
+#: ../twentyten/functions.php:164
+msgid "Forest Floor"
+msgstr "Wald"
+
+#: ../twentyten/functions.php:170
+msgid "Inkwell"
+msgstr "Tintenfass"
+
+#: ../twentyten/functions.php:176
+msgid "Path"
+msgstr "Weg"
+
+#: ../twentyten/functions.php:182
+msgid "Sunset"
+msgstr "Sonnenuntergang"
+
+#: ../twentyten/functions.php:330
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"sagte\">sagte:</span>"
+
+#: ../twentyten/functions.php:376
+msgid "Primary Widget Area"
+msgstr "Primärer Widgetbereich"
+
+#: ../twentyten/functions.php:378
+msgid "The primary widget area"
+msgstr "Der primäre Widget Bereich"
+
+#: ../twentyten/functions.php:387
+msgid "Secondary Widget Area"
+msgstr "Sekundärer Widgetbereich"
+
+#: ../twentyten/functions.php:389
+msgid "The secondary widget area"
+msgstr "Der sekundäre Widget Bereich"
+
+#: ../twentyten/functions.php:398
+msgid "First Footer Widget Area"
+msgstr "Erste Footer Widget Bereich"
+
+#: ../twentyten/functions.php:400
+msgid "The first footer widget area"
+msgstr "Der erste Footer Widget Bereich"
+
+#: ../twentyten/functions.php:409
+msgid "Second Footer Widget Area"
+msgstr "Zweiter Footer Widget Bereich"
+
+#: ../twentyten/functions.php:411
+msgid "The second footer widget area"
+msgstr "Der zweite Footer Widget Bereich"
+
+#: ../twentyten/functions.php:420
+msgid "Third Footer Widget Area"
+msgstr "Dritter Footer Widget Bereich"
+
+#: ../twentyten/functions.php:422
+msgid "The third footer widget area"
+msgstr "Der dritte Footer Widget Bereich"
+
+#: ../twentyten/functions.php:431
+msgid "Fourth Footer Widget Area"
+msgstr "Vierter Footer Widget Bereich"
+
+#: ../twentyten/functions.php:433
+msgid "The fourth footer widget area"
+msgstr "Der vierte Footer Widget Bereich"
+
+#: ../twentyten/functions.php:467
+#, php-format
+msgid ""
+"<span class=\"%1$s\">Posted on</span> %2$s <span class=\"meta-sep\">by</"
+"span> %3$s"
+msgstr ""
+"<span class=\"%1$s\">Verfasst am</span> %2$s <span class=\"meta-sep\">von</"
+"span> %3$s"
+
+#: ../twentyten/functions.php:497
+#, php-format
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+"Lesezeichen für diesen <a href=\"%3$s\" title=\"Permalink zu %4$s\" rel="
+"\"bookmark\">Artikel</a>."
+
+#: ../twentyten/header.php:83
+msgid "Skip to content"
+msgstr "Zum Inhalt springen"
+
+#: ../twentyten/loop-attachment.php:21
+#, php-format
+msgid "Return to %s"
+msgstr "Zurück zu %s"
+
+#: ../twentyten/loop-attachment.php:23
+#, php-format
+msgid "<span class=\"meta-nav\">&larr;</span> %s"
+msgstr "<span class=\"meta-nav\">&larr;</span> %s"
+
+#: ../twentyten/loop-attachment.php:32
+#, php-format
+msgid "<span class=\"%1$s\">By</span> %2$s"
+msgstr "<span class=\"%1$s\">Von</span> %2$s"
+
+#: ../twentyten/loop-attachment.php:43
+#, php-format
+msgid "<span class=\"%1$s\">Published</span> %2$s"
+msgstr "<span class=\"%1$s\">Am</span> %2$s"
+
+#: ../twentyten/loop-attachment.php:53
+#, php-format
+msgid "Full size is %s pixels"
+msgstr "Vollbild ist %s Pixel"
+
+#: ../twentyten/loop-attachment.php:56
+msgid "Link to full-size image"
+msgstr "Link zum Vollbild"
+
+#: ../twentyten/loop-single.php:21 ../twentyten/loop-single.php:61
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: ../twentyten/loop-single.php:22 ../twentyten/loop-single.php:62
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: ../twentyten/loop.php:60 ../twentyten/loop.php:95 ../twentyten/loop.php:96
+msgctxt "gallery category slug"
+msgid "gallery"
+msgstr "Gallerie"
+
+#: ../twentyten/loop.php:93 ../twentyten/loop.php:96
+msgid "More Galleries"
+msgstr "Mehr Gallerien"
+
+#: ../twentyten/loop.php:99 ../twentyten/loop.php:122
+#: ../twentyten/loop.php:164
+msgid "Leave a comment"
+msgstr "Hinterlasse einen Kommentar"
+
+#: ../twentyten/loop.php:99 ../twentyten/loop.php:122
+#: ../twentyten/loop.php:164
+msgid "% Comments"
+msgstr "% Kommentare"
+
+#: ../twentyten/loop.php:106
+msgctxt "asides category slug"
+msgid "asides"
+msgstr "Bemerkungen"
+
+#~ msgid "Epic 404 - Article Not Found"
+#~ msgstr "Error 404 - Artikel nicht gefunden"
+
+#~ msgid ""
+#~ "The article you were looking for was not found, but maybe try looking "
+#~ "again!"
+#~ msgstr "Der Artikel, nach dem Du suchst, existiert nicht"
+
+#~ msgid "This is the 404.php template."
+#~ msgstr "Dies ist das 404-Template"
+
+#~ msgid "Posted"
+#~ msgstr "Verfasst am"
+
+#~ msgid "by"
+#~ msgstr "von"
+
+#~ msgid "&laquo; Older Entries"
+#~ msgstr "&laquo;  Ältere Einträge"
+
+#~ msgid "Newer Entries &raquo;"
+#~ msgstr "Neuere Einträge &raquo;"
+
+#~ msgid "Oops, Post Not Found!"
+#~ msgstr "Ups, Artikel nicht gefunden!"
+
+#~ msgid "Uh Oh. Something is missing. Try double checking things."
+#~ msgstr "Ups, irgendetwas fehlt. Versuche es noch einmal."
+
+#~ msgid "This is the error message in the custom posty type archive template."
+#~ msgstr "Dieses Error wurde vom Eigenen Artikeltyp-Template erzeugt."
+
+#~ msgid "Posts Categorized:"
+#~ msgstr "Artikel aus der Kategorie:"
+
+#~ msgid "Posts Tagged:"
+#~ msgstr "Artikel mit den Tags:"
+
+#~ msgid "Posts By:"
+#~ msgstr "Artikel von:"
+
+#~ msgid "Daily Archives:"
+#~ msgstr "Tägliche Archive:"
+
+#~ msgid "Monthly Archives:"
+#~ msgstr "Monatliche Archive:"
+
+#~ msgid "Yearly Archives:"
+#~ msgstr "Jährliche Archive:"
+
+#~ msgid "filed under"
+#~ msgstr "unter"
+
+#~ msgid "This is the error message in the archive.php template."
+#~ msgstr "Diese Fehlermeldung wurde vom Archiv-Template erzeugt."
+
+#~ msgid ""
+#~ "This post is password protected. Enter the password to view comments."
+#~ msgstr ""
+#~ "Dieser Artikel ist passwortgeschützt. Gib das Passwort ein, um Kommentare "
+#~ "zu lesen."
+
+#~ msgid "Leave a Reply"
+#~ msgstr "Hinterlasse eine Antwort"
+
+#~ msgid "Leave a Reply to %s"
+#~ msgstr "Hinterlasse eine Antwort zu %s"
+
+#~ msgid "Logged in as"
+#~ msgstr "Angemeldet als"
+
+#~ msgid "Log out"
+#~ msgstr "Abmelden"
+
+#~ msgid "Your Name*"
+#~ msgstr "Dein Name*"
+
+#~ msgid "Mail"
+#~ msgstr "Email"
+
+#~ msgid "Your E-Mail*"
+#~ msgstr "Deine Email*"
+
+#~ msgid "(will not be published)"
+#~ msgstr "(wird nicht veröffentlicht)"
+
+#~ msgid "Got a website?"
+#~ msgstr "Hast Du eine Website?"
+
+#~ msgid "Your Comment here..."
+#~ msgstr "Dein Kommentar"
+
+#~ msgid "Submit"
+#~ msgstr "Absenden"
+
+#~ msgid "You can use these tags"
+#~ msgstr "Du kannst folgende Tags benutzen"
+
+#~ msgid "<cite class=\"fn\">%s</cite>"
+#~ msgstr "<cite class=\"fn\">%s</cite>"
+
+#~ msgid "Search for:"
+#~ msgstr "Suche nach:"
+
+#~ msgid "This is the error message in the index.php template."
+#~ msgstr "Diese Fehlermeldung wurde vom Index-Template erzeugt."
+
+#~ msgid "This is the error message in the page-custom.php template."
+#~ msgstr "Diese Fehlermeldung wurde vom Eigene Seiten-Template erzeugt."
+
+#~ msgid "This is the error message in the page.php template."
+#~ msgstr "Diese Fehlermeldung wurde vom Seiten-Template erzeugt."
+
+#~ msgid "Sorry, No Results."
+#~ msgstr "Ups, nichts gefunden."
+
+#~ msgid "UTry your search again."
+#~ msgstr "Versuch eine andere Suche."
+
+#~ msgid "This is the error message in the search.php template."
+#~ msgstr "Diese Fehlermeldung wurde vom Such-Template erzeugt."
+
+#~ msgid "This is the error message in the single-custom_type.php template."
+#~ msgstr "Diese Fehlermeldung wurde vom Eigener Artikeltyp-Template erzeugt."
+
+#~ msgid "This is the error message in the single.php template."
+#~ msgstr "Diese Fehlermeldung wurde vom Einzelner Artikel-Template erzeugt."
+
+#~ msgid "This is the error message in the taxonomy-custom_cat.php template."
+#~ msgstr "Diese Fehlermeldung wurde vom Eigene Taxonomy-Template erzeugt."
+
+#~ msgid "The Main Menu"
+#~ msgstr "Das Hauptmenü"
+
+#~ msgid "Footer Links"
+#~ msgstr "Footer-Links"
+
+#~ msgid "Custom Types"
+#~ msgstr "Eigene Artikeltypen"
+
+#~ msgid "Custom Post"
+#~ msgstr "Eigene Artikel"
+
+#~ msgid "All Custom Posts"
+#~ msgstr "Alle eigenen Artikel"
+
+#~ msgid "Add New"
+#~ msgstr "Neu"
+
+#~ msgid "Add New Custom Type"
+#~ msgstr "Neuer Eigener Artikeltyp"
+
+#~ msgid "Edit Post Types"
+#~ msgstr "Artikeltyp bearbeiten"
+
+#~ msgid "New Post Type"
+#~ msgstr "Neue Artikeltyp"
+
+#~ msgid "View Post Type"
+#~ msgstr "Artikeltyp ansehen"
+
+#~ msgid "Search Post Type"
+#~ msgstr "Artikeltyp suchen"
+
+#~ msgid "Nothing found in the Database."
+#~ msgstr "Nichts gefunden"
+
+#~ msgid "Nothing found in Trash"
+#~ msgstr "Nichts im Papierkorb gefunden"
+
+#~ msgid "This is the example custom post type"
+#~ msgstr "Dies ist ein Beispiel für einen eigenen Artikeltyp"
+
+#~ msgid "Custom Categories"
+#~ msgstr "Eigene Kategorien"
+
+#~ msgid "Custom Category"
+#~ msgstr "Eigene Kategorie"
+
+#~ msgid "Search Custom Categories"
+#~ msgstr "Eigene Kategorien durchsuchen"
+
+#~ msgid "All Custom Categories"
+#~ msgstr "Alle eigenen Kategorien"
+
+#~ msgid "Parent Custom Category"
+#~ msgstr "Übergeordnete eigene Kategorie"
+
+#~ msgid "Parent Custom Category:"
+#~ msgstr "Übergeordnete eigene Kategorie:"
+
+#~ msgid "Edit Custom Category"
+#~ msgstr "Eigene Kategorie bearbeiten"
+
+#~ msgid "Update Custom Category"
+#~ msgstr "Eigene Kategorie aktualisieren"
+
+#~ msgid "Add New Custom Category"
+#~ msgstr "Neue eigene Kategorie"
+
+#~ msgid "New Custom Category Name"
+#~ msgstr "Name der eigenen Kategorie"
+
+#~ msgid "Custom Tags"
+#~ msgstr "Eigene Tags"
+
+#~ msgid "Custom Tag"
+#~ msgstr "Eigener Tag"
+
+#~ msgid "Search Custom Tags"
+#~ msgstr "Eigene Tags durchsuchen"
+
+#~ msgid "All Custom Tags"
+#~ msgstr "Allge eigenen Tags"
+
+#~ msgid "Parent Custom Tag"
+#~ msgstr "Übergeordnete eigener Tag"
+
+#~ msgid "Parent Custom Tag:"
+#~ msgstr "Übergeordneter eigener Tag:"
+
+#~ msgid "Edit Custom Tag"
+#~ msgstr "Eigenen Tag bearbeiten"
+
+#~ msgid "Update Custom Tag"
+#~ msgstr "Eigenen Tag aktualisieren"
+
+#~ msgid "Add New Custom Tag"
+#~ msgstr "Neuer eigener Tag"
+
+#~ msgid "New Custom Tag Name"
+#~ msgstr "Eigener Tag Name"
+
+#~ msgid "Click OK to reset. Any theme settings will be lost!"
+#~ msgstr "Klicke auf OK, wenn Du alle Einstellungen zurücksetzen willst."
+
+#~ msgid "Default options restored."
+#~ msgstr "Standardeinstellungen wiederhergestellt."
+
+#~ msgid "Options saved."
+#~ msgstr "Einstellungen gespeichert."
+
+#~ msgid "Options Framework Internal Container"
+#~ msgstr "Interne Framework Einstellungen"
+
+#~ msgid "Error 404 - Not Found"
+#~ msgstr "Error 404 - Nichts gefunden"
+
+#~ msgid "Sorry, but you are looking for something that isn't here."
+#~ msgstr "Ups, Du suchst wohl etwas, was nicht da ist."
+
+#~ msgid "All posts in %s"
+#~ msgstr "Alle Artikel in %s"
+
+#~ msgid "All posts tagged %s"
+#~ msgstr "Alle Artikel mit dem Tag %s"
+
+#~ msgid "Archive for"
+#~ msgstr "Archive für"
+
+#~ msgid "All posts by"
+#~ msgstr "Alle Artikel von"
+
+#~ msgid "Permanent link to %s"
+#~ msgstr "Permalink zu %s"
+
+#~ msgid "Posted:"
+#~ msgstr "Verfasst:"
+
+#~ msgid "Tags:"
+#~ msgstr "Tags:"
+
+#~ msgid "Comments:"
+#~ msgstr "Kommentare:"
+
+#~ msgid "edit"
+#~ msgstr "bearbeiten"
+
+#~ msgid "Older Entries"
+#~ msgstr "Ältere Einträge"
+
+#~ msgid "Newer Entries"
+#~ msgstr "Neuere Einträge"
+
+#~ msgid "<h2>Sorry, but there aren't any posts in the %s category yet.</h2>"
+#~ msgstr "<h2>Ups, in der Kategorie %s gibt es noch keine Artikel </h2>"
+
+#~ msgid "<h2>Sorry, but there aren't any posts tagged %s yet.</h2>"
+#~ msgstr "<h2>Ups, mit dem Tag %s gibt es noch keine Artikel </h2>"
+
+#~ msgid "<h2>Sorry, but there aren't any posts with this date.</h2>"
+#~ msgstr "<h2>Ups, mit dem Datum %s gibt es noch keine Artikel </h2>"
+
+#~ msgid "<h2>Sorry, but there aren't any posts by %s yet.</h2>"
+#~ msgstr "<h2>Ups, von Autor %s gibt es noch keine Artikel </h2>"
+
+#~ msgid "<h2>No posts found.</h2>"
+#~ msgstr "<h2>Keine Artikel gefunden</h2>"
+
+#~ msgid "Trackbacks for this post"
+#~ msgstr "Trackback für diesen Artikel"
+
+#~ msgid "Comments are now closed for this article."
+#~ msgstr "Die Kommentare für diesen Artikel sind nun ausgeschaltet."
+
+#~ msgid "You must be %1$slogged in%2$s to post a comment."
+#~ msgstr "Du musst %1$sangemeldet sein%2$s, um einen Kommentar zu verfassen."
+
+#~ msgid "Logged in as %1$s. %2$sLog out &raquo;%3$s"
+#~ msgstr "Angemeldet als %1$s. %2$sAbmelden &raquo;%3$s"
+
+#~ msgid "Log out of this account"
+#~ msgstr "Von diesem Konto abmelden"
+
+#~ msgid "*"
+#~ msgstr "*"
+
+#~ msgid "Mail <span>(will not be published)</span>"
+#~ msgstr "Email <span>(wird nicht veröffentlicht)</span>"
+
+#~ msgid "Submit Comment"
+#~ msgstr "Kommentar absenden"
+
+#~ msgid "Powered by"
+#~ msgstr "Unterstützt von"
+
+#~ msgid "Secondary Menu"
+#~ msgstr "Sekundäres Menü"
+
+#~ msgid "Full Screen"
+#~ msgstr "Vollbild"
+
+#~ msgid "Search Results for: &ldquo;%s&rdquo;"
+#~ msgstr "Suchergebnisse für: &ldquo;%s&rdquo;"
+
+#~ msgid "Posts"
+#~ msgstr "Artikel"
+
+#~ msgid "No posts match the search terms"
+#~ msgstr "Keine Artikel zu dieser Suche gefunden"
+
+#~ msgid "No portfolios match the search terms"
+#~ msgstr "Keine Portfolio-Elemente zu dieser Suche gefunden"
+
+#~ msgid "Your search for <em>\"%s\"</em> did not match any entries"
+#~ msgstr "Deine Suche nach <em>\"%s\"</em> führte zu keinem Treffer"
+
+#~ msgid "Suggestions:"
+#~ msgstr "Tipp:"
+
+#~ msgid "Make sure all words are spelled correctly."
+#~ msgstr ""
+#~ "Vergewissere Dich, dass alle Suchbegriffe richtig geschrieben wurden."
+
+#~ msgid "Try different keywords."
+#~ msgstr "Versuche andere Suchbegriffe."
+
+#~ msgid "Try more general keywords."
+#~ msgstr "Versuche mehr Suchbegriffe."
+
+#~ msgid "To search type and hit enter"
+#~ msgstr "Um zu suchen, gib Suchbegriffe ein und drücke Enter"
+
+#~ msgid "Client:"
+#~ msgstr "Klient:"
+
+#~ msgid "Date:"
+#~ msgstr "Datum:"
+
+#~ msgid "Launch Project"
+#~ msgstr "Projektbeginn"
+
+#~ msgid "Permanent Link to %s"
+#~ msgstr "Permalink zu %s"
+
+#~ msgid "View Project"
+#~ msgstr "Projekt ansehen"
+
+#~ msgid "Last 30 Posts"
+#~ msgstr "Die letzten 30 Artikel"
+
+#~ msgid "Archives by Month:"
+#~ msgstr "Nach Monaten archiviert:"
+
+#~ msgid "Archives by Subject:"
+#~ msgstr "Nach Titel archiviert:"
+
+#~ msgid "Thanks, your email was sent successfully."
+#~ msgstr "Danke. Deine Email wurde erfolgreich gesendet."
+
+#~ msgid "Sorry, an error occured."
+#~ msgstr "Ups, ein Fehler ist aufgetreten."
+
+#~ msgid "Name:"
+#~ msgstr "Name:"
+
+#~ msgid "Email:"
+#~ msgstr "Email:"
+
+#~ msgid "Message:"
+#~ msgstr "Nachricht:"
+
+#~ msgid "Send Email"
+#~ msgstr "Email senden"
+
+#~ msgid "All"
+#~ msgstr "Alle"
+
+#~ msgid "All Categories"
+#~ msgstr "Alle Kategorien"
+
+#~ msgid "No Categories"
+#~ msgstr "Keine Kategorien"
+
+#~ msgid "All "
+#~ msgstr "Alle"
+
+#~ msgid "No "
+#~ msgstr "Nein"
+
+#~ msgid "Centered"
+#~ msgstr "Zentriert"
+
+#~ msgid "No Repeat"
+#~ msgstr "Keine Wiederholung"
+
+#~ msgid "Repeat"
+#~ msgstr "Wiederholung"
+
+#~ msgid "Repeat Horizontally"
+#~ msgstr "Horizontal wiederholen"
+
+#~ msgid "Feed for all posts filed under %s"
+#~ msgstr "RSS Feed für alle Artikel unter %s"
+
+#~ msgid ""
+#~ "Control and configure the general setup of your theme. Upload your "
+#~ "preferred logo, setup your feeds and insert your analytics tracking code."
+#~ msgstr ""
+#~ "Konfiguriere dein Theme. Du kannst ein Logo hochladen, Feeds "
+#~ "konfigurieren, Tracking Code einfügen."
+
+#~ msgid "Enable Plain Text Logo"
+#~ msgstr "Aktiviere ein reines Textlogo"
+
+#~ msgid "Check this to enable a plain text logo rather than an image."
+#~ msgstr ""
+#~ "Aktiviere dies, wenn Du einen reinen Text statt einem Logobild bevorzugst."
+
+#~ msgid "Custom Logo"
+#~ msgstr "Eigenes Logo"
+
+#~ msgid ""
+#~ "Upload a logo for your theme, or specify the image address of your online "
+#~ "logo. (http://example.com/logo.png)"
+#~ msgstr ""
+#~ "Lade ein Logo für dein Theme hoch oder gib die URL zu dem Logo ein.http://"
+#~ "example.com/logo.png)"
+
+#~ msgid "Site Tagline"
+#~ msgstr "Überschrift der Seite"
+
+#~ msgid ""
+#~ "Add a tagline to display on your site. If you do not want one, please "
+#~ "leave this field blank"
+#~ msgstr "Füge deiner Seite neben dem Logo eine Überschrift hinzu"
+
+#~ msgid ""
+#~ "Upload a 16px x 16px Png/Gif image that will represent your website's "
+#~ "favicon."
+#~ msgstr ""
+#~ "Lade ein 16x16px PNG/GIF hoch, dass Du als Favicon verwenden möchtest."
+
+#~ msgid "Header Caption"
+#~ msgstr "Header-Blickfang"
+
+#~ msgid "Enter a message to display above your navigation"
+#~ msgstr "Gib hier den Text ein, den Du über der Navigation anzeigen willst"
+
+#~ msgid "Contact Form Email Address"
+#~ msgstr "Emailadresse für das Kontaktformular"
+
+#~ msgid ""
+#~ "Enter the email address where you'd like to receive emails from the "
+#~ "contact form, or leave blank to use admin email."
+#~ msgstr ""
+#~ "Gib die Emailadresse ein, mit der Du die Emails empfangen willst, die "
+#~ "über das Kontaktformular empfängst. Lasse dieses Feld leer, wenn die "
+#~ "Admin-Emailadresse verwendet werden soll."
+
+#~ msgid "FeedBurner URL"
+#~ msgstr "FeedBurner URL"
+
+#~ msgid ""
+#~ "Enter your full FeedBurner URL (or any other preferred feed URL) if you "
+#~ "wish to use FeedBurner over the standard WordPress Feed e.g. http://feeds."
+#~ "feedburner.com/yoururlhere"
+#~ msgstr ""
+#~ "Gib deine Feedburner URL ein (oder eine andere Feed URL), die Du statt "
+#~ "des WordPress-Feeds verwenden willst (Beispiel: http://feeds.feedburner."
+#~ "com/yoururlhere)"
+
+#~ msgid ""
+#~ "Paste your Google Analytics (or other) tracking code here. It will be "
+#~ "inserted before the closing body tag of your theme."
+#~ msgstr ""
+#~ "Füge deinen Google Analytics Code hier ein. Er wird vor den schließenden "
+#~ "Body Tag deines Themes eingefügt."
+
+#~ msgid "Styling Options"
+#~ msgstr "Styling Optionen"
+
+#~ msgid ""
+#~ "Configure the visual appearance of you theme. You can select the layout "
+#~ "of pages that include a sidebar, select a custom color, or insert any "
+#~ "custom CSS necessary. Additionally, you can set default background "
+#~ "information for your theme."
+#~ msgstr ""
+#~ "Konfiguriere hier die optische Darstellung deines Themes. Du kannst das "
+#~ "Layout mit Seiten, Seitenleiste oder eigenem CSS wählen und "
+#~ "Hintergrundinformationen ergänzen."
+
+#~ msgid "Select main content and sidebar alignment."
+#~ msgstr "Wähle den Hauptinhalt und die Ausrichtung der Seitenleiste"
+
+#~ msgid "Highlight and Link Color"
+#~ msgstr "Farbe für Hervorhebungen und Links"
+
+#~ msgid "Select a color to be used as the highlight color within the theme"
+#~ msgstr "Diese Farbe wird für das gesamte Theme verwendet."
+
+#~ msgid "Quickly add some CSS to your theme by adding it to this block."
+#~ msgstr "Füge schnell eigene CSS Stile zu deinem Theme hinzu."
+
+#~ msgid ""
+#~ "The following options allow you to set the default background behavior "
+#~ "for each page. Each of these options can be overridden on the individual "
+#~ "post/page/portfolio level. You are in complete control."
+#~ msgstr ""
+#~ "Die folgenden Optionen gestatten es Dir, das Verhalten des "
+#~ "Hintergrundbildes festzulegen. Diese Einstellungen können auf "
+#~ "individuellen Artikeln/Seiten/Portfolio Elementen überschrieben werden. "
+#~ "Du hast die volle Kontrolle."
+
+#~ msgid "Default Background Image"
+#~ msgstr "Standard Hintergrundbild"
+
+#~ msgid "Set the default background image to be used on all pages."
+#~ msgstr "Setze das Standard-Hintergrundbild für deine Seiten."
+
+#~ msgid "Default Background Repeat"
+#~ msgstr "Standard-Hintergrundwiederholung"
+
+#~ msgid "Select the default background repeat for the background image"
+#~ msgstr "Wähle, wie der Hintergrund wiederholt werden soll."
+
+#~ msgid "Default Background Position"
+#~ msgstr "Standard Hintergrund-Positionierung"
+
+#~ msgid "Select the default background position for the background image"
+#~ msgstr ""
+#~ "Wähle, wie das Hintergrundbild standardmäßig positioniert werden soll."
+
+#~ msgid "Default Background Color"
+#~ msgstr "Standard Hintergrundfarbe"
+
+#~ msgid "Select the default background color for pages."
+#~ msgstr "Wähle die Standard Hintergrundfarbe für deine Seiten"
+
+#~ msgid "Home Content Options"
+#~ msgstr "Home Inhaltsoptionen"
+
+#~ msgid ""
+#~ "The following settings allow you to configure your home page template."
+#~ msgstr ""
+#~ "Die folgenden Optionen erlauben dir, das Homepage-Template zu gestalten."
+
+#~ msgid "Display Recent Portfolios"
+#~ msgstr "Zeige letzte Portfolios"
+
+#~ msgid ""
+#~ "Enter the number of recent portfolios to display on the home page. If you "
+#~ "do not want to display any items, you can leave this field blank or enter "
+#~ "0"
+#~ msgstr ""
+#~ "Füge die Anzahl Portfolios ein, die auf der Homepage gezeigt werden "
+#~ "sollen. Willst Du keine Portfolios anzeigen, gib eine 0 ein oder lasse "
+#~ "das Feld leer"
+
+#~ msgid "Enable Slider"
+#~ msgstr "Slider aktivieren"
+
+#~ msgid "Check this to enable the image slider."
+#~ msgstr "Aktiviere oder deaktiviere den Slider."
+
+#~ msgid "Autoslide"
+#~ msgstr "Automatische Slides"
+
+#~ msgid ""
+#~ "Enter in the amount of milliseconds before the next transition or leave "
+#~ "blank to disable auto slide. 5000 = 5 seconds."
+#~ msgstr ""
+#~ "Lasse dieses Feld leer, um automatische Slides zu deaktivieren oder gib "
+#~ "die Anzahl der Millisekunden zwischen zwei Slides ein."
+
+#~ msgid "Image 1"
+#~ msgstr "Bild 1"
+
+#~ msgid "Upload an image to show in the slider. Dimensions: 700px x 350px."
+#~ msgstr "Lade ein Bild für den Slider (700x350px) hoch."
+
+#~ msgid "Image 1 Description"
+#~ msgstr "Bild 1 Beschreibung"
+
+#~ msgid "Enter in an optional description (accepts HTML)"
+#~ msgstr "Gib eine optionale Beschreibung ein (auch HTML)"
+
+#~ msgid "Image 1 Link"
+#~ msgstr "Bild 1 Link"
+
+#~ msgid ""
+#~ "Enter in the URL you wish to link to, or leave blank to disable linking "
+#~ "for this image."
+#~ msgstr ""
+#~ "Gib eine URL ein, um das Bild zu verlinken oder lasse das Feld leer, um "
+#~ "keine Verlinkung zu verwenden."
+
+#~ msgid "Image 2"
+#~ msgstr "Bild 2"
+
+#~ msgid "Image 2 Description"
+#~ msgstr "Bild 2 Beschreibung"
+
+#~ msgid "Image 2 Link"
+#~ msgstr "Bild 2 Link"
+
+#~ msgid "Image 3"
+#~ msgstr "Bild 3"
+
+#~ msgid "Image 3 Description"
+#~ msgstr "Bild 3 Beschreibung"
+
+#~ msgid "Image 3 Link"
+#~ msgstr "Bild 3 Link"
+
+#~ msgid "Image 4"
+#~ msgstr "Bild 4"
+
+#~ msgid "Image 4 Description"
+#~ msgstr "Bild 4 Beschreibung"
+
+#~ msgid "Image 4 Link"
+#~ msgstr "Bild 4 Link"
+
+#~ msgid "Image 5"
+#~ msgstr "Bild 5"
+
+#~ msgid "Image 5 Description"
+#~ msgstr "Bild 5 Beschreibung"
+
+#~ msgid "Image 5 Link"
+#~ msgstr "Bild 5 Link"
+
+#~ msgid "Post Options"
+#~ msgstr "Artikeloptionen"
+
+#~ msgid "Here you can configure how you would like your posts to function."
+#~ msgstr "Hier kannst Du einstellen, wie deine Artikel funktionieren sollen."
+
+#~ msgid "Show Featured Image on Single Post Page"
+#~ msgstr "Zeige das Artikelbild auf Artikelseiten"
+
+#~ msgid ""
+#~ "Check this to show the featured image at the beginning of the post on the "
+#~ "single post page."
+#~ msgstr ""
+#~ "Setze den Haken, wenn Du möchtest, dass das Artikelbild auf den einzelnen "
+#~ "Artikelseiten angezeigt werden soll."
+
+#~ msgid "Portfolio Options"
+#~ msgstr "Portfolio Einstellungen"
+
+#~ msgid ""
+#~ "Here you can configure how you would like your portfolios to function."
+#~ msgstr "Hier kannst Du einstellen, wie dein Portfolio funktionieren soll."
+
+#~ msgid "Show Related Portfolios"
+#~ msgstr "Zeige verwandte Portfolio Elemente"
+
+#~ msgid ""
+#~ "Enter the number of related portfolios to display on individual portfolio "
+#~ "pages. If you do not wish to display related portfolios, please enter 0."
+#~ msgstr ""
+#~ "Gib die Anzahl anzuzeigender, verwandter Portfolio Elemente ein. 0 "
+#~ "verhindert die Anzeige."
+
+#~ msgid "Portfolio Detail Settings"
+#~ msgstr "Portfolio Detail Einstellungen"
+
+#~ msgid "Portfolio Type"
+#~ msgstr "Portfolio Typ"
+
+#~ msgid "Choose the type of portfolio you wish to display."
+#~ msgstr "Wähle, welchen Portfolio Typ Du anzeigen lassen willst."
+
+#~ msgid "Portfolio Date"
+#~ msgstr "Portfolio Datum"
+
+#~ msgid "What was the date of the completed portfolio"
+#~ msgstr "Was war das Datum des Portfolio Elements"
+
+#~ msgid "Portfolio Client"
+#~ msgstr "Portfolio Element"
+
+#~ msgid "For whom was the portfolio completed"
+#~ msgstr "Für wen wurde dieses Portfolio Element erstellt"
+
+#~ msgid "Portfolio URL"
+#~ msgstr "Portfolio URL"
+
+#~ msgid "What is the URL for the Portfolio?"
+#~ msgstr "Was ist die URL dieses Portfolios?"
+
+#~ msgid "Image Settings"
+#~ msgstr "Bild Einstellungen"
+
+#~ msgid "Video Settings"
+#~ msgstr "Video Einstellungen"
+
+#~ msgid "Video Height"
+#~ msgstr "Video Höhe"
+
+#~ msgid "The video height (e.g. 500)."
+#~ msgstr "Die Höhe des Videos (z.B. 500)"
+
+#~ msgid "M4V File URL"
+#~ msgstr "M4V URL"
+
+#~ msgid "The URL to the .m4v video file"
+#~ msgstr "Die URL des .m4v Videos"
+
+#~ msgid "OGV File URL"
+#~ msgstr "OGV URL"
+
+#~ msgid "The URL to the .ogv video file"
+#~ msgstr "Die URL des .ogv Videos"
+
+#~ msgid "Poster Image"
+#~ msgstr "Poster Bild"
+
+#~ msgid "The preview image."
+#~ msgstr "Das Vorschaubild."
+
+#~ msgid "Embedded Code"
+#~ msgstr "Eingebetteter Code"
+
+#~ msgid ""
+#~ "If you are using something other than self hosted video such as Youtube "
+#~ "or Vimeo, paste the embed code here. Width is best at 700px with any "
+#~ "height.<br><br> This field will override the above."
+#~ msgstr ""
+#~ "Verwende den EmbedCode, wenn Du selbstgehostete Videos wie YouTube oder "
+#~ "Vimeo einfügen willst. Die beste Breite ist 700px, die Höhe ist egal."
+#~ "<br><br>Dieses Feld überschreibt die Einstellungen oben."
+
+#~ msgid "Audio Settings"
+#~ msgstr "Audio Einstellungen"
+
+#~ msgid "MP3 File URL"
+#~ msgstr "MP3 URL"
+
+#~ msgid "The URL to the .mp3 audio file"
+#~ msgstr "Die URL der .mp3 Datei"
+
+#~ msgid "OGA File URL"
+#~ msgstr "OGA URL"
+
+#~ msgid "The URL to the .oga, .ogg audio file"
+#~ msgstr "Die URL der .oga oder .ogg Datei"
+
+#~ msgid "The Preview Image for this audio track"
+#~ msgstr "Vorschaubild für die Audiodatei"
+
+#~ msgid "Poster Image Height"
+#~ msgstr "Poster Bild Höhe"
+
+#~ msgid "The height of the poster image"
+#~ msgstr "Die Höhe des Poster Bildes"
+
+#~ msgid "Custom Background Settings"
+#~ msgstr "Eigene Hintergrund Einstellungen"
+
+#~ msgid "Custom Background Image"
+#~ msgstr "Eigenes Hintergrundbild"
+
+#~ msgid ""
+#~ "Upload a custom background image for this page. Once uploaded, click "
+#~ "\"Insert to Post\"."
+#~ msgstr ""
+#~ "Lade ein Hintergrundbild für diese Seite hoch. Vergiss nicht, nach dem "
+#~ "Upload auf \"In Artikel einfügen\" zu klicken."
+
+#~ msgid "Custom Background Repeat"
+#~ msgstr "Hintergrund-Wiederholung"
+
+#~ msgid "Select a custom background repeat for the uploaded image."
+#~ msgstr "Bestimmte die Wiederholung des Hintergrundbildes."
+
+#~ msgid "Repeat Vertically"
+#~ msgstr "Vertikal wiederholen"
+
+#~ msgid "Custom Background Position"
+#~ msgstr "Hintergrundposition"
+
+#~ msgid "Select a custom background position for the uploaded image."
+#~ msgstr "Wähle die Position des Hintergrundbildes"
+
+#~ msgid "Left"
+#~ msgstr "Links"
+
+#~ msgid "Right"
+#~ msgstr "Rechts"
+
+#~ msgid "Custom Background Color"
+#~ msgstr "Hintergrundfarbe"
+
+#~ msgid "Select a custom background color for the uploaded image."
+#~ msgstr "Wähle eine Hintergrundfarbe für das hochgeladene Bild"
+
+#~ msgid ""
+#~ "Select your preferred Portfolio Type and fill out the additional "
+#~ "information fields."
+#~ msgstr ""
+#~ "Wähle einen Portfoliotyp, den Du verwenden willst und fülle die "
+#~ "Detailfelder."
+
+#~ msgid ""
+#~ "Upload images to be used for this portfolio (images should be at least "
+#~ "940px wide). Set a featured image that will be displayed on the main "
+#~ "portfolio page. The featured image will not be included in the single "
+#~ "portfolio page so it can be smaller than 940px wide."
+#~ msgstr ""
+#~ "Lade Bilder für dieses Portfolio Element hoch (bestenfalls 940px breit). "
+#~ "Setzte ein Artikelbild, dass auf der Portfolio-Seite als Vorschaubild "
+#~ "verwendet wird. Das Vorschaubild kann kleiner sein, da es nicht auf der "
+#~ "Seite des Portfolio Elements angezeigt wird."
+
+#~ msgid "These settings enable you to embed videos into your portfolio pages."
+#~ msgstr ""
+#~ "Diese Einstellungen ermöglichen es Dir, Videos auf deinen Portfolio-"
+#~ "Seiten einzufügen."
+
+#~ msgid ""
+#~ "Upload a custom background image for this post. Once uploaded, click "
+#~ "\"Insert to Post\"."
+#~ msgstr ""
+#~ "Lade ein Hintergrundbild für diesen Artikel hoch. Klicke nach dem "
+#~ "Hochladen auf \"In Artikel einfügen\"."
+
+#~ msgid "Quote Settings"
+#~ msgstr "Zitat Einstellungen"
+
+#~ msgid "The Quote"
+#~ msgstr "Das Zitat"
+
+#~ msgid "Write your quote in this field."
+#~ msgstr "Schreibe dein Zitat in dieses Feld."
+
+#~ msgid "Link Settings"
+#~ msgstr "Link Einstellungen"
+
+#~ msgid "The URL"
+#~ msgstr "Die URL"
+
+#~ msgid "Insert the URL you wish to link to."
+#~ msgstr "Füge die URL ein, zu der Du verlinken willst."
+
+#~ msgid "Audio Poster Image"
+#~ msgstr "Audio Poster Bild"
+
+#~ msgid "If you would like a poster image for the audio"
+#~ msgstr "Falls Du ein Poster Bild für deine Audiodatei verwenden willst"
+
+#~ msgid ""
+#~ "If you are including a poster image, please indicate the height of the "
+#~ "image."
+#~ msgstr ""
+#~ "Wenn Du ein Poster Bild einfügst, musst Du die Abmessungen des Bildes "
+#~ "hier eingeben."
+
+#~ msgid "The preivew image."
+#~ msgstr "Das Vorschaubild"
+
+#~ msgid "Embeded Code"
+#~ msgstr "Eingebetteter Code"
+
+#~ msgid ""
+#~ "If you're not using self hosted video then you can include embeded code "
+#~ "here. Best viewed at 600px wide."
+#~ msgstr ""
+#~ "Falls Du keine selbstgehosteten Videos verwendest, kannst Du den Code des "
+#~ "Videos hier eintragen. Die beste Breite ist 600px."
+
+#~ msgid ""
+#~ "Note that for audio, you must supply both MP3 and OGG files to satisfy "
+#~ "all browsers."
+#~ msgstr ""
+#~ "Wichtig: Du solltest MP3 UND OGG Audio Dateien verwenden, damit alle "
+#~ "Browser Audio abspielen."
+
+#~ msgid ""
+#~ "Note that for video, you must supply an M4V file to satisfy both HTML5 "
+#~ "and Flash solutions. The optional OGV format is used to increase x-"
+#~ "browser support for HTML5 browsers such as Firefox and Opera."
+#~ msgstr ""
+#~ "Wichtig: Du must M4V und HTML oder FLASH Videos einfügen (alternativ "
+#~ "OGV), um alle Browser zu unterstützen, die HTML5 nicht zu unterstützen "
+#~ "(Opera, Firefox)."
+
+#~ msgid "Add New Portfolio"
+#~ msgstr "Neues Portfolio Element"
+
+#~ msgid "Edit Portfolio"
+#~ msgstr "Portfolio bearbeiten"
+
+#~ msgid "New Portfolio"
+#~ msgstr "Neues Portfolio"
+
+#~ msgid "View Portfolio"
+#~ msgstr "Portfolio anzeigen"
+
+#~ msgid "Search Portfolio"
+#~ msgstr "Portfolio suchen"
+
+#~ msgid "No portfolio found"
+#~ msgstr "Kein Portfolio gefunden"
+
+#~ msgid "No portfolio found in Trash"
+#~ msgstr "Kein Portfolio im Papierkorb gefunden"
+
+#~ msgid "portfolio"
+#~ msgstr "Portfolio"
+
+#~ msgid "Search Portfolio Types"
+#~ msgstr "Portfoliotypen suchen"
+
+#~ msgid "Popular Portfolio Types"
+#~ msgstr "Beliebte Portfoliotypen"
+
+#~ msgid "All Portfolio Types"
+#~ msgstr "Alle Portfoliotypen"
+
+#~ msgid "Parent Portfolio Type"
+#~ msgstr "Übergeordneter Portfoliotyp"
+
+#~ msgid "Parent Portfolio Type:"
+#~ msgstr "Übergeordneter Portfoliotyp:"
+
+#~ msgid "Edit Portfolio Type"
+#~ msgstr "Portfoliotyp bearbeiten"
+
+#~ msgid "Update Portfolio Type"
+#~ msgstr "Portfoliotyp aktualisieren"
+
+#~ msgid "Add New Portfolio Type"
+#~ msgstr "Neuer Portfoliotyp"
+
+#~ msgid "New Portfolio Type Name"
+#~ msgstr "Name des Portfoliotyps"
+
+#~ msgid "Separate portfolio types with commas"
+#~ msgstr "Kommagetrennte Liste von Portfoliotypen"
+
+#~ msgid "Add or remove portfolio types"
+#~ msgstr "Portfoliotypen hinzufügen oder entfernen"
+
+#~ msgid "Choose from the most used portfolio types"
+#~ msgstr "Wähle von den beliebtesten Portfoliotypen"
+
+#~ msgid "Portfolio Types"
+#~ msgstr "Portfoliotypen"
+
+#~ msgid "Sort Portfolios"
+#~ msgstr "Portfolios sortieren"
+
+#~ msgid ""
+#~ "Click, drag, re-order. Repeat as neccessary. Portfolio at the top will "
+#~ "appear first."
+#~ msgstr ""
+#~ "Du kannst per Drag & Drop sortieren. Das oberste Element erscheint zuerst."
+
+#~ msgid "Portfolio Item Title"
+#~ msgstr "Portfolio Element Titel"
+
+#~ msgid "type"
+#~ msgstr "Typ"
+
+#~ msgid "portfolio-type"
+#~ msgstr "Portfoliotyp"
+
+#~ msgid "A widget that displays your latest posts with a short excerpt."
+#~ msgstr "Dieses Widget zeigt die letzten Artikel mit kurzem Auszug"
+
+#~ msgid "Custom Recent Posts Widget"
+#~ msgstr "Eigenes Letzte Beiträge Widget"
+
+#~ msgid "Amount to show:"
+#~ msgstr "Anzahl Elemente:"
+
+#~ msgid "A widget that displays your Flickr photos."
+#~ msgstr "Ein Widget, dass deine Flickr-Fotos zeigt."
+
+#~ msgid "Custom Flickr Photos"
+#~ msgstr "Eigene Flickr-Fotos"
+
+#~ msgid "Flickr ID:"
+#~ msgstr "Flickr-ID:"
+
+#~ msgid "Number of Photos:"
+#~ msgstr "Anzahl Fotos:"
+
+#~ msgid "Type (user or group):"
+#~ msgstr "Typ (Benutzer oder Gruppe):"
+
+#~ msgid "Display (random or latest):"
+#~ msgstr "Anzeige (letzte oder zufall):"
+
+#~ msgid "A widget that displays your recent portfolios."
+#~ msgstr "Ein Widget, dass deine letzten Portfolios zeigt."
+
+#~ msgid "Custom Recent Portfolios Widget"
+#~ msgstr "Eigenes Letzte Portfolios Widget"
+
+#~ msgid "Short Description:"
+#~ msgstr "Kurze Beschreibung:"
+
+#~ msgid "A widget that displays your latest tweets."
+#~ msgstr "Ein Widget, dass deine letzten Tweets zeigt."
+
+#~ msgid "Custom Latest Tweets"
+#~ msgstr "Eigene letzte Tweets"
+
+#~ msgid "Twitter Username e.g. ormanclark"
+#~ msgstr "Twitter-Benutzername"
+
+#~ msgid "Number of tweets (max 20)"
+#~ msgstr "Anzahl Tweets (max 20)"
+
+#~ msgid "Follow Text e.g. Follow me on Twitter"
+#~ msgstr "Follow Text (bsp: Folge mir auf Twitter)"
+
+#~ msgid "A widget that displays your YouTube or Vimeo Video."
+#~ msgstr "Ein Widget, dass deine YouTube oder VImeo Videos zeigt"
+
+#~ msgid "Custom Video Widget"
+#~ msgstr "Eigenes Video Widget"
+
+#~ msgid "Embed Code:"
+#~ msgstr "Embed Code:"
+
+#~ msgid "Related Projects"
+#~ msgstr "Verwandte Projekte"
+
+#~ msgid "Recent Work"
+#~ msgstr "Letzte Projekte"
+
+#~ msgid "Button URL"
+#~ msgstr "Button URL"
+
+#~ msgid "Add the button's url eg http://example.com"
+#~ msgstr "URL des Buttons, bsp. http://example.com"
+
+#~ msgid "Button's Style"
+#~ msgstr "Button Stil"
+
+#~ msgid "Select the button's style, ie the buttons colour"
+#~ msgstr "Wähle des Stil des Buttons"
+
+#~ msgid "Button's Size"
+#~ msgstr "Button Größe"
+
+#~ msgid "Select the button's size"
+#~ msgstr "Wähle die größe des Buttons"
+
+#~ msgid "Button's Text"
+#~ msgstr "Button Text"
+
+#~ msgid "Add the button's text"
+#~ msgstr "Füge einen Button Text hinzu"
+
+#~ msgid "Insert Button Shortcode"
+#~ msgstr "Button Shortcode einfügen"
+
+#~ msgid "Alert's Style"
+#~ msgstr "Alarm Stil"
+
+#~ msgid "Select the slter's style, ie the alert colour"
+#~ msgstr "Wähle den Stil des Alarms"
+
+#~ msgid "Alert's Text"
+#~ msgstr "Alarm Text"
+
+#~ msgid "Add the alert's text"
+#~ msgstr "Füge einen Alarm Text hinzu"
+
+#~ msgid "Insert Alert Shortcode"
+#~ msgstr "Alarm Shortcode einfügen"
+
+#~ msgid "Toggle Content Title"
+#~ msgstr "Inhalts Titel Toggle"
+
+#~ msgid "Add the title that will go above the toggle content"
+#~ msgstr "Füge den Titel für den Inhalt des Toggles ein"
+
+#~ msgid "Toggle Content"
+#~ msgstr "Toggle Inhalt"
+
+#~ msgid "Add the toggle content."
+#~ msgstr "Füge den Toggle Inhalt hinzu."
+
+#~ msgid "Insert Toggle Content Shortcode"
+#~ msgstr "Toggle Shortcode einfügen"
+
+#~ msgid "Insert Tabbed Shortcode"
+#~ msgstr "Tab Shortcode einfügen"
+
+#~ msgid "Tab Title"
+#~ msgstr "Tab Titel"
+
+#~ msgid "Title of the tab"
+#~ msgstr "Titel des Tabs"
+
+#~ msgid "Tab Content"
+#~ msgstr "Tab Inhalt"
+
+#~ msgid "Add the tabs content"
+#~ msgstr "Inhalt des Tabs"
+
+#~ msgid "Add Tab"
+#~ msgstr "Tab hinufügen"
+
+#~ msgid "Insert Columns Shortcode"
+#~ msgstr "Spalten Shortcode einfügen"
+
+#~ msgid "Column Type"
+#~ msgstr "Spalten-Typ"
+
+#~ msgid "Select the type, ie width of the column."
+#~ msgstr "Wähle des Spaltentyp wie Breite und Spaltenanzahl."
+
+#~ msgid "Column Content"
+#~ msgstr "Spalteninhalt"
+
+#~ msgid "Add the column content."
+#~ msgstr "Füge den Spalteninhalt hinzu"
+
+#~ msgid "Add Column"
+#~ msgstr "Spalte hinzufügen"
+
+#~ msgid "<strong>1</strong> Reply"
+#~ msgstr "<strong>1</strong> Antwort"
+
+#~ msgid "<strong>%</strong> Replies"
+#~ msgstr "<strong>%</strong> Antworten"
+
+#~ msgid "<strong>Search</strong> for it:"
+#~ msgstr "<strong>Suche</strong> nach:"
+
+#~ msgid ""
+#~ "<strong>If you typed in a URL...</strong> check the spelling and try "
+#~ "reloading the page."
+#~ msgstr ""
+#~ "<strong>Wenn Du eine URL eingegeben hast...</strong>, überprüfe bitte die "
+#~ "Schreibweise und aktualisiere die Seite."
+
+#~ msgid "<strong>Start over again</strong> with the %1$sHomepage%2$s."
+#~ msgstr "<strong>Starte auf der</strong> %1$sHomepage%2$s."
+
+#~ msgid "By %1$s on %2$s "
+#~ msgstr "Von %1$s am %2$s "
+
+#~ msgid "On %1$s "
+#~ msgstr "Um %1$s "
+
+#~ msgid "<div>Tags: "
+#~ msgstr "<div>Tags: "
+
+#~ msgid ""
+#~ "<h2 class='center'>Sorry, but there aren't any posts in the %s category "
+#~ "yet.</h2>"
+#~ msgstr ""
+#~ "<h2 class='center'>Ups, in der Kategorie %s gibt es noch keine Artikel.</"
+#~ "h2>"
+
+#~ msgid "<h2 class='center'>Sorry, but there aren't any posts by %s yet.</h2>"
+#~ msgstr "<h2 class='center'>Ups, von %s gibt es noch keine Artikel.</h2>"
+
+#~ msgid "<h2 class='center'>No posts found.</h2>"
+#~ msgstr "<h2 class='center'>Keine Artikel gefunden.</h2>"
+
+#~ msgid "Edit this page"
+#~ msgstr "Diese Seite bearbeiten"
+
+#~ msgid "<p class=\"serif\">Read the rest of this entry &raquo;</p>"
+#~ msgstr "<p class=\"serif\">Weiterlesen &raquo;</p>"
+
+#~ msgid "No Responses"
+#~ msgstr "Keine Antworten"
+
+#~ msgid "<p>You must be <a href=\"%s\">logged in</a> to post a comment.</p>"
+#~ msgstr ""
+#~ "<p>Du musst <a href=\"%s\">angemeldet sein</a>, um einen Kommentar zu "
+#~ "schreiben.</p>"
+
+#~ msgid "Logged in as <a href=\"%1$s/wp-admin/profile.php\">%2$s</a>."
+#~ msgstr "Angemeldet als <a href=\"%1$s/wp-admin/profile.php\">%2$s</a>."
+
+#~ msgid ""
+#~ " is proudly powered by <a href=\"http://wordpress.org/"
+#~ "\"><strong>WordPress</strong></a>"
+#~ msgstr ""
+#~ "unterstützt von <a href=\"http://wordpress.org/\"><strong>WordPress</"
+#~ "strong></a>"
+
+#~ msgid "Go back to %s"
+#~ msgstr "Zurück zu %s"
+
+#~ msgid ""
+#~ "<span class=\"time\">%1$s</span> on <a href=\"#comment-%2$s\" title=\"\">"
+#~ "%3$s</a>"
+#~ msgstr ""
+#~ "<span class=\"Zeit\">%1$s</span> um <a href=\"#comment-%2$s\" title=\"\">"
+#~ "%3$s</a>"
+
+#~ msgid "g:i a"
+#~ msgstr "H:i"
+
+#~ msgid ""
+#~ "%s: Widget class not found. Make sure this widget exists and the class "
+#~ "name is correct"
+#~ msgstr ""
+#~ "%s: Widget Klasse nicht gefunden. Vergewissere dich, dass das Widget "
+#~ "existiert und der Klassenname korrekt ist"
+
+#~ msgid "Archive for the &#8216;%s&#8217; Category"
+#~ msgstr "Archiv für die Kategorie &#8216;%s&#8217;"
+
+#~ msgid "Search Results for &#8216;<em>%s</em>&#8216;"
+#~ msgstr "Suchergebnisse für &#8216;<em>%s</em>&#8216;"
+
+#~ msgid "Posts Tagged &#8216;%s&#8217;"
+#~ msgstr "Artikel mit den Tags &#8216;%s&#8217;"
+
+#~ msgid "Archive for %s"
+#~ msgstr "Archive für %s"
+
+#~ msgid "Please enter a name"
+#~ msgstr "Gib einen Namen ein"
+
+#~ msgid "Your name must consist of at least 2 characters"
+#~ msgstr "Dein Name muss mindestens aus zwei Buchstaben bestehen"
+
+#~ msgid "Please enter a valid email address"
+#~ msgstr "Gib eine gültige Emailadresse ein"
+
+#~ msgid "phone number"
+#~ msgstr "Telefonnummer"
+
+#~ msgid "extension"
+#~ msgstr "Durchwahl"
+
+#~ msgid "Please enter a valid %1$s and %2$s"
+#~ msgstr "Gib eine gültige %1$s und %2$s"
+
+#~ msgid "Please enter a valid %s"
+#~ msgstr "Gib eine gültige %s ein"
+
+#~ msgid "Please enter your message"
+#~ msgstr "Gib deine Nachricht ein"
+
+#~ msgid "ext."
+#~ msgstr "Durchwahl"
+
+#~ msgid "Phone: "
+#~ msgstr "Telefon:"
+
+#~ msgid "Contact Form submission from %s"
+#~ msgstr "Kontaktanfrage von %s"
+
+#~ msgid "Sender's name: "
+#~ msgstr "Absendername:"
+
+#~ msgid "E-mail: "
+#~ msgstr "Email:"
+
+#~ msgid "Message: "
+#~ msgstr "Nachricht:"
+
+#~ msgid "<p class=\"serif\">Read the rest of this page &raquo;</p>"
+#~ msgstr "<p class=\"serif\">Weiterlesen &raquo;</p>"
+
+#~ msgid ""
+#~ "Thank you <strong>%s</strong> for using our contact form! Your email was "
+#~ "successfully sent and we will be in touch with you shortly."
+#~ msgstr ""
+#~ "Danke <strong>%s</strong>, dass Du das Kontaktformular verwendet hast. "
+#~ "Deine Email wurde gesendet und wird bald beantwortet."
+
+#~ msgid ""
+#~ "<strong>Reason:</strong> No category has been assigned as Portfolio "
+#~ "section for this page yet. In order to fix this, go to the theme's "
+#~ "options page and assign a category for this page."
+#~ msgstr ""
+#~ "<strong>Grund:</strong> Du hast keine Kategorie ausgewählt. Um das "
+#~ "Problem zu beheben, wähle in den Theme Einstellungen eine Kategorie für "
+#~ "diese Seite."
+
+#~ msgid ""
+#~ "To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+#~ "Widgets</em></strong> and place widgets into the <strong><em>BlogSidebar</"
+#~ "em></strong> Widget Area"
+#~ msgstr ""
+#~ "Um diese Seitenleiste zu bearbeiten, geh im Backend auf Design -> "
+#~ "Widgets</em></strong> und füge der <strong><em>Blog Seitenleiste</em></"
+#~ "strong> Widgets hinzu."
+
+#~ msgid ""
+#~ "To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+#~ "Widgets</em></strong> and place widgets into the "
+#~ "<strong><em>ContactSidebar</em></strong> Widget Area"
+#~ msgstr ""
+#~ "Um diese Seitenleiste zu bearbeiten, geh im Backend auf Design -> "
+#~ "Widgets</em></strong> und füge der <strong><em>Kontakt Seitenleiste</em></"
+#~ "strong> Widgets hinzu."
+
+#~ msgid ""
+#~ "To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+#~ "Widgets</em></strong> and place widgets into the <strong><em>Pages "
+#~ "Sidebar 2</em></strong> Widget Area"
+#~ msgstr ""
+#~ "Um diese Seitenleiste zu bearbeiten, geh im Backend auf Design -> "
+#~ "Widgets</em></strong> und füge der <strong><em>Seite 2 Seitenleiste</em></"
+#~ "strong> Widgets hinzu."
+
+#~ msgid ""
+#~ "To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+#~ "Widgets</em></strong> and place widgets into the <strong><em>Pages "
+#~ "Sidebar 3</em></strong> Widget Area"
+#~ msgstr ""
+#~ "Um diese Seitenleiste zu bearbeiten, geh im Backend auf Design -> "
+#~ "Widgets</em></strong> und füge der <strong><em>Seite 3 Seitenleiste</em></"
+#~ "strong> Widgets hinzu."
+
+#~ msgid ""
+#~ "To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+#~ "Widgets</em></strong> and place widgets into the <strong><em>Pages "
+#~ "Sidebar 4</em></strong> Widget Area"
+#~ msgstr ""
+#~ "Um diese Seitenleiste zu bearbeiten, geh im Backend auf Design -> "
+#~ "Widgets</em></strong> und füge der <strong><em>Seite 4 Seitenleiste</em></"
+#~ "strong> Widgets hinzu."
+
+#~ msgid ""
+#~ "To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+#~ "Widgets</em></strong> and place widgets into the <strong><em>Pages "
+#~ "Sidebar 5</em></strong> Widget Area"
+#~ msgstr ""
+#~ "Um diese Seitenleiste zu bearbeiten, geh im Backend auf Design -> "
+#~ "Widgets</em></strong> und füge der <strong><em>Seite 5 Seitenleiste</em></"
+#~ "strong> Widgets hinzu."
+
+#~ msgid ""
+#~ "To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+#~ "Widgets</em></strong> and place widgets into the <strong><em>Pages "
+#~ "Sidebar 6</em></strong> Widget Area"
+#~ msgstr ""
+#~ "Um diese Seitenleiste zu bearbeiten, geh im Backend auf Design -> "
+#~ "Widgets</em></strong> und füge der <strong><em>Seite 6 Seitenleiste</em></"
+#~ "strong> Widgets hinzu."
+
+#~ msgid ""
+#~ "To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+#~ "Widgets</em></strong> and place widgets into the <strong><em>Pages "
+#~ "Sidebar 7</em></strong> Widget Area"
+#~ msgstr ""
+#~ "Um diese Seitenleiste zu bearbeiten, geh im Backend auf Design -> "
+#~ "Widgets</em></strong> und füge der <strong><em>Seite 7 Seitenleiste</em></"
+#~ "strong> Widgets hinzu."
+
+#~ msgid ""
+#~ "To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+#~ "Widgets</em></strong> and place widgets into the <strong><em>Pages "
+#~ "Sidebar 8</em></strong> Widget Area"
+#~ msgstr ""
+#~ "Um diese Seitenleiste zu bearbeiten, geh im Backend auf Design -> "
+#~ "Widgets</em></strong> und füge der <strong><em>Seite 8 Seitenleiste</em></"
+#~ "strong> Widgets hinzu."
+
+#~ msgid ""
+#~ "To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+#~ "Widgets</em></strong> and place widgets into the "
+#~ "<strong><em>PortfolioSidebar</em></strong> Widget Area"
+#~ msgstr ""
+#~ "Um diese Seitenleiste zu bearbeiten, geh im Backend auf Design -> "
+#~ "Widgets</em></strong> und füge der <strong><em>Portfolio Seitenleiste</"
+#~ "em></strong> Widgets hinzu."
+
+#~ msgid ""
+#~ "To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+#~ "Widgets</em></strong> and place widgets into the "
+#~ "<strong><em>SitemapSidebar</em></strong> Widget Area"
+#~ msgstr ""
+#~ "Um diese Seitenleiste zu bearbeiten, geh im Backend auf Design -> "
+#~ "Widgets</em></strong> und füge der <strong><em>Sitemap Seitenleiste</em></"
+#~ "strong> Widgets hinzu."
+
+#~ msgid ""
+#~ "To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+#~ "Widgets</em></strong> and place widgets into the <strong><em>Pages "
+#~ "Sidebar</em></strong> Widget Area"
+#~ msgstr ""
+#~ "Um diese Seitenleiste zu bearbeiten, geh im Backend auf Design -> "
+#~ "Widgets</em></strong> und füge der <strong><em>Seiten Seitenleiste</em></"
+#~ "strong> Widgets hinzu."
+
+#~ msgid "Options <small>(version %1$s)</small>"
+#~ msgstr "Einstellungen <small>(Version %1$s)</small>"
+
+#~ msgid ""
+#~ "Please note that the actual Slogan text can be changed or deleted at "
+#~ "%1$sSettings -> General%2$s <strong>Tagline</strong> option."
+#~ msgstr ""
+#~ "Bitte beachte, dass Du den Slogan jederzeit unter %1$sEinstellungen -> "
+#~ "Allgemein%2$s <strong>Überschrift</strong> ändern oder löschen kannst."
+
+#~ msgid ""
+#~ "Enable %1$sprettyPhoto%2$s script. In case of conflicts with some other "
+#~ "lightbox plugins you may wish to disable the %1$sprettyPhoto%2$s script. "
+#~ "This script is automatically disabled if you installed and activated the "
+#~ "%3$sWP-prettyPhoto%4$s plugin."
+#~ msgstr ""
+#~ "Aktiviere das %1$sprettyPhoto%2$s Skript. Manchmal gibt es Probleme mit "
+#~ "diesem Skript. Dann solltest du das %1$sprettyPhoto%2$s Skript "
+#~ "deaktivieren. Dieses Skript ist automatisch deaktiviert, wenn %3$sWP-"
+#~ "prettyPhoto%4$s aktiviert wurde."
+
+#~ msgid ""
+#~ "If you have setup your menu through %1$sAppearance -> Menus%2$s, then you "
+#~ "can ignore this option. Please select the page(s) you would like to be "
+#~ "excluded from the top navigation menu. This option will NOT affect the "
+#~ "settings in the new WordPress 3.0+ Menu option."
+#~ msgstr ""
+#~ "Wenn Du unter %1$sDesign -> Menüs%2$s ein Hauptmenü eingestellt hast, "
+#~ "ignoriere diese Option. Wähle hier Seiten, auf denen Du das Hauptmenü "
+#~ "deaktivieren willst. Diese Option hat keinen Effekt auf die Menü Option "
+#~ "von Wordpress 3.0+."
+
+#~ msgid "Disable Theme Update Notifier"
+#~ msgstr "Deaktiviere Theme Update Benachrichtigungen"
+
+#~ msgid "Enable %1$sstyle.css%2$s"
+#~ msgstr "Aktiviere %1$sstyle.css%2$s"
+
+#~ msgid ""
+#~ "Enable the %1$sstyle.css%2$s located in the theme's root folder. You can "
+#~ "then edit that file from %3$sAppearance -> Edit%4$s to add any custom "
+#~ "CSS. You would also need to enable this option if you want to use a "
+#~ "%5$schild theme%6$s."
+#~ msgstr ""
+#~ "Aktiviere die  %1$sstyle.css%2$s im Ordner des Themes.  Du kannst diese "
+#~ "Datei unter %3$sDesign -> Editieren%4$s bearbeiten. Für die Benutzung "
+#~ "eines %5$sChild Themes%6$s muss diese Option aktiv sein."
+
+#~ msgid ""
+#~ "For Background color  %1$sTop Area Background %2$s%3$s  will be used."
+#~ msgstr ""
+#~ "Für Hintergrundfarben wird %1$s Top Hintergrund %2$s%3$s  verwendet."
+
+#~ msgid ""
+#~ "Note: If you wish to remove the border line under the top navigation "
+#~ "menu, the option for that is located under: %1$s General Options %2$s "
+#~ "Border Under the Menu %3$s"
+#~ msgstr ""
+#~ "Wichtig: Wenn Du die Linie unter der Navigation entfernen willst, findest "
+#~ "Du die Option dafür unter %1$s Allgemeine Einstellungen %2$s Rahmen unter "
+#~ "dem Menü %3$s"
+
+#~ msgid ""
+#~ "The display of the slide object moving down the z axis (1 to 179). It "
+#~ "appears to change size quickly and moves a great distance. %1$sMore info"
+#~ "%2$s"
+#~ msgstr ""
+#~ "The display of the slide object moving down the z axis (1 to 179). It "
+#~ "appears to change size quickly and moves a great distance. %1$sMore info"
+#~ "%2$s"
+
+#~ msgid "Sharpness of the tooltip text (-400 to 400). %1$sMore info%2$s"
+#~ msgstr "Sharpness of the tooltip text (-400 to 400). %1$sMore info%2$s"
+
+#~ msgid "Thickness of the tooltip text (-400 to 400). %1$sMore info%2$s"
+#~ msgstr "Thickness of the tooltip text (-400 to 400). %1$sMore info%2$s"
+
+#~ msgid "The button is activated only if a <strong>Link</strong> is provided."
+#~ msgstr ""
+#~ "The button is activated only if a <strong>Link</strong> is provided."
+
+#~ msgid ""
+#~ "The following text: \"Written by: Author Name\" will be added to the "
+#~ "postmetadata box. The author's name will be displayed as specified under "
+#~ "%1$sUsers -> Your Profile%2$s <strong>Display name publicly as</strong> "
+#~ "field and linking to the URL specified under the <strong>Website</strong> "
+#~ "field."
+#~ msgstr ""
+#~ "The following text: \"Written by: Author Name\" will be added to the "
+#~ "postmetadata box. The author's name will be displayed as specified under "
+#~ "%1$sUsers -> Your Profile%2$s <strong>Display name publicly as</strong> "
+#~ "field and linking to the URL specified under the <strong>Website</strong> "
+#~ "field."
+
+#~ msgid ""
+#~ "The Business Contact Fields provide a way to better display additional "
+#~ "contact information such as Company Name, Address, Phone, etc. An example "
+#~ "of a Field pair could be <strong>Telephone: (123) 123-4567</strong>, "
+#~ "where you would enter the \"<strong>Telephone:</strong>\" part in the "
+#~ "first field and \"<strong>(123) 123-4567</strong>\" in the second (under "
+#~ "the same \"Line #\") respectively."
+#~ msgstr ""
+#~ "The Business Contact Fields provide a way to better display additional "
+#~ "contact information such as Company Name, Address, Phone, etc. An example "
+#~ "of a Field pair could be <strong>Telephone: (123) 123-4567</strong>, "
+#~ "where you would enter the \"<strong>Telephone:</strong>\" part in the "
+#~ "first field and \"<strong>(123) 123-4567</strong>\" in the second (under "
+#~ "the same \"Line #\") respectively."
+
+#~ msgid "Permanent Link to"
+#~ msgstr "Permalink u"
+
+#~ msgid "Post Thumbnail"
+#~ msgstr "Artikelbild"
+
+#~ msgid "Permanent Link to, 'udesign'"
+#~ msgstr "Permalink zu, 'udesign'"

@@ -1,0 +1,70 @@
+@charset "utf-8";
+/*-----------------------------------------------------------------------------
+Matrix Responsive WordPress Theme - Theme Colour
+-------------------------------------------------------------------------------
+Version : 1.1
+Date : 15 / 11 / 2012
+Author : Billy Foo
+-----------------------------------------------------------------------------*/
+a,
+.toggle-button:hover,
+.ac-tab:hover,
+ul#port-filter li,
+ul#port-filter li:hover,
+.about-person:hover,
+.price-pre,
+.price-post,
+.hl-txt1,
+.hl-txt2,
+.widget #tweeter li a,
+#wp-calendar td#today:hover a{color:#8cbe29;
+}
+.themecolortxt,
+span.dark-themecolor:hover,
+#pg-content .about-person:hover h3{
+	color:#8cbe29 !important;
+}
+ul#nav li.back,
+ul#nav > li li,
+.hl1,
+.hl3,
+#content-title,
+.title-highlight,
+#content .toggle-content,
+.flex-control-paging li a:hover,
+.flex-control-paging li a.flex-active,
+.page,
+.home-pagination,
+.nextpagelink,
+.table-info ul li{
+	border-color:#8cbe29;
+}
+.break,
+ul#nav li.current-menu-item > a,
+ul#nav li.current-post-ancestor > a,
+ul#nav li.current-matrix_portfolio-ancestor > a,
+ul#nav li li a,ul#nav:hover > li:hover > a,
+.hl2,
+.themecolor,
+.quote-bg1,
+.testimonial-1,
+.toggle-button,
+.ac-tab,
+.flexslider,
+.flex-title,
+.flex-control-paging li a,
+.jp-play-bar,
+.jp-volume-bar-value,
+.pagination .current,
+.post-pagination > .page-numbers,
+ul#port-filter li.filter-current,
+.table-title,
+.widget h5,
+#search-field:focus,
+#search-submit:hover,
+#post-meta .tile-sidebar,
+.sidebreak,
+span.dark-themecolor,
+#wp-calendar td#today{
+	background-color:#8cbe29;
+}

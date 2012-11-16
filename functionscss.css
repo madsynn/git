@@ -1,0 +1,20 @@
+.matrix_media_input{
+	width:100%;
+}
+#matrix_embed .row{
+	display:block;
+}
+#matrix_embed #embed_width,
+#matrix_embed #embed_height,
+#post_hyperlink{
+	width:130px;
+}
+#matrix_embed #embed_width_label,
+#matrix_embed #embed_height_label,
+#post_hyperlink_label{
+	display:inline-block;
+	width:55px;
+}
+.upload-preview img{
+	max-width:400px;
+}

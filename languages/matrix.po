@@ -1,0 +1,1436 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Matrix WordPress V1\n"
+"POT-Creation-Date: 2012-11-15 14:28+0800\n"
+"PO-Revision-Date: 2012-11-15 14:29+0800\n"
+"Last-Translator: \n"
+"Language-Team: Billy Foo <billy.foo@outlook.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../Matrix/404.php:12 ../Matrix-Light/404.php:12
+msgid ""
+"Sorry, but the page is not found here. Perhaps you can try using the search "
+"box to search for it."
+msgstr ""
+
+#: ../Matrix/archive.php:14 ../Matrix/archive.php:16 ../Matrix/archive.php:18
+#: ../Matrix-Light/archive.php:14 ../Matrix-Light/archive.php:16
+#: ../Matrix-Light/archive.php:18
+#, php-format
+msgid "Archives - %s"
+msgstr ""
+
+#: ../Matrix/archive.php:20 ../Matrix-Light/archive.php:20
+msgid "Archives"
+msgstr ""
+
+#: ../Matrix/archive.php:41 ../Matrix-Light/archive.php:41
+msgid "Sorry, no results were found for the requested archive."
+msgstr ""
+
+#: ../Matrix/author.php:14 ../Matrix-Light/author.php:14
+#, php-format
+msgid "Author : %s"
+msgstr ""
+
+#: ../Matrix/author.php:39 ../Matrix-Light/author.php:39
+msgid "Sorry, this author has not posted anything yet."
+msgstr ""
+
+#: ../Matrix/category.php:26 ../Matrix-Light/category.php:26
+msgid "Sorry, no results were found for the requested category."
+msgstr ""
+
+#: ../Matrix/comments.php:4 ../Matrix-Light/comments.php:4
+msgid "Password Required"
+msgstr ""
+
+#: ../Matrix/comments.php:5 ../Matrix-Light/comments.php:5
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: ../Matrix/comments.php:20 ../Matrix-Light/comments.php:20
+#, php-format
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../Matrix/comments.php:32 ../Matrix-Light/comments.php:32
+msgid "&laquo; Older Comments"
+msgstr ""
+
+#: ../Matrix/comments.php:33 ../Matrix-Light/comments.php:33
+msgid "Newer Comments &raquo;"
+msgstr ""
+
+#: ../Matrix/comments.php:43 ../Matrix-Light/comments.php:43
+msgid "Comments are closed."
+msgstr ""
+
+#: ../Matrix/comments.php:48 ../Matrix-Light/comments.php:48
+msgid "No Comments"
+msgstr ""
+
+#: ../Matrix/comments.php:57 ../Matrix-Light/comments.php:57
+msgid "Your email address will not be published."
+msgstr ""
+
+#: ../Matrix/comments.php:58 ../Matrix-Light/comments.php:58
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../Matrix/comments.php:59 ../Matrix-Light/comments.php:59
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: ../Matrix/comments.php:60 ../Matrix-Light/comments.php:60
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#: ../Matrix/comments.php:61 ../Matrix-Light/comments.php:61
+msgid "Your comment"
+msgstr ""
+
+#: ../Matrix/comments.php:63 ../Matrix-Light/comments.php:63
+msgid "Name"
+msgstr ""
+
+#: ../Matrix/comments.php:64 ../Matrix-Light/comments.php:64
+msgid "Email"
+msgstr ""
+
+#: ../Matrix/comments.php:65 ../Matrix-Light/comments.php:65
+msgid "Website"
+msgstr ""
+
+#: ../Matrix/content-portfolio.php:89 ../Matrix-Light/content-portfolio.php:89
+msgid "Client"
+msgstr ""
+
+#: ../Matrix/content-portfolio.php:102
+#: ../Matrix-Light/content-portfolio.php:102
+msgid "Date"
+msgstr ""
+
+#: ../Matrix/content-single.php:71 ../Matrix-Light/content-single.php:71
+msgid "Written by "
+msgstr ""
+
+#: ../Matrix/functions.php:59 ../Matrix-Light/functions.php:59
+msgid "Header Menu"
+msgstr ""
+
+#: ../Matrix/functions.php:76 ../Matrix-Light/functions.php:76
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../Matrix/functions.php:78 ../Matrix-Light/functions.php:78
+msgid "Sidebar located at the right of Blog / Portfolio pages"
+msgstr ""
+
+#: ../Matrix/functions.php:105 ../Matrix-Light/functions.php:105
+msgid "The most recent posts on your site, displayed in 'Matrix' style"
+msgstr ""
+
+#: ../Matrix/functions.php:106 ../Matrix-Light/functions.php:106
+msgid "Matrix Latest Posts"
+msgstr ""
+
+#: ../Matrix/functions.php:128 ../Matrix-Light/functions.php:128
+msgid "Latest Articles"
+msgstr ""
+
+#: ../Matrix/functions.php:244 ../Matrix-Light/functions.php:244
+msgid "Title:"
+msgstr ""
+
+#: ../Matrix/functions.php:247 ../Matrix-Light/functions.php:247
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../Matrix/functions.php:257 ../Matrix-Light/functions.php:257
+msgid "Get latest tweets"
+msgstr ""
+
+#: ../Matrix/functions.php:258 ../Matrix-Light/functions.php:258
+msgid "Matrix Twitter Widget"
+msgstr ""
+
+#: ../Matrix/functions.php:263 ../Matrix-Light/functions.php:263
+msgid "Latest Tweets"
+msgstr ""
+
+#: ../Matrix/functions.php:268 ../Matrix-Light/functions.php:268
+msgid "Title : "
+msgstr ""
+
+#: ../Matrix/functions.php:270 ../Matrix-Light/functions.php:270
+msgid "Username : "
+msgstr ""
+
+#: ../Matrix/functions.php:272 ../Matrix-Light/functions.php:272
+msgid "Number of Tweets : "
+msgstr ""
+
+#: ../Matrix/functions.php:326 ../Matrix-Light/functions.php:326
+msgid "Please enter a username"
+msgstr ""
+
+#: ../Matrix/functions.php:329 ../Matrix-Light/functions.php:329
+msgid "Please enter number of tweets"
+msgstr ""
+
+#: ../Matrix/functions.php:528 ../Matrix-Light/functions.php:528
+msgid "Lightbox"
+msgstr ""
+
+#: ../Matrix/functions.php:532 ../Matrix-Light/functions.php:532
+msgid "Enable lightbox"
+msgstr ""
+
+#: ../Matrix/functions.php:537 ../Matrix-Light/functions.php:537
+msgid "Tile size"
+msgstr ""
+
+#: ../Matrix/functions.php:540
+#: ../Matrix/admin/functions/functions.options.php:99
+#: ../Matrix-Light/functions.php:540
+#: ../Matrix-Light/admin/functions/functions.options.php:99
+msgid "Small"
+msgstr ""
+
+#: ../Matrix/functions.php:548
+#: ../Matrix/admin/functions/functions.options.php:100
+#: ../Matrix-Light/functions.php:548
+#: ../Matrix-Light/admin/functions/functions.options.php:100
+msgid "Medium"
+msgstr ""
+
+#: ../Matrix/functions.php:556
+#: ../Matrix/admin/functions/functions.options.php:101
+#: ../Matrix-Light/functions.php:556
+#: ../Matrix-Light/admin/functions/functions.options.php:101
+msgid "Large"
+msgstr ""
+
+#: ../Matrix/functions.php:561 ../Matrix-Light/functions.php:561
+msgid "Date Display"
+msgstr ""
+
+#: ../Matrix/functions.php:565 ../Matrix-Light/functions.php:565
+msgid "Show date on tile"
+msgstr ""
+
+#: ../Matrix/functions.php:571 ../Matrix/functions.php:577
+#: ../Matrix-Light/functions.php:571 ../Matrix-Light/functions.php:577
+msgid "Tile Animation"
+msgstr ""
+
+#: ../Matrix/functions.php:572 ../Matrix-Light/functions.php:572
+msgid "Settings for the animation of this tile"
+msgstr ""
+
+#: ../Matrix/functions.php:581 ../Matrix-Light/functions.php:581
+msgid "Enable tile animation"
+msgstr ""
+
+#: ../Matrix/functions.php:604 ../Matrix-Light/functions.php:604
+msgid "Mode of animation"
+msgstr ""
+
+#: ../Matrix/functions.php:608 ../Matrix-Light/functions.php:608
+msgid "Slide"
+msgstr ""
+
+#: ../Matrix/functions.php:609 ../Matrix-Light/functions.php:609
+msgid "Flip"
+msgstr ""
+
+#: ../Matrix/functions.php:615 ../Matrix-Light/functions.php:615
+msgid "Direction of animation"
+msgstr ""
+
+#: ../Matrix/functions.php:619 ../Matrix-Light/functions.php:619
+msgid "Horizontal"
+msgstr ""
+
+#: ../Matrix/functions.php:620 ../Matrix-Light/functions.php:620
+msgid "Vertical"
+msgstr ""
+
+#: ../Matrix/functions.php:626 ../Matrix-Light/functions.php:626
+msgid "Speed of animation (millisecond)"
+msgstr ""
+
+#: ../Matrix/functions.php:634 ../Matrix-Light/functions.php:634
+msgid "Data delay (millisecond)"
+msgstr ""
+
+#: ../Matrix/functions.php:642 ../Matrix-Light/functions.php:642
+msgid "Data stops (percentage)"
+msgstr ""
+
+#: ../Matrix/functions.php:650 ../Matrix-Light/functions.php:650
+msgid "Tile Image Stacking"
+msgstr ""
+
+#: ../Matrix/functions.php:654 ../Matrix-Light/functions.php:654
+msgid "Make tile move synchronously"
+msgstr ""
+
+#: ../Matrix/functions.php:661 ../Matrix-Light/functions.php:661
+msgid "Tile Display"
+msgstr ""
+
+#: ../Matrix/functions.php:662 ../Matrix-Light/functions.php:662
+msgid ""
+"Only upload front image if tile is not animated. Click <strong>Insert into "
+"Post</strong> after uploading."
+msgstr ""
+
+#: ../Matrix/functions.php:695 ../Matrix-Light/functions.php:695
+msgid "Front Image"
+msgstr ""
+
+#: ../Matrix/functions.php:698 ../Matrix/functions.php:714
+#: ../Matrix/functions.php:791 ../Matrix/functions.php:808
+#: ../Matrix/functions.php:894 ../Matrix/functions.php:1024
+#: ../Matrix/admin/classes/class.options_machine.php:568
+#: ../Matrix/social-bartender/settings.php:46
+#: ../Matrix-Light/functions.php:698 ../Matrix-Light/functions.php:714
+#: ../Matrix-Light/functions.php:791 ../Matrix-Light/functions.php:808
+#: ../Matrix-Light/functions.php:894 ../Matrix-Light/functions.php:1024
+#: ../Matrix-Light/admin/classes/class.options_machine.php:568
+#: ../Matrix-Light/social-bartender/settings.php:46
+msgid "Upload"
+msgstr ""
+
+#: ../Matrix/functions.php:711 ../Matrix-Light/functions.php:711
+msgid "Back Image"
+msgstr ""
+
+#: ../Matrix/functions.php:727 ../Matrix-Light/functions.php:727
+msgid ""
+"Or use options below if you don't have a tile image. These settings won't be "
+"applied if there is a tile image assigned above."
+msgstr ""
+
+#: ../Matrix/functions.php:732 ../Matrix/functions.php:985
+#: ../Matrix-Light/functions.php:732 ../Matrix-Light/functions.php:985
+msgid "Choose a colour"
+msgstr ""
+
+#: ../Matrix/functions.php:736 ../Matrix/functions.php:989
+#: ../Matrix/admin/functions/functions.options.php:141
+#: ../Matrix-Light/functions.php:736 ../Matrix-Light/functions.php:989
+#: ../Matrix-Light/admin/functions/functions.options.php:141
+msgid "Theme Colour"
+msgstr ""
+
+#: ../Matrix/functions.php:737 ../Matrix/functions.php:990
+#: ../Matrix-Light/functions.php:737 ../Matrix-Light/functions.php:990
+msgid "Blue"
+msgstr ""
+
+#: ../Matrix/functions.php:738 ../Matrix/functions.php:991
+#: ../Matrix-Light/functions.php:738 ../Matrix-Light/functions.php:991
+msgid "Brown"
+msgstr ""
+
+#: ../Matrix/functions.php:739 ../Matrix/functions.php:992
+#: ../Matrix-Light/functions.php:739 ../Matrix-Light/functions.php:992
+msgid "Green"
+msgstr ""
+
+#: ../Matrix/functions.php:740 ../Matrix/functions.php:993
+#: ../Matrix-Light/functions.php:740 ../Matrix-Light/functions.php:993
+msgid "Lime"
+msgstr ""
+
+#: ../Matrix/functions.php:741 ../Matrix/functions.php:994
+#: ../Matrix-Light/functions.php:741 ../Matrix-Light/functions.php:994
+msgid "Magenta"
+msgstr ""
+
+#: ../Matrix/functions.php:742 ../Matrix/functions.php:995
+#: ../Matrix-Light/functions.php:742 ../Matrix-Light/functions.php:995
+msgid "Mango"
+msgstr ""
+
+#: ../Matrix/functions.php:743 ../Matrix/functions.php:996
+#: ../Matrix-Light/functions.php:743 ../Matrix-Light/functions.php:996
+msgid "Pink"
+msgstr ""
+
+#: ../Matrix/functions.php:744 ../Matrix/functions.php:997
+#: ../Matrix-Light/functions.php:744 ../Matrix-Light/functions.php:997
+msgid "Purple"
+msgstr ""
+
+#: ../Matrix/functions.php:745 ../Matrix/functions.php:998
+#: ../Matrix-Light/functions.php:745 ../Matrix-Light/functions.php:998
+msgid "Red"
+msgstr ""
+
+#: ../Matrix/functions.php:746 ../Matrix/functions.php:999
+#: ../Matrix-Light/functions.php:746 ../Matrix-Light/functions.php:999
+msgid "Teal"
+msgstr ""
+
+#: ../Matrix/functions.php:752 ../Matrix/functions.php:1005
+#: ../Matrix-Light/functions.php:752 ../Matrix-Light/functions.php:1005
+msgid "Colour picker"
+msgstr ""
+
+#: ../Matrix/functions.php:756 ../Matrix/functions.php:1009
+#: ../Matrix-Light/functions.php:756 ../Matrix-Light/functions.php:1009
+msgid "Use value from colour picker : "
+msgstr ""
+
+#: ../Matrix/functions.php:763 ../Matrix-Light/functions.php:763
+msgid "Choose an icon (optional)"
+msgstr ""
+
+#: ../Matrix/functions.php:767 ../Matrix-Light/functions.php:767
+msgid "Use icon"
+msgstr ""
+
+#: ../Matrix/functions.php:769 ../Matrix-Light/functions.php:769
+msgid "Dark Quote"
+msgstr ""
+
+#: ../Matrix/functions.php:770 ../Matrix-Light/functions.php:770
+msgid "White Quote"
+msgstr ""
+
+#: ../Matrix/functions.php:771 ../Matrix-Light/functions.php:771
+msgid "Video"
+msgstr ""
+
+#: ../Matrix/functions.php:772 ../Matrix/functions.php:1040
+#: ../Matrix-Light/functions.php:772 ../Matrix-Light/functions.php:1040
+msgid "Hyperlink"
+msgstr ""
+
+#: ../Matrix/functions.php:773 ../Matrix-Light/functions.php:773
+msgid "Password"
+msgstr ""
+
+#: ../Matrix/functions.php:780 ../Matrix-Light/functions.php:780
+msgid "Thumbnail Image for Archive"
+msgstr ""
+
+#: ../Matrix/functions.php:781 ../Matrix-Light/functions.php:781
+msgid ""
+"This image is used at the archives as the thumbnail. Please upload the "
+"correct thumbnail size for the tile type set in the theme settings page. "
+"Note that you may need to reupload all thumbnails when you change the tile "
+"type for archive in order to have them displayed correctly."
+msgstr ""
+
+#: ../Matrix/functions.php:782 ../Matrix-Light/functions.php:782
+msgid "Current tile type : "
+msgstr ""
+
+#: ../Matrix/functions.php:788 ../Matrix-Light/functions.php:788
+msgid "List Image"
+msgstr ""
+
+#: ../Matrix/functions.php:805 ../Matrix-Light/functions.php:805
+msgid "Tile Image"
+msgstr ""
+
+#: ../Matrix/functions.php:830 ../Matrix-Light/functions.php:830
+msgid "Upload images for slider"
+msgstr ""
+
+#: ../Matrix/functions.php:831 ../Matrix-Light/functions.php:831
+msgid ""
+"Note : If a featured image is set, only the featured image is displayed. The "
+"slider will be disabled."
+msgstr ""
+
+#: ../Matrix/functions.php:842 ../Matrix-Light/functions.php:842
+msgid "Upload Slider Images"
+msgstr ""
+
+#: ../Matrix/functions.php:843 ../Matrix-Light/functions.php:843
+msgid "Images displayed at this post's slider :"
+msgstr ""
+
+#: ../Matrix/functions.php:891 ../Matrix-Light/functions.php:891
+msgid "Full-size Image"
+msgstr ""
+
+#: ../Matrix/functions.php:907 ../Matrix-Light/functions.php:907
+msgid "Date of item"
+msgstr ""
+
+#: ../Matrix/functions.php:915 ../Matrix-Light/functions.php:915
+msgid "Client Name"
+msgstr ""
+
+#: ../Matrix/functions.php:923 ../Matrix-Light/functions.php:923
+msgid "Client Website (optional)"
+msgstr ""
+
+#: ../Matrix/functions.php:979 ../Matrix-Light/functions.php:979
+msgid "Post's Colour"
+msgstr ""
+
+#: ../Matrix/functions.php:980 ../Matrix-Light/functions.php:980
+msgid ""
+"Used as the colour for the post's category and date on the tile, and in its "
+"single page."
+msgstr ""
+
+#: ../Matrix/functions.php:1017 ../Matrix-Light/functions.php:1017
+msgid "Embed"
+msgstr ""
+
+#: ../Matrix/functions.php:1018 ../Matrix-Light/functions.php:1018
+msgid ""
+"These fields support iframe embedding, these video formats: ogv, m4v and "
+"these audio formats: oga, ogg, mp3."
+msgstr ""
+
+#: ../Matrix/functions.php:1019 ../Matrix-Light/functions.php:1019
+msgid ""
+"Enter the url to be embedded into the field below. It will be displayed at "
+"the top of the post when the post format is <strong>Audio</strong> or "
+"<strong>Video</strong>."
+msgstr ""
+
+#: ../Matrix/functions.php:1021 ../Matrix-Light/functions.php:1021
+msgid ""
+"If you are using your own audio / video, you may wish to use an alternative "
+"file format for maximum browser support."
+msgstr ""
+
+#: ../Matrix/functions.php:1023 ../Matrix-Light/functions.php:1023
+msgid "Upload a poster image for your own video"
+msgstr ""
+
+#: ../Matrix/functions.php:1026 ../Matrix-Light/functions.php:1026
+msgid "Enter the size of the video to override the default 16:9 ratio."
+msgstr ""
+
+#: ../Matrix/functions.php:1028 ../Matrix-Light/functions.php:1028
+msgid "Width"
+msgstr ""
+
+#: ../Matrix/functions.php:1033 ../Matrix-Light/functions.php:1033
+msgid "Height"
+msgstr ""
+
+#: ../Matrix/functions.php:1041 ../Matrix-Light/functions.php:1041
+msgid ""
+"When the post format is set to <strong>Link</strong>, users will be "
+"redirected to the link entered in the field below when they click on the "
+"tile."
+msgstr ""
+
+#: ../Matrix/functions.php:1042 ../Matrix/social-bartender/settings.php:33
+#: ../Matrix/social-bartender/settings.php:107
+#: ../Matrix-Light/functions.php:1042
+#: ../Matrix-Light/social-bartender/settings.php:33
+#: ../Matrix-Light/social-bartender/settings.php:107
+msgid "Link"
+msgstr ""
+
+#: ../Matrix/functions.php:1053 ../Matrix-Light/functions.php:1053
+msgid ""
+"Use this button to upload images if you do not want these images to be added "
+"into the slider / gallery"
+msgstr ""
+
+#: ../Matrix/functions.php:1064 ../Matrix-Light/functions.php:1064
+msgid "Upload Custom Images"
+msgstr ""
+
+#: ../Matrix/functions.php:1065 ../Matrix-Light/functions.php:1065
+msgid ""
+"To use these images in the post, copy and paste the 'Link URL' of each image "
+"into the corresponding field in WordPress's media uploader."
+msgstr ""
+
+#: ../Matrix/functions.php:1566 ../Matrix-Light/functions.php:1566
+msgid "Portfolios"
+msgstr ""
+
+#: ../Matrix/functions.php:1567 ../Matrix/single.php:12
+#: ../Matrix-Light/functions.php:1567 ../Matrix-Light/single.php:12
+msgid "Portfolio"
+msgstr ""
+
+#: ../Matrix/functions.php:1597 ../Matrix-Light/functions.php:1597
+#, php-format
+msgid "Portfolio updated. <a href=\"%s\">View item</a>"
+msgstr ""
+
+#: ../Matrix/functions.php:1598 ../Matrix-Light/functions.php:1598
+msgid "Custom field updated."
+msgstr ""
+
+#: ../Matrix/functions.php:1599 ../Matrix-Light/functions.php:1599
+msgid "Custom field deleted."
+msgstr ""
+
+#: ../Matrix/functions.php:1600 ../Matrix-Light/functions.php:1600
+msgid "Portfolio updated."
+msgstr ""
+
+#: ../Matrix/functions.php:1602 ../Matrix-Light/functions.php:1602
+#, php-format
+msgid "Portfolio restored to revision from %s"
+msgstr ""
+
+#: ../Matrix/functions.php:1603 ../Matrix-Light/functions.php:1603
+#, php-format
+msgid "Portfolio published. <a href=\"%s\">View item</a>"
+msgstr ""
+
+#: ../Matrix/functions.php:1604 ../Matrix-Light/functions.php:1604
+msgid "Portfolio saved."
+msgstr ""
+
+#: ../Matrix/functions.php:1605 ../Matrix-Light/functions.php:1605
+#, php-format
+msgid "Portfolio submitted. <a target=\"_blank\" href=\"%s\">Preview item</a>"
+msgstr ""
+
+#: ../Matrix/functions.php:1606 ../Matrix-Light/functions.php:1606
+#, php-format
+msgid ""
+"Portfolio scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview item</a>"
+msgstr ""
+
+#: ../Matrix/functions.php:1608 ../Matrix-Light/functions.php:1608
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ../Matrix/functions.php:1609 ../Matrix-Light/functions.php:1609
+#, php-format
+msgid ""
+"Portfolio draft updated. <a target=\"_blank\" href=\"%s\">Preview item</a>"
+msgstr ""
+
+#: ../Matrix/functions.php:2048 ../Matrix/functions.php:2050
+#: ../Matrix-Light/functions.php:2048 ../Matrix-Light/functions.php:2050
+#, php-format
+msgid "<cite class=\"fn commenter\">%s</cite>"
+msgstr ""
+
+#: ../Matrix/functions.php:2056 ../Matrix-Light/functions.php:2056
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../Matrix/functions.php:2063 ../Matrix-Light/functions.php:2063
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../Matrix/functions.php:2063 ../Matrix-Light/functions.php:2063
+msgid "(Edit)"
+msgstr ""
+
+#: ../Matrix/functions.php:2106 ../Matrix-Light/functions.php:2106
+msgid ""
+"This post is password protected. To view it please enter your password below:"
+msgstr ""
+
+#: ../Matrix/functions.php:2107 ../Matrix-Light/functions.php:2107
+msgid "PASSWORD:"
+msgstr ""
+
+#: ../Matrix/header.php:23 ../Matrix-Light/header.php:23
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../Matrix/index-fixed.php:64 ../Matrix/index.php:63
+#: ../Matrix-Light/index-fixed.php:64 ../Matrix-Light/index.php:63
+msgid "Nothing Found"
+msgstr ""
+
+#: ../Matrix/index-fixed.php:68 ../Matrix/index.php:67
+#: ../Matrix-Light/index-fixed.php:68 ../Matrix-Light/index.php:67
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+#: ../Matrix/search.php:26 ../Matrix-Light/search.php:26
+msgid " Results for "
+msgstr ""
+
+#: ../Matrix/search.php:45 ../Matrix-Light/search.php:45
+msgid "Sorry, no results were found for the requested query."
+msgstr ""
+
+#: ../Matrix/single.php:12 ../Matrix-Light/single.php:12
+msgid "Blog"
+msgstr ""
+
+#: ../Matrix/tag.php:14 ../Matrix-Light/tag.php:14
+msgid "Tag : "
+msgstr ""
+
+#: ../Matrix/tag.php:34 ../Matrix-Light/tag.php:34
+msgid "Sorry, no results were found for the requested tag."
+msgstr ""
+
+#: ../Matrix/admin/classes/class.options_machine.php:508
+#: ../Matrix-Light/admin/classes/class.options_machine.php:508
+msgid "Last Backup : "
+msgstr ""
+
+#: ../Matrix/admin/front-end/options.php:43
+#: ../Matrix/admin/front-end/options.php:67
+#: ../Matrix-Light/admin/front-end/options.php:43
+#: ../Matrix-Light/admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr ""
+
+#: ../Matrix/admin/front-end/options.php:68
+#: ../Matrix-Light/admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.mediauploader.php:20
+#: ../Matrix-Light/admin/functions/functions.mediauploader.php:20
+msgid "Options"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.mediauploader.php:210
+#: ../Matrix-Light/admin/functions/functions.mediauploader.php:210
+msgid "Gallery"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.mediauploader.php:210
+#: ../Matrix-Light/admin/functions/functions.mediauploader.php:210
+msgid "Previously Uploaded"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:98
+#: ../Matrix-Light/admin/functions/functions.options.php:98
+msgid "List"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:117
+#: ../Matrix-Light/admin/functions/functions.options.php:117
+msgid "General Settings"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:120
+#: ../Matrix-Light/admin/functions/functions.options.php:120
+msgid "Hello there!"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:123
+#: ../Matrix-Light/admin/functions/functions.options.php:123
+msgid ""
+"<h3 style=\"margin: 0 0 10px;\">Thank you for purchasing Matrix WordPress "
+"Theme!</h3>\n"
+"\t\t\t\t\tEach setting is accompanied by a clear description of what it "
+"does. If there is something you are not clear, or you have any questions "
+"which has not been covered in the documentation, please contact me at <a "
+"href='http://themeforest.net/user/billyf'>ThemeForest</a> or send an email "
+"to me using the address given in the documentation file."
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:128
+#: ../Matrix-Light/admin/functions/functions.options.php:128
+msgid "Logo"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:129
+#: ../Matrix-Light/admin/functions/functions.options.php:129
+msgid "Upload your website's logo here to be displayed at the header."
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:135
+#: ../Matrix-Light/admin/functions/functions.options.php:135
+msgid "Custom Favicon"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:136
+#: ../Matrix-Light/admin/functions/functions.options.php:136
+msgid ""
+"Upload a 16px x 16px .png or .gif image which will be used as your website's "
+"favicon."
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:142
+#: ../Matrix-Light/admin/functions/functions.options.php:142
+msgid "Choose the main colour for the theme."
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:149
+#: ../Matrix-Light/admin/functions/functions.options.php:149
+msgid "Or pick the main colour for the theme."
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:155
+#: ../Matrix-Light/admin/functions/functions.options.php:155
+msgid ""
+"Check this to use the picked colour. If unchecked, the selected colour in "
+"the drop-down list will be used."
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:161
+#: ../Matrix-Light/admin/functions/functions.options.php:161
+msgid "Background Image"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:162
+#: ../Matrix-Light/admin/functions/functions.options.php:162
+msgid "Upload a background image"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:167
+#: ../Matrix-Light/admin/functions/functions.options.php:167
+msgid "Background Pattern"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:168
+#: ../Matrix-Light/admin/functions/functions.options.php:168
+msgid ""
+"Used to dim the background. Particularly useful when you are using a bright "
+"background."
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:173
+#: ../Matrix-Light/admin/functions/functions.options.php:173
+msgid "Background Colour"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:174
+#: ../Matrix-Light/admin/functions/functions.options.php:174
+msgid ""
+"Pick a background colour for the theme. This colour will be shown when there "
+"is no background image."
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:186
+#: ../Matrix-Light/admin/functions/functions.options.php:186
+msgid "Footer Text"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:187
+#: ../Matrix-Light/admin/functions/functions.options.php:187
+msgid "Text to be displayed at the website footer."
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:189
+#: ../Matrix-Light/admin/functions/functions.options.php:189
+msgid "Copyright &#169; 2012 Matrix"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:192
+#: ../Matrix-Light/admin/functions/functions.options.php:192
+msgid "Tracking Code"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:193
+#: ../Matrix-Light/admin/functions/functions.options.php:193
+msgid ""
+"Paste your Google Analytics (or other) tracking code here. This will be "
+"added into the footer template of your theme."
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:198
+#: ../Matrix-Light/admin/functions/functions.options.php:198
+msgid "Home Settings"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:201
+#: ../Matrix-Light/admin/functions/functions.options.php:201
+msgid "Slider Options"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:202
+#: ../Matrix-Light/admin/functions/functions.options.php:202
+msgid ""
+"Unlimited slider with drag and drop sortings. This will be shown at the "
+"homepage"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:208
+#: ../Matrix-Light/admin/functions/functions.options.php:208
+msgid ""
+"Check this to use a toggle for slider. If it is unchecked, the slider will "
+"be displayed all the time."
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:213
+#: ../Matrix/admin/functions/functions.options.php:298
+#: ../Matrix-Light/admin/functions/functions.options.php:213
+#: ../Matrix-Light/admin/functions/functions.options.php:298
+msgid "Highlighted Text"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:214
+#: ../Matrix-Light/admin/functions/functions.options.php:214
+msgid "Text to be displayed below the slider."
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:216
+#: ../Matrix-Light/admin/functions/functions.options.php:216
+msgid ""
+"Hello! This is a Metro UI-inspired template which brings a new web-browsing "
+"experience to the users. To further improve it, feedbacks are greatly "
+"welcomed!"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:219
+#: ../Matrix-Light/admin/functions/functions.options.php:219
+msgid "Featured Content"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:220
+#: ../Matrix-Light/admin/functions/functions.options.php:220
+msgid ""
+"This will be shown below the tiles at the main page. Similarly, it has drag "
+"and drop sortings."
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:226
+#: ../Matrix-Light/admin/functions/functions.options.php:226
+msgid ""
+"Check this to use a toggle for featured content. If it is unchecked, the "
+"featured content will be shown all the time."
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:231
+#: ../Matrix-Light/admin/functions/functions.options.php:231
+msgid "AJAX Pagination"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:232
+#: ../Matrix-Light/admin/functions/functions.options.php:232
+msgid ""
+"Enables AJAX pagination at front page. Note that this feature has been "
+"disabled in IE8 due to incompatibility. Besides, all audio / video uploaded "
+"by yourself will not work using AJAX as Javascript will not run in newly "
+"acquired content via AJAX. So, you should use iframe content from services "
+"such as YouTube or Vimeo if you want to use this feature."
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:238
+#: ../Matrix-Light/admin/functions/functions.options.php:238
+msgid "Contact Page"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:241
+#: ../Matrix/admin/functions/functions.options.php:292
+#: ../Matrix-Light/admin/functions/functions.options.php:241
+#: ../Matrix-Light/admin/functions/functions.options.php:292
+msgid "Page Image"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:242
+#: ../Matrix/admin/functions/functions.options.php:293
+#: ../Matrix-Light/admin/functions/functions.options.php:242
+#: ../Matrix-Light/admin/functions/functions.options.php:293
+msgid "Upload a page image to be displayed at the top."
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:247
+#: ../Matrix-Light/admin/functions/functions.options.php:247
+msgid "Contact 1 City"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:248
+#: ../Matrix-Light/admin/functions/functions.options.php:248
+msgid "Enter the city for contact 1."
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:250
+#: ../Matrix/admin/functions/functions.options.php:268
+#: ../Matrix-Light/admin/functions/functions.options.php:250
+#: ../Matrix-Light/admin/functions/functions.options.php:268
+msgid "City"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:253
+#: ../Matrix-Light/admin/functions/functions.options.php:253
+msgid "Contact 1 Address"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:254
+#: ../Matrix-Light/admin/functions/functions.options.php:254
+msgid ""
+"Enter the address for contact 1. Insert &#60;br /&#62; to start trailing "
+"texts on a new line."
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:256
+#: ../Matrix/admin/functions/functions.options.php:274
+#: ../Matrix-Light/admin/functions/functions.options.php:256
+#: ../Matrix-Light/admin/functions/functions.options.php:274
+msgid "Lot<br />Street<br />Postcode<br />Country<br />"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:259
+#: ../Matrix-Light/admin/functions/functions.options.php:259
+msgid "Contact 1 Location (optional)"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:260
+#: ../Matrix/admin/functions/functions.options.php:278
+#: ../Matrix-Light/admin/functions/functions.options.php:260
+#: ../Matrix-Light/admin/functions/functions.options.php:278
+msgid "Enter the link to the location map, such as Google Maps or Bing Maps."
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:265
+#: ../Matrix-Light/admin/functions/functions.options.php:265
+msgid "Contact 2 City"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:266
+#: ../Matrix-Light/admin/functions/functions.options.php:266
+msgid "Enter the city for contact 2."
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:271
+#: ../Matrix-Light/admin/functions/functions.options.php:271
+msgid "Contact 2 Address"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:272
+#: ../Matrix-Light/admin/functions/functions.options.php:272
+msgid ""
+"Enter the address for contact 2. Insert &#60;br /&#62; to start trailing "
+"texts on a new line."
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:277
+#: ../Matrix-Light/admin/functions/functions.options.php:277
+msgid "Contact 2 Location (optional)"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:283
+#: ../Matrix-Light/admin/functions/functions.options.php:283
+msgid "Contact Number"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:284
+#: ../Matrix-Light/admin/functions/functions.options.php:284
+msgid ""
+"Insert your contact numbers here. Use &#60;br /&#62; to start trailing texts "
+"on a new line."
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:286
+#: ../Matrix-Light/admin/functions/functions.options.php:286
+msgid ""
+"Headquarters : +123-456-7890<br/>London : +123-456-7890<br/>New York : "
+"+123-456-7890"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:289
+#: ../Matrix-Light/admin/functions/functions.options.php:289
+msgid "About Page"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:299
+#: ../Matrix-Light/admin/functions/functions.options.php:299
+msgid ""
+"The content inserted here will be displayed on the page image at the top. "
+"You may use HTML tags here."
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:301
+#: ../Matrix-Light/admin/functions/functions.options.php:301
+msgid ""
+"We are dedicated to provide the <span class='themecolortxt'>best</span> "
+"service in the industry to our clients. With experience of more than a "
+"decade in this industry, we are your most reliable partner for your upcoming "
+"project."
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:304
+#: ../Matrix-Light/admin/functions/functions.options.php:304
+msgid "Title for Key Personnel Section"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:305
+#: ../Matrix/admin/functions/functions.options.php:323
+#: ../Matrix-Light/admin/functions/functions.options.php:305
+#: ../Matrix-Light/admin/functions/functions.options.php:323
+msgid "Enter the title here."
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:307
+#: ../Matrix-Light/admin/functions/functions.options.php:307
+msgid "The Team"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:310
+#: ../Matrix-Light/admin/functions/functions.options.php:310
+msgid "Tagline for Key Personnel Section"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:311
+#: ../Matrix/admin/functions/functions.options.php:329
+#: ../Matrix-Light/admin/functions/functions.options.php:311
+#: ../Matrix-Light/admin/functions/functions.options.php:329
+msgid "Enter the tagline here. This area supports HTML tags."
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:313
+#: ../Matrix-Light/admin/functions/functions.options.php:313
+msgid "Some text here."
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:316
+#: ../Matrix-Light/admin/functions/functions.options.php:316
+msgid "Company Workers"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:317
+#: ../Matrix-Light/admin/functions/functions.options.php:317
+msgid ""
+"You can show some company workers at the About page, with their respective "
+"photographs and job title"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:322
+#: ../Matrix-Light/admin/functions/functions.options.php:322
+msgid "Title for Testimonial Section"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:325
+#: ../Matrix/admin/functions/functions.options.php:334
+#: ../Matrix-Light/admin/functions/functions.options.php:325
+#: ../Matrix-Light/admin/functions/functions.options.php:334
+msgid "Testimonials"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:328
+#: ../Matrix-Light/admin/functions/functions.options.php:328
+msgid "Tagline for Testimonial Section"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:331
+#: ../Matrix-Light/admin/functions/functions.options.php:331
+msgid "Our awesome clients <span class='whitetxt'>love us</span>"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:335
+#: ../Matrix-Light/admin/functions/functions.options.php:335
+msgid "You can show some testimonials at the About page."
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:340
+#: ../Matrix-Light/admin/functions/functions.options.php:340
+msgid "Social Network"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:343
+#: ../Matrix-Light/admin/functions/functions.options.php:343
+msgid "Footer"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:346
+#: ../Matrix-Light/admin/functions/functions.options.php:346
+msgid ""
+"To choose the social icons to be displayed at the site's footer, please go "
+"to <strong>Settings > Social Bartender</strong>."
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:349
+#: ../Matrix-Light/admin/functions/functions.options.php:349
+msgid "Custom Style"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:352
+#: ../Matrix-Light/admin/functions/functions.options.php:352
+msgid "Custom CSS"
+msgstr ""
+
+#: ../Matrix/admin/functions/functions.options.php:353
+#: ../Matrix-Light/admin/functions/functions.options.php:353
+msgid "Enter some custom CSS here to override the default style."
+msgstr ""
+
+#: ../Matrix/social-bartender/help.php:15
+#: ../Matrix/social-bartender/help.php:99
+#: ../Matrix/social-bartender/help.php:146
+#: ../Matrix-Light/social-bartender/help.php:15
+#: ../Matrix-Light/social-bartender/help.php:99
+#: ../Matrix-Light/social-bartender/help.php:146
+msgid "Help"
+msgstr ""
+
+#: ../Matrix/social-bartender/help.php:17
+#: ../Matrix/social-bartender/help.php:101
+#: ../Matrix-Light/social-bartender/help.php:17
+#: ../Matrix-Light/social-bartender/help.php:101
+msgid "Including the list of links in your theme"
+msgstr ""
+
+#: ../Matrix/social-bartender/help.php:19
+#: ../Matrix/social-bartender/help.php:103
+#: ../Matrix-Light/social-bartender/help.php:19
+#: ../Matrix-Light/social-bartender/help.php:103
+msgid ""
+"To include the list of links in your theme, you need to place the following "
+"PHP function in the location where you want the links to appear:"
+msgstr ""
+
+#: ../Matrix/social-bartender/help.php:23
+#: ../Matrix/social-bartender/help.php:133
+#: ../Matrix-Light/social-bartender/help.php:23
+#: ../Matrix-Light/social-bartender/help.php:133
+msgid "Theme Developers"
+msgstr ""
+
+#: ../Matrix/social-bartender/help.php:25
+#: ../Matrix/social-bartender/help.php:135
+#: ../Matrix-Light/social-bartender/help.php:25
+#: ../Matrix-Light/social-bartender/help.php:135
+msgid ""
+"If you would like to make your own icon set available to users in the Icon "
+"Box, just place the images inside of an \"images/sb-icons\" folder of your "
+"theme."
+msgstr ""
+
+#: ../Matrix/social-bartender/help.php:27
+#: ../Matrix-Light/social-bartender/help.php:27
+msgid "Credits"
+msgstr ""
+
+#: ../Matrix/social-bartender/help.php:29
+#: ../Matrix/social-bartender/help.php:141
+#: ../Matrix-Light/social-bartender/help.php:29
+#: ../Matrix-Light/social-bartender/help.php:141
+msgid "Contributors:"
+msgstr ""
+
+#: ../Matrix/social-bartender/help.php:33
+#: ../Matrix-Light/social-bartender/help.php:33
+msgid "Overview"
+msgstr ""
+
+#: ../Matrix/social-bartender/help.php:39
+#: ../Matrix/social-bartender/help.php:51
+#: ../Matrix/social-bartender/help.php:109
+#: ../Matrix-Light/social-bartender/help.php:39
+#: ../Matrix-Light/social-bartender/help.php:51
+#: ../Matrix-Light/social-bartender/help.php:109
+msgid "Parameters"
+msgstr ""
+
+#: ../Matrix/social-bartender/help.php:41
+#: ../Matrix/social-bartender/help.php:111
+#: ../Matrix-Light/social-bartender/help.php:41
+#: ../Matrix-Light/social-bartender/help.php:111
+msgid ""
+"(string) Sets the text or html that precedes the &lt;a&gt; tag. Default = ' '"
+msgstr ""
+
+#: ../Matrix/social-bartender/help.php:43
+#: ../Matrix/social-bartender/help.php:113
+#: ../Matrix-Light/social-bartender/help.php:43
+#: ../Matrix-Light/social-bartender/help.php:113
+msgid ""
+"(string) Sets the text or html that follows the &lt;a&gt; tag. Default = ' '"
+msgstr ""
+
+#: ../Matrix/social-bartender/help.php:45
+#: ../Matrix/social-bartender/help.php:115
+#: ../Matrix-Light/social-bartender/help.php:45
+#: ../Matrix-Light/social-bartender/help.php:115
+msgid ""
+"(boolean) Toggles the display of the generated list of links or return the "
+"list as an HTML text string to be used in PHP. Default = 1"
+msgstr ""
+
+#: ../Matrix/social-bartender/help.php:57
+#: ../Matrix/social-bartender/help.php:71
+#: ../Matrix/social-bartender/help.php:119
+#: ../Matrix-Light/social-bartender/help.php:57
+#: ../Matrix-Light/social-bartender/help.php:71
+#: ../Matrix-Light/social-bartender/help.php:119
+msgid "Example Output"
+msgstr ""
+
+#: ../Matrix/social-bartender/help.php:59
+#: ../Matrix/social-bartender/help.php:121
+#: ../Matrix-Light/social-bartender/help.php:59
+#: ../Matrix-Light/social-bartender/help.php:121
+msgid ""
+"Using the default settings, the <code>social_bartender()</code> function "
+"would output the following:"
+msgstr ""
+
+#: ../Matrix/social-bartender/help.php:76
+#: ../Matrix-Light/social-bartender/help.php:76
+msgid "For more information:"
+msgstr ""
+
+#: ../Matrix/social-bartender/help.php:77
+#: ../Matrix-Light/social-bartender/help.php:77
+msgid ""
+"<a href=\"https://github.com/sawyerh/social-bartender\" target=\"_blank"
+"\">Contribute on Github</a>"
+msgstr ""
+
+#: ../Matrix/social-bartender/help.php:78
+#: ../Matrix-Light/social-bartender/help.php:78
+msgid "<a href=\"http://shakenandstirredweb.com\">Shaken and Stirred Web</a>"
+msgstr ""
+
+#: ../Matrix/social-bartender/help.php:79
+#: ../Matrix-Light/social-bartender/help.php:79
+msgid ""
+"<a href=\"http://onlythefunctions.com\" target=\"_blank\">Only the "
+"Functions</a>"
+msgstr ""
+
+#: ../Matrix/social-bartender/help.php:83
+#: ../Matrix-Light/social-bartender/help.php:83
+msgid "Plugin Info"
+msgstr ""
+
+#: ../Matrix/social-bartender/help.php:137
+#: ../Matrix-Light/social-bartender/help.php:137
+msgid "Credits / Support"
+msgstr ""
+
+#: ../Matrix/social-bartender/help.php:139
+#: ../Matrix-Light/social-bartender/help.php:139
+msgid "The Social Bartender plugin was created by"
+msgstr ""
+
+#: ../Matrix/social-bartender/help.php:139
+#: ../Matrix-Light/social-bartender/help.php:139
+msgid ""
+"If you find any bugs, have feature requests, or would like to contribute, "
+"please visit the plugin's <a href=\"https://github.com/sawyerh/social-"
+"bartender\">GitHub page</a>."
+msgstr ""
+
+#: ../Matrix/social-bartender/settings.php:7
+#: ../Matrix-Light/social-bartender/settings.php:7
+msgid "Insufficient permissions"
+msgstr ""
+
+#: ../Matrix/social-bartender/settings.php:27
+#: ../Matrix-Light/social-bartender/settings.php:27
+msgid "Create New Item"
+msgstr ""
+
+#: ../Matrix/social-bartender/settings.php:38
+#: ../Matrix/social-bartender/settings.php:108
+#: ../Matrix-Light/social-bartender/settings.php:38
+#: ../Matrix-Light/social-bartender/settings.php:108
+msgid "Title"
+msgstr ""
+
+#: ../Matrix/social-bartender/settings.php:43
+#: ../Matrix/social-bartender/settings.php:106
+#: ../Matrix-Light/social-bartender/settings.php:43
+#: ../Matrix-Light/social-bartender/settings.php:106
+msgid "Icon"
+msgstr ""
+
+#: ../Matrix/social-bartender/settings.php:51
+#: ../Matrix-Light/social-bartender/settings.php:51
+msgid "Create Item"
+msgstr ""
+
+#: ../Matrix/social-bartender/settings.php:61
+#: ../Matrix-Light/social-bartender/settings.php:61
+msgid "Icon Bucket"
+msgstr ""
+
+#: ../Matrix/social-bartender/settings.php:86
+#: ../Matrix-Light/social-bartender/settings.php:86
+msgid "Select an icon above and its URL will be automatically entered for you."
+msgstr ""
+
+#: ../Matrix/social-bartender/settings.php:145
+#: ../Matrix-Light/social-bartender/settings.php:145
+msgid "Display the titles instead of images"
+msgstr ""
+
+#: ../Matrix/social-bartender/settings.php:157
+#: ../Matrix-Light/social-bartender/settings.php:157
+msgid "You don't have any items in your bar, why not create some?"
+msgstr ""
+
+#: ../Matrix/social-bartender/settings.php:201
+#: ../Matrix-Light/social-bartender/settings.php:201
+msgid "Item added"
+msgstr ""
+
+#: ../Matrix/social-bartender/settings.php:250
+#: ../Matrix-Light/social-bartender/settings.php:250
+msgid "Items updated"
+msgstr ""
+
+#: ../Matrix/social-bartender/widget.php:25
+#: ../Matrix-Light/social-bartender/widget.php:25
+msgid "Set up Social Bartender"
+msgstr ""
+
+#: ../Matrix/social-bartender/widget.php:25
+#: ../Matrix-Light/social-bartender/widget.php:25
+msgid "here."
+msgstr ""
+
+#: ../Matrix/social-bartender/widget.php:28
+#: ../Matrix-Light/social-bartender/widget.php:28
+msgid "Title (optional):"
+msgstr ""
+
+#~ msgid "Epic 404 - Article Not Found"
+#~ msgstr "错误404 - 无法找到此文章"
+
+#~ msgid ""
+#~ "The article you were looking for was not found, but maybe try looking "
+#~ "again!"
+#~ msgstr "您要找的文章无法被找到，或许您可再尝试寻找。"
+
+#~ msgid "This is the 404.php template."
+#~ msgstr "这是404.php的模板"
+
+#~ msgid "Posted"
+#~ msgstr "张贴"
+
+#~ msgid "&laquo; Older Entries"
+#~ msgstr "&laquo; 旧的项目"
+
+#~ msgid "Newer Entries &raquo;"
+#~ msgstr "新的项目 &raquo;"
+
+#~ msgid "Oops, Post Not Found!"
+#~ msgstr "哎呀，无法找到此文章"
+
+#~ msgid "Uh Oh. Something is missing. Try double checking things."
+#~ msgstr "哎呀，还欠缺某些东西。请再三检查所有事项。"
+
+#~ msgid "This is the error message in the custom posty type archive template."
+#~ msgstr "这是自制档案的错误显示讯息"
